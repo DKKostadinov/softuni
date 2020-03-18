@@ -1,0 +1,5 @@
+P:\Projects\softUni\VS\Nested Loops-Exercise\Sum Prime Non Prime\bin\Debug\Sum Prime Non Prime.exe.config
+P:\Projects\softUni\VS\Nested Loops-Exercise\Sum Prime Non Prime\bin\Debug\Sum Prime Non Prime.exe
+P:\Projects\softUni\VS\Nested Loops-Exercise\Sum Prime Non Prime\bin\Debug\Sum Prime Non Prime.pdb
+P:\Projects\softUni\VS\Nested Loops-Exercise\Sum Prime Non Prime\obj\Debug\Sum Prime Non Prime.exe
+P:\Projects\softUni\VS\Nested Loops-Exercise\Sum Prime Non Prime\obj\Debug\Sum Prime Non Prime.pdb

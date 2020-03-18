@@ -1,0 +1,5 @@
+P:\Projects\softUni\VS\Programming Basics Online Exam\Bachelor Party\bin\Debug\Bachelor Party.exe.config
+P:\Projects\softUni\VS\Programming Basics Online Exam\Bachelor Party\bin\Debug\Bachelor Party.exe
+P:\Projects\softUni\VS\Programming Basics Online Exam\Bachelor Party\bin\Debug\Bachelor Party.pdb
+P:\Projects\softUni\VS\Programming Basics Online Exam\Bachelor Party\obj\Debug\Bachelor Party.exe
+P:\Projects\softUni\VS\Programming Basics Online Exam\Bachelor Party\obj\Debug\Bachelor Party.pdb

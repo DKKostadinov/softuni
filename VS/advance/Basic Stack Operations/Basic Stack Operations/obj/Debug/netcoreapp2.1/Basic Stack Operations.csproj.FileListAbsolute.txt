@@ -1,0 +1,11 @@
+P:\softuni materials\advance\Basic Stack Operations\Basic Stack Operations\bin\Debug\netcoreapp2.1\Basic Stack Operations.deps.json
+P:\softuni materials\advance\Basic Stack Operations\Basic Stack Operations\bin\Debug\netcoreapp2.1\Basic Stack Operations.runtimeconfig.json
+P:\softuni materials\advance\Basic Stack Operations\Basic Stack Operations\bin\Debug\netcoreapp2.1\Basic Stack Operations.runtimeconfig.dev.json
+P:\softuni materials\advance\Basic Stack Operations\Basic Stack Operations\bin\Debug\netcoreapp2.1\Basic Stack Operations.dll
+P:\softuni materials\advance\Basic Stack Operations\Basic Stack Operations\bin\Debug\netcoreapp2.1\Basic Stack Operations.pdb
+P:\softuni materials\advance\Basic Stack Operations\Basic Stack Operations\obj\Debug\netcoreapp2.1\Basic Stack Operations.csprojAssemblyReference.cache
+P:\softuni materials\advance\Basic Stack Operations\Basic Stack Operations\obj\Debug\netcoreapp2.1\Basic Stack Operations.csproj.CoreCompileInputs.cache
+P:\softuni materials\advance\Basic Stack Operations\Basic Stack Operations\obj\Debug\netcoreapp2.1\Basic Stack Operations.AssemblyInfoInputs.cache
+P:\softuni materials\advance\Basic Stack Operations\Basic Stack Operations\obj\Debug\netcoreapp2.1\Basic Stack Operations.AssemblyInfo.cs
+P:\softuni materials\advance\Basic Stack Operations\Basic Stack Operations\obj\Debug\netcoreapp2.1\Basic Stack Operations.dll
+P:\softuni materials\advance\Basic Stack Operations\Basic Stack Operations\obj\Debug\netcoreapp2.1\Basic Stack Operations.pdb

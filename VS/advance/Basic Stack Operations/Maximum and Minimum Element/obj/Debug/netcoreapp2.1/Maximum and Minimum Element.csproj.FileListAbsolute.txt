@@ -1,0 +1,11 @@
+P:\softuni materials\advance\Basic Stack Operations\Maximum and Minimum Element\bin\Debug\netcoreapp2.1\Maximum and Minimum Element.deps.json
+P:\softuni materials\advance\Basic Stack Operations\Maximum and Minimum Element\bin\Debug\netcoreapp2.1\Maximum and Minimum Element.runtimeconfig.json
+P:\softuni materials\advance\Basic Stack Operations\Maximum and Minimum Element\bin\Debug\netcoreapp2.1\Maximum and Minimum Element.runtimeconfig.dev.json
+P:\softuni materials\advance\Basic Stack Operations\Maximum and Minimum Element\bin\Debug\netcoreapp2.1\Maximum and Minimum Element.dll
+P:\softuni materials\advance\Basic Stack Operations\Maximum and Minimum Element\bin\Debug\netcoreapp2.1\Maximum and Minimum Element.pdb
+P:\softuni materials\advance\Basic Stack Operations\Maximum and Minimum Element\obj\Debug\netcoreapp2.1\Maximum and Minimum Element.csprojAssemblyReference.cache
+P:\softuni materials\advance\Basic Stack Operations\Maximum and Minimum Element\obj\Debug\netcoreapp2.1\Maximum and Minimum Element.csproj.CoreCompileInputs.cache
+P:\softuni materials\advance\Basic Stack Operations\Maximum and Minimum Element\obj\Debug\netcoreapp2.1\Maximum and Minimum Element.AssemblyInfoInputs.cache
+P:\softuni materials\advance\Basic Stack Operations\Maximum and Minimum Element\obj\Debug\netcoreapp2.1\Maximum and Minimum Element.AssemblyInfo.cs
+P:\softuni materials\advance\Basic Stack Operations\Maximum and Minimum Element\obj\Debug\netcoreapp2.1\Maximum and Minimum Element.dll
+P:\softuni materials\advance\Basic Stack Operations\Maximum and Minimum Element\obj\Debug\netcoreapp2.1\Maximum and Minimum Element.pdb

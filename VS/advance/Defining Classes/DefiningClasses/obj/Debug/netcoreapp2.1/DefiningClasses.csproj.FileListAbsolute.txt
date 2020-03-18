@@ -1,0 +1,11 @@
+P:\softuni materials\advance\Defining Classes\DefiningClasses\bin\Debug\netcoreapp2.1\DefiningClasses.deps.json
+P:\softuni materials\advance\Defining Classes\DefiningClasses\bin\Debug\netcoreapp2.1\DefiningClasses.runtimeconfig.json
+P:\softuni materials\advance\Defining Classes\DefiningClasses\bin\Debug\netcoreapp2.1\DefiningClasses.runtimeconfig.dev.json
+P:\softuni materials\advance\Defining Classes\DefiningClasses\bin\Debug\netcoreapp2.1\DefiningClasses.dll
+P:\softuni materials\advance\Defining Classes\DefiningClasses\bin\Debug\netcoreapp2.1\DefiningClasses.pdb
+P:\softuni materials\advance\Defining Classes\DefiningClasses\obj\Debug\netcoreapp2.1\DefiningClasses.csprojAssemblyReference.cache
+P:\softuni materials\advance\Defining Classes\DefiningClasses\obj\Debug\netcoreapp2.1\DefiningClasses.csproj.CoreCompileInputs.cache
+P:\softuni materials\advance\Defining Classes\DefiningClasses\obj\Debug\netcoreapp2.1\DefiningClasses.AssemblyInfoInputs.cache
+P:\softuni materials\advance\Defining Classes\DefiningClasses\obj\Debug\netcoreapp2.1\DefiningClasses.AssemblyInfo.cs
+P:\softuni materials\advance\Defining Classes\DefiningClasses\obj\Debug\netcoreapp2.1\DefiningClasses.dll
+P:\softuni materials\advance\Defining Classes\DefiningClasses\obj\Debug\netcoreapp2.1\DefiningClasses.pdb

@@ -1,0 +1,5 @@
+P:\Projects\softUni\VS\U4-while\Coins\bin\Debug\Coins.exe.config
+P:\Projects\softUni\VS\U4-while\Coins\bin\Debug\Coins.exe
+P:\Projects\softUni\VS\U4-while\Coins\bin\Debug\Coins.pdb
+P:\Projects\softUni\VS\U4-while\Coins\obj\Debug\Coins.exe
+P:\Projects\softUni\VS\U4-while\Coins\obj\Debug\Coins.pdb

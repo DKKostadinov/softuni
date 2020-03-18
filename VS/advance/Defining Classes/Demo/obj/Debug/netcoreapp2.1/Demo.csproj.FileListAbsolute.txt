@@ -1,0 +1,10 @@
+P:\softuni materials\advance\Defining Classes\Demo\bin\Debug\netcoreapp2.1\Demo.deps.json
+P:\softuni materials\advance\Defining Classes\Demo\bin\Debug\netcoreapp2.1\Demo.runtimeconfig.json
+P:\softuni materials\advance\Defining Classes\Demo\bin\Debug\netcoreapp2.1\Demo.runtimeconfig.dev.json
+P:\softuni materials\advance\Defining Classes\Demo\bin\Debug\netcoreapp2.1\Demo.dll
+P:\softuni materials\advance\Defining Classes\Demo\bin\Debug\netcoreapp2.1\Demo.pdb
+P:\softuni materials\advance\Defining Classes\Demo\obj\Debug\netcoreapp2.1\Demo.csproj.CoreCompileInputs.cache
+P:\softuni materials\advance\Defining Classes\Demo\obj\Debug\netcoreapp2.1\Demo.AssemblyInfoInputs.cache
+P:\softuni materials\advance\Defining Classes\Demo\obj\Debug\netcoreapp2.1\Demo.AssemblyInfo.cs
+P:\softuni materials\advance\Defining Classes\Demo\obj\Debug\netcoreapp2.1\Demo.dll
+P:\softuni materials\advance\Defining Classes\Demo\obj\Debug\netcoreapp2.1\Demo.pdb

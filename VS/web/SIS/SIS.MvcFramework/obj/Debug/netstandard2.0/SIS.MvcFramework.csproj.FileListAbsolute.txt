@@ -1,0 +1,11 @@
+P:\Projects\softUni\VS\web\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.deps.json
+P:\Projects\softUni\VS\web\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.dll
+P:\Projects\softUni\VS\web\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.pdb
+P:\Projects\softUni\VS\web\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.HTTP.dll
+P:\Projects\softUni\VS\web\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.HTTP.pdb
+P:\Projects\softUni\VS\web\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csprojAssemblyReference.cache
+P:\Projects\softUni\VS\web\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfoInputs.cache
+P:\Projects\softUni\VS\web\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfo.cs
+P:\Projects\softUni\VS\web\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csproj.CopyComplete
+P:\Projects\softUni\VS\web\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.dll
+P:\Projects\softUni\VS\web\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.pdb

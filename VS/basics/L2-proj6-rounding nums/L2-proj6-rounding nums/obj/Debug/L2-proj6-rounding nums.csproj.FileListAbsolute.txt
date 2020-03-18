@@ -1,0 +1,5 @@
+P:\Projects\softUni\VS\L2-proj6-rounding nums\L2-proj6-rounding nums\bin\Debug\L2-proj6-rounding nums.exe.config
+P:\Projects\softUni\VS\L2-proj6-rounding nums\L2-proj6-rounding nums\bin\Debug\L2-proj6-rounding nums.exe
+P:\Projects\softUni\VS\L2-proj6-rounding nums\L2-proj6-rounding nums\bin\Debug\L2-proj6-rounding nums.pdb
+P:\Projects\softUni\VS\L2-proj6-rounding nums\L2-proj6-rounding nums\obj\Debug\L2-proj6-rounding nums.exe
+P:\Projects\softUni\VS\L2-proj6-rounding nums\L2-proj6-rounding nums\obj\Debug\L2-proj6-rounding nums.pdb

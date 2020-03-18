@@ -1,0 +1,5 @@
+P:\Projects\softUni\VS\Programming Basics Online Exam\Wedding Seats\bin\Debug\Wedding Seats.exe.config
+P:\Projects\softUni\VS\Programming Basics Online Exam\Wedding Seats\bin\Debug\Wedding Seats.exe
+P:\Projects\softUni\VS\Programming Basics Online Exam\Wedding Seats\bin\Debug\Wedding Seats.pdb
+P:\Projects\softUni\VS\Programming Basics Online Exam\Wedding Seats\obj\Debug\Wedding Seats.exe
+P:\Projects\softUni\VS\Programming Basics Online Exam\Wedding Seats\obj\Debug\Wedding Seats.pdb

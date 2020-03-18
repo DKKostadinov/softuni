@@ -1,0 +1,6 @@
+P:\Projects\softUni\VS\Nested Loops-Exercise\Party Invitation\bin\Debug\Party Invitation.exe.config
+P:\Projects\softUni\VS\Nested Loops-Exercise\Party Invitation\bin\Debug\Party Invitation.exe
+P:\Projects\softUni\VS\Nested Loops-Exercise\Party Invitation\bin\Debug\Party Invitation.pdb
+P:\Projects\softUni\VS\Nested Loops-Exercise\Party Invitation\obj\Debug\Party Invitation.csprojResolveAssemblyReference.cache
+P:\Projects\softUni\VS\Nested Loops-Exercise\Party Invitation\obj\Debug\Party Invitation.exe
+P:\Projects\softUni\VS\Nested Loops-Exercise\Party Invitation\obj\Debug\Party Invitation.pdb

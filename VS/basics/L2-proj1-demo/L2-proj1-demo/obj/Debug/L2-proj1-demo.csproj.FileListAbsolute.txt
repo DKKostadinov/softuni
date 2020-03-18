@@ -1,0 +1,6 @@
+P:\Projects\softUni\VS\L2-proj1-demo\L2-proj1-demo\bin\Debug\L2-proj1-demo.exe.config
+P:\Projects\softUni\VS\L2-proj1-demo\L2-proj1-demo\bin\Debug\L2-proj1-demo.exe
+P:\Projects\softUni\VS\L2-proj1-demo\L2-proj1-demo\bin\Debug\L2-proj1-demo.pdb
+P:\Projects\softUni\VS\L2-proj1-demo\L2-proj1-demo\obj\Debug\L2-proj1-demo.csprojResolveAssemblyReference.cache
+P:\Projects\softUni\VS\L2-proj1-demo\L2-proj1-demo\obj\Debug\L2-proj1-demo.exe
+P:\Projects\softUni\VS\L2-proj1-demo\L2-proj1-demo\obj\Debug\L2-proj1-demo.pdb

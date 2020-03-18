@@ -1,0 +1,6 @@
+P:\Projects\softUni\VS\U1-proj2-usdToBgn\U1-proj2-usdToBgn\bin\Debug\U1-proj2-usdToBgn.exe.config
+P:\Projects\softUni\VS\U1-proj2-usdToBgn\U1-proj2-usdToBgn\bin\Debug\U1-proj2-usdToBgn.exe
+P:\Projects\softUni\VS\U1-proj2-usdToBgn\U1-proj2-usdToBgn\bin\Debug\U1-proj2-usdToBgn.pdb
+P:\Projects\softUni\VS\U1-proj2-usdToBgn\U1-proj2-usdToBgn\obj\Debug\U1-proj2-usdToBgn.csprojResolveAssemblyReference.cache
+P:\Projects\softUni\VS\U1-proj2-usdToBgn\U1-proj2-usdToBgn\obj\Debug\U1-proj2-usdToBgn.exe
+P:\Projects\softUni\VS\U1-proj2-usdToBgn\U1-proj2-usdToBgn\obj\Debug\U1-proj2-usdToBgn.pdb

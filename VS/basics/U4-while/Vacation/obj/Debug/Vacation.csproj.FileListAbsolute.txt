@@ -1,0 +1,6 @@
+P:\Projects\softUni\VS\U4-while\Vacation\bin\Debug\Vacation.exe.config
+P:\Projects\softUni\VS\U4-while\Vacation\bin\Debug\Vacation.exe
+P:\Projects\softUni\VS\U4-while\Vacation\bin\Debug\Vacation.pdb
+P:\Projects\softUni\VS\U4-while\Vacation\obj\Debug\Vacation.csprojResolveAssemblyReference.cache
+P:\Projects\softUni\VS\U4-while\Vacation\obj\Debug\Vacation.exe
+P:\Projects\softUni\VS\U4-while\Vacation\obj\Debug\Vacation.pdb

@@ -1,0 +1,10 @@
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Vowels Count\bin\Debug\netcoreapp2.1\Vowels Count.deps.json
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Vowels Count\bin\Debug\netcoreapp2.1\Vowels Count.runtimeconfig.json
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Vowels Count\bin\Debug\netcoreapp2.1\Vowels Count.runtimeconfig.dev.json
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Vowels Count\bin\Debug\netcoreapp2.1\Vowels Count.dll
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Vowels Count\bin\Debug\netcoreapp2.1\Vowels Count.pdb
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Vowels Count\obj\Debug\netcoreapp2.1\Vowels Count.csproj.CoreCompileInputs.cache
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Vowels Count\obj\Debug\netcoreapp2.1\Vowels Count.AssemblyInfoInputs.cache
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Vowels Count\obj\Debug\netcoreapp2.1\Vowels Count.AssemblyInfo.cs
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Vowels Count\obj\Debug\netcoreapp2.1\Vowels Count.dll
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Vowels Count\obj\Debug\netcoreapp2.1\Vowels Count.pdb

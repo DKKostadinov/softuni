@@ -1,0 +1,10 @@
+P:\Projects\softUni\VS\Tech\Intro and Basic Syntax - Exercise\Vending Machine\bin\Debug\netcoreapp2.1\Vending Machine.deps.json
+P:\Projects\softUni\VS\Tech\Intro and Basic Syntax - Exercise\Vending Machine\bin\Debug\netcoreapp2.1\Vending Machine.runtimeconfig.json
+P:\Projects\softUni\VS\Tech\Intro and Basic Syntax - Exercise\Vending Machine\bin\Debug\netcoreapp2.1\Vending Machine.runtimeconfig.dev.json
+P:\Projects\softUni\VS\Tech\Intro and Basic Syntax - Exercise\Vending Machine\bin\Debug\netcoreapp2.1\Vending Machine.dll
+P:\Projects\softUni\VS\Tech\Intro and Basic Syntax - Exercise\Vending Machine\bin\Debug\netcoreapp2.1\Vending Machine.pdb
+P:\Projects\softUni\VS\Tech\Intro and Basic Syntax - Exercise\Vending Machine\obj\Debug\netcoreapp2.1\Vending Machine.csproj.CoreCompileInputs.cache
+P:\Projects\softUni\VS\Tech\Intro and Basic Syntax - Exercise\Vending Machine\obj\Debug\netcoreapp2.1\Vending Machine.AssemblyInfoInputs.cache
+P:\Projects\softUni\VS\Tech\Intro and Basic Syntax - Exercise\Vending Machine\obj\Debug\netcoreapp2.1\Vending Machine.AssemblyInfo.cs
+P:\Projects\softUni\VS\Tech\Intro and Basic Syntax - Exercise\Vending Machine\obj\Debug\netcoreapp2.1\Vending Machine.dll
+P:\Projects\softUni\VS\Tech\Intro and Basic Syntax - Exercise\Vending Machine\obj\Debug\netcoreapp2.1\Vending Machine.pdb

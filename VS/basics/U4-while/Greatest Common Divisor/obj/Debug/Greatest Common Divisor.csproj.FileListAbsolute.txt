@@ -1,0 +1,8 @@
+P:\Projects\softUni\VS\U4-while\Greatest Common Divisor\bin\Debug\Greatest Common Divisor.exe.config
+P:\Projects\softUni\VS\basics\U4-while\Greatest Common Divisor\bin\Debug\Greatest Common Divisor.exe.config
+P:\Projects\softUni\VS\basics\U4-while\Greatest Common Divisor\bin\Debug\Greatest Common Divisor.exe
+P:\Projects\softUni\VS\basics\U4-while\Greatest Common Divisor\bin\Debug\Greatest Common Divisor.pdb
+P:\Projects\softUni\VS\basics\U4-while\Greatest Common Divisor\obj\Debug\Greatest Common Divisor.csprojAssemblyReference.cache
+P:\Projects\softUni\VS\basics\U4-while\Greatest Common Divisor\obj\Debug\Greatest Common Divisor.csproj.CoreCompileInputs.cache
+P:\Projects\softUni\VS\basics\U4-while\Greatest Common Divisor\obj\Debug\Greatest Common Divisor.exe
+P:\Projects\softUni\VS\basics\U4-while\Greatest Common Divisor\obj\Debug\Greatest Common Divisor.pdb

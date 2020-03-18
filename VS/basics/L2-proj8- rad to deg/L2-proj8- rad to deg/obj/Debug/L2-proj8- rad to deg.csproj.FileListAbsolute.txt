@@ -1,0 +1,5 @@
+P:\Projects\softUni\VS\L2-proj8- rad to deg\L2-proj8- rad to deg\bin\Debug\L2-proj8- rad to deg.exe.config
+P:\Projects\softUni\VS\L2-proj8- rad to deg\L2-proj8- rad to deg\bin\Debug\L2-proj8- rad to deg.exe
+P:\Projects\softUni\VS\L2-proj8- rad to deg\L2-proj8- rad to deg\bin\Debug\L2-proj8- rad to deg.pdb
+P:\Projects\softUni\VS\L2-proj8- rad to deg\L2-proj8- rad to deg\obj\Debug\L2-proj8- rad to deg.exe
+P:\Projects\softUni\VS\L2-proj8- rad to deg\L2-proj8- rad to deg\obj\Debug\L2-proj8- rad to deg.pdb

@@ -1,0 +1,6 @@
+P:\Projects\softUni\VS\L3-ConditionalStatementsTasks\Excellent Result\bin\Debug\Excellent Result.exe.config
+P:\Projects\softUni\VS\L3-ConditionalStatementsTasks\Excellent Result\bin\Debug\Excellent Result.exe
+P:\Projects\softUni\VS\L3-ConditionalStatementsTasks\Excellent Result\bin\Debug\Excellent Result.pdb
+P:\Projects\softUni\VS\L3-ConditionalStatementsTasks\Excellent Result\obj\Debug\Excellent Result.csprojResolveAssemblyReference.cache
+P:\Projects\softUni\VS\L3-ConditionalStatementsTasks\Excellent Result\obj\Debug\Excellent Result.exe
+P:\Projects\softUni\VS\L3-ConditionalStatementsTasks\Excellent Result\obj\Debug\Excellent Result.pdb

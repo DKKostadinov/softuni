@@ -1,0 +1,6 @@
+P:\Projects\softUni\VS\Programming Basics Sample Exam - 28 October 2018\Sea Trip\bin\Debug\Sea Trip.exe.config
+P:\Projects\softUni\VS\Programming Basics Sample Exam - 28 October 2018\Sea Trip\bin\Debug\Sea Trip.exe
+P:\Projects\softUni\VS\Programming Basics Sample Exam - 28 October 2018\Sea Trip\bin\Debug\Sea Trip.pdb
+P:\Projects\softUni\VS\Programming Basics Sample Exam - 28 October 2018\Sea Trip\obj\Debug\Sea Trip.csprojResolveAssemblyReference.cache
+P:\Projects\softUni\VS\Programming Basics Sample Exam - 28 October 2018\Sea Trip\obj\Debug\Sea Trip.exe
+P:\Projects\softUni\VS\Programming Basics Sample Exam - 28 October 2018\Sea Trip\obj\Debug\Sea Trip.pdb

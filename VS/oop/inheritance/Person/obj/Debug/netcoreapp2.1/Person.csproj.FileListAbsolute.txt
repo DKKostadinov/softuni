@@ -1,0 +1,11 @@
+P:\Projects\softUni\VS\oop\inheritance\Person\obj\Debug\netcoreapp2.1\Person.csprojAssemblyReference.cache
+P:\Projects\softUni\VS\oop\inheritance\Person\obj\Debug\netcoreapp2.1\Person.csproj.CoreCompileInputs.cache
+P:\Projects\softUni\VS\oop\inheritance\Person\obj\Debug\netcoreapp2.1\Person.AssemblyInfoInputs.cache
+P:\Projects\softUni\VS\oop\inheritance\Person\obj\Debug\netcoreapp2.1\Person.AssemblyInfo.cs
+P:\Projects\softUni\VS\oop\inheritance\Person\bin\Debug\netcoreapp2.1\Person.deps.json
+P:\Projects\softUni\VS\oop\inheritance\Person\bin\Debug\netcoreapp2.1\Person.runtimeconfig.json
+P:\Projects\softUni\VS\oop\inheritance\Person\bin\Debug\netcoreapp2.1\Person.runtimeconfig.dev.json
+P:\Projects\softUni\VS\oop\inheritance\Person\bin\Debug\netcoreapp2.1\Person.dll
+P:\Projects\softUni\VS\oop\inheritance\Person\bin\Debug\netcoreapp2.1\Person.pdb
+P:\Projects\softUni\VS\oop\inheritance\Person\obj\Debug\netcoreapp2.1\Person.dll
+P:\Projects\softUni\VS\oop\inheritance\Person\obj\Debug\netcoreapp2.1\Person.pdb

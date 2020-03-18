@@ -1,0 +1,5 @@
+P:\Projects\softUni\VS\U4-while\Cake\bin\Debug\Cake.exe.config
+P:\Projects\softUni\VS\U4-while\Cake\bin\Debug\Cake.exe
+P:\Projects\softUni\VS\U4-while\Cake\bin\Debug\Cake.pdb
+P:\Projects\softUni\VS\U4-while\Cake\obj\Debug\Cake.exe
+P:\Projects\softUni\VS\U4-while\Cake\obj\Debug\Cake.pdb

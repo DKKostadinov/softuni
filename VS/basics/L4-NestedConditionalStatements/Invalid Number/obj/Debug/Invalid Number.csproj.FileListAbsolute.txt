@@ -1,0 +1,6 @@
+P:\Projects\softUni\VS\L4-NestedConditionalStatements\Invalid Number\bin\Debug\Invalid Number.exe.config
+P:\Projects\softUni\VS\L4-NestedConditionalStatements\Invalid Number\obj\Debug\Invalid Number.csprojResolveAssemblyReference.cache
+P:\Projects\softUni\VS\L4-NestedConditionalStatements\Invalid Number\bin\Debug\Invalid Number.exe
+P:\Projects\softUni\VS\L4-NestedConditionalStatements\Invalid Number\bin\Debug\Invalid Number.pdb
+P:\Projects\softUni\VS\L4-NestedConditionalStatements\Invalid Number\obj\Debug\Invalid Number.exe
+P:\Projects\softUni\VS\L4-NestedConditionalStatements\Invalid Number\obj\Debug\Invalid Number.pdb

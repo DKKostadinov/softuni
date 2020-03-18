@@ -1,0 +1,5 @@
+P:\Projects\softUni\VS\Nested Loops-Exercise\Special Numbers\bin\Debug\Special Numbers.exe.config
+P:\Projects\softUni\VS\Nested Loops-Exercise\Special Numbers\bin\Debug\Special Numbers.exe
+P:\Projects\softUni\VS\Nested Loops-Exercise\Special Numbers\bin\Debug\Special Numbers.pdb
+P:\Projects\softUni\VS\Nested Loops-Exercise\Special Numbers\obj\Debug\Special Numbers.exe
+P:\Projects\softUni\VS\Nested Loops-Exercise\Special Numbers\obj\Debug\Special Numbers.pdb

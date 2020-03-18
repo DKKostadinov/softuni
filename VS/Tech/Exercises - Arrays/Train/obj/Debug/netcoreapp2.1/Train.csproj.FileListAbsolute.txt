@@ -1,0 +1,11 @@
+C:\Users\Deydo\source\repos\Exercises - Arrays\Train\bin\Debug\netcoreapp2.1\Train.deps.json
+C:\Users\Deydo\source\repos\Exercises - Arrays\Train\bin\Debug\netcoreapp2.1\Train.runtimeconfig.json
+C:\Users\Deydo\source\repos\Exercises - Arrays\Train\bin\Debug\netcoreapp2.1\Train.runtimeconfig.dev.json
+C:\Users\Deydo\source\repos\Exercises - Arrays\Train\bin\Debug\netcoreapp2.1\Train.dll
+C:\Users\Deydo\source\repos\Exercises - Arrays\Train\bin\Debug\netcoreapp2.1\Train.pdb
+C:\Users\Deydo\source\repos\Exercises - Arrays\Train\obj\Debug\netcoreapp2.1\Train.csprojAssemblyReference.cache
+C:\Users\Deydo\source\repos\Exercises - Arrays\Train\obj\Debug\netcoreapp2.1\Train.csproj.CoreCompileInputs.cache
+C:\Users\Deydo\source\repos\Exercises - Arrays\Train\obj\Debug\netcoreapp2.1\Train.AssemblyInfoInputs.cache
+C:\Users\Deydo\source\repos\Exercises - Arrays\Train\obj\Debug\netcoreapp2.1\Train.AssemblyInfo.cs
+C:\Users\Deydo\source\repos\Exercises - Arrays\Train\obj\Debug\netcoreapp2.1\Train.dll
+C:\Users\Deydo\source\repos\Exercises - Arrays\Train\obj\Debug\netcoreapp2.1\Train.pdb

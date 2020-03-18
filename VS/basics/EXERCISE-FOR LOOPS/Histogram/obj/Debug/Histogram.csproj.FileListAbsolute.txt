@@ -1,0 +1,5 @@
+P:\Projects\softUni\VS\EXERCISE-FOR LOOPS\Histogram\bin\Debug\Histogram.exe.config
+P:\Projects\softUni\VS\EXERCISE-FOR LOOPS\Histogram\bin\Debug\Histogram.exe
+P:\Projects\softUni\VS\EXERCISE-FOR LOOPS\Histogram\bin\Debug\Histogram.pdb
+P:\Projects\softUni\VS\EXERCISE-FOR LOOPS\Histogram\obj\Debug\Histogram.exe
+P:\Projects\softUni\VS\EXERCISE-FOR LOOPS\Histogram\obj\Debug\Histogram.pdb

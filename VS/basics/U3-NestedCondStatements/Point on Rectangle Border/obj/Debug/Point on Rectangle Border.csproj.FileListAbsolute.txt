@@ -1,0 +1,2 @@
+P:\Projects\softUni\VS\U3-NestedCondStatements\Point on Rectangle Border\bin\Debug\Point on Rectangle Border.exe.config
+P:\Projects\softUni\VS\U3-NestedCondStatements\Point on Rectangle Border\obj\Debug\Point on Rectangle Border.csprojResolveAssemblyReference.cache

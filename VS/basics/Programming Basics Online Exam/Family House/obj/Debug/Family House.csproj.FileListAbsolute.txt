@@ -1,0 +1,5 @@
+P:\Projects\softUni\VS\Programming Basics Online Exam\Family House\bin\Debug\Family House.exe.config
+P:\Projects\softUni\VS\Programming Basics Online Exam\Family House\bin\Debug\Family House.exe
+P:\Projects\softUni\VS\Programming Basics Online Exam\Family House\bin\Debug\Family House.pdb
+P:\Projects\softUni\VS\Programming Basics Online Exam\Family House\obj\Debug\Family House.exe
+P:\Projects\softUni\VS\Programming Basics Online Exam\Family House\obj\Debug\Family House.pdb

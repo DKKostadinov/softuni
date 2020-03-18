@@ -1,0 +1,10 @@
+P:\Projects\softUni\VS\advance\Final Exam\ClassTask\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.deps.json
+P:\Projects\softUni\VS\advance\Final Exam\ClassTask\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.runtimeconfig.json
+P:\Projects\softUni\VS\advance\Final Exam\ClassTask\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.runtimeconfig.dev.json
+P:\Projects\softUni\VS\advance\Final Exam\ClassTask\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.dll
+P:\Projects\softUni\VS\advance\Final Exam\ClassTask\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.pdb
+P:\Projects\softUni\VS\advance\Final Exam\ClassTask\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.csproj.CoreCompileInputs.cache
+P:\Projects\softUni\VS\advance\Final Exam\ClassTask\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.AssemblyInfoInputs.cache
+P:\Projects\softUni\VS\advance\Final Exam\ClassTask\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.AssemblyInfo.cs
+P:\Projects\softUni\VS\advance\Final Exam\ClassTask\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.dll
+P:\Projects\softUni\VS\advance\Final Exam\ClassTask\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.pdb

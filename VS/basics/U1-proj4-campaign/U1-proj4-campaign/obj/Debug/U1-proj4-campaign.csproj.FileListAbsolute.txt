@@ -1,0 +1,5 @@
+P:\Projects\softUni\VS\U1-proj4-campaign\U1-proj4-campaign\bin\Debug\U1-proj4-campaign.exe.config
+P:\Projects\softUni\VS\U1-proj4-campaign\U1-proj4-campaign\bin\Debug\U1-proj4-campaign.exe
+P:\Projects\softUni\VS\U1-proj4-campaign\U1-proj4-campaign\bin\Debug\U1-proj4-campaign.pdb
+P:\Projects\softUni\VS\U1-proj4-campaign\U1-proj4-campaign\obj\Debug\U1-proj4-campaign.exe
+P:\Projects\softUni\VS\U1-proj4-campaign\U1-proj4-campaign\obj\Debug\U1-proj4-campaign.pdb

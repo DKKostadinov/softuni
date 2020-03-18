@@ -1,0 +1,5 @@
+P:\Projects\softUni\VS\EXERCISE-FOR LOOPS\Half Sum Element\bin\Debug\Half Sum Element.exe.config
+P:\Projects\softUni\VS\EXERCISE-FOR LOOPS\Half Sum Element\bin\Debug\Half Sum Element.exe
+P:\Projects\softUni\VS\EXERCISE-FOR LOOPS\Half Sum Element\bin\Debug\Half Sum Element.pdb
+P:\Projects\softUni\VS\EXERCISE-FOR LOOPS\Half Sum Element\obj\Debug\Half Sum Element.exe
+P:\Projects\softUni\VS\EXERCISE-FOR LOOPS\Half Sum Element\obj\Debug\Half Sum Element.pdb

@@ -1,0 +1,11 @@
+P:\Projects\softUni\VS\Tech\Tech Final Exam\Practice sessions\bin\Debug\netcoreapp2.1\Practice sessions.deps.json
+P:\Projects\softUni\VS\Tech\Tech Final Exam\Practice sessions\bin\Debug\netcoreapp2.1\Practice sessions.runtimeconfig.json
+P:\Projects\softUni\VS\Tech\Tech Final Exam\Practice sessions\bin\Debug\netcoreapp2.1\Practice sessions.runtimeconfig.dev.json
+P:\Projects\softUni\VS\Tech\Tech Final Exam\Practice sessions\bin\Debug\netcoreapp2.1\Practice sessions.dll
+P:\Projects\softUni\VS\Tech\Tech Final Exam\Practice sessions\bin\Debug\netcoreapp2.1\Practice sessions.pdb
+P:\Projects\softUni\VS\Tech\Tech Final Exam\Practice sessions\obj\Debug\netcoreapp2.1\Practice sessions.csprojAssemblyReference.cache
+P:\Projects\softUni\VS\Tech\Tech Final Exam\Practice sessions\obj\Debug\netcoreapp2.1\Practice sessions.csproj.CoreCompileInputs.cache
+P:\Projects\softUni\VS\Tech\Tech Final Exam\Practice sessions\obj\Debug\netcoreapp2.1\Practice sessions.AssemblyInfoInputs.cache
+P:\Projects\softUni\VS\Tech\Tech Final Exam\Practice sessions\obj\Debug\netcoreapp2.1\Practice sessions.AssemblyInfo.cs
+P:\Projects\softUni\VS\Tech\Tech Final Exam\Practice sessions\obj\Debug\netcoreapp2.1\Practice sessions.dll
+P:\Projects\softUni\VS\Tech\Tech Final Exam\Practice sessions\obj\Debug\netcoreapp2.1\Practice sessions.pdb

@@ -1,0 +1,5 @@
+P:\Projects\softUni\VS\Nested Loops-Exercise\Equal Sums Even Odd Position\bin\Debug\Equal Sums Even Odd Position.exe.config
+P:\Projects\softUni\VS\Nested Loops-Exercise\Equal Sums Even Odd Position\bin\Debug\Equal Sums Even Odd Position.exe
+P:\Projects\softUni\VS\Nested Loops-Exercise\Equal Sums Even Odd Position\bin\Debug\Equal Sums Even Odd Position.pdb
+P:\Projects\softUni\VS\Nested Loops-Exercise\Equal Sums Even Odd Position\obj\Debug\Equal Sums Even Odd Position.exe
+P:\Projects\softUni\VS\Nested Loops-Exercise\Equal Sums Even Odd Position\obj\Debug\Equal Sums Even Odd Position.pdb

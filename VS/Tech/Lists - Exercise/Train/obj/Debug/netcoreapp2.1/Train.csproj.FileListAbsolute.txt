@@ -1,0 +1,11 @@
+P:\Projects\softUni\VS\Tech\Lists - Exercise\Train\bin\Debug\netcoreapp2.1\Train.deps.json
+P:\Projects\softUni\VS\Tech\Lists - Exercise\Train\bin\Debug\netcoreapp2.1\Train.runtimeconfig.json
+P:\Projects\softUni\VS\Tech\Lists - Exercise\Train\bin\Debug\netcoreapp2.1\Train.runtimeconfig.dev.json
+P:\Projects\softUni\VS\Tech\Lists - Exercise\Train\bin\Debug\netcoreapp2.1\Train.dll
+P:\Projects\softUni\VS\Tech\Lists - Exercise\Train\bin\Debug\netcoreapp2.1\Train.pdb
+P:\Projects\softUni\VS\Tech\Lists - Exercise\Train\obj\Debug\netcoreapp2.1\Train.csprojAssemblyReference.cache
+P:\Projects\softUni\VS\Tech\Lists - Exercise\Train\obj\Debug\netcoreapp2.1\Train.csproj.CoreCompileInputs.cache
+P:\Projects\softUni\VS\Tech\Lists - Exercise\Train\obj\Debug\netcoreapp2.1\Train.AssemblyInfoInputs.cache
+P:\Projects\softUni\VS\Tech\Lists - Exercise\Train\obj\Debug\netcoreapp2.1\Train.AssemblyInfo.cs
+P:\Projects\softUni\VS\Tech\Lists - Exercise\Train\obj\Debug\netcoreapp2.1\Train.dll
+P:\Projects\softUni\VS\Tech\Lists - Exercise\Train\obj\Debug\netcoreapp2.1\Train.pdb

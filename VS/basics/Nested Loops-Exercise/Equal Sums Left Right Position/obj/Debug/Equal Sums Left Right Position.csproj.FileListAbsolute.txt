@@ -1,0 +1,6 @@
+P:\Projects\softUni\VS\Nested Loops-Exercise\Equal Sums Left Right Position\bin\Debug\Equal Sums Left Right Position.exe.config
+P:\Projects\softUni\VS\Nested Loops-Exercise\Equal Sums Left Right Position\bin\Debug\Equal Sums Left Right Position.exe
+P:\Projects\softUni\VS\Nested Loops-Exercise\Equal Sums Left Right Position\bin\Debug\Equal Sums Left Right Position.pdb
+P:\Projects\softUni\VS\Nested Loops-Exercise\Equal Sums Left Right Position\obj\Debug\Equal Sums Left Right Position.csprojResolveAssemblyReference.cache
+P:\Projects\softUni\VS\Nested Loops-Exercise\Equal Sums Left Right Position\obj\Debug\Equal Sums Left Right Position.exe
+P:\Projects\softUni\VS\Nested Loops-Exercise\Equal Sums Left Right Position\obj\Debug\Equal Sums Left Right Position.pdb

@@ -1,0 +1,11 @@
+P:\Projects\softUni\VS\algorithm\LabRecursion\GeneratingCombinations\bin\Debug\netcoreapp2.1\GeneratingCombinations.deps.json
+P:\Projects\softUni\VS\algorithm\LabRecursion\GeneratingCombinations\bin\Debug\netcoreapp2.1\GeneratingCombinations.runtimeconfig.json
+P:\Projects\softUni\VS\algorithm\LabRecursion\GeneratingCombinations\bin\Debug\netcoreapp2.1\GeneratingCombinations.runtimeconfig.dev.json
+P:\Projects\softUni\VS\algorithm\LabRecursion\GeneratingCombinations\bin\Debug\netcoreapp2.1\GeneratingCombinations.dll
+P:\Projects\softUni\VS\algorithm\LabRecursion\GeneratingCombinations\bin\Debug\netcoreapp2.1\GeneratingCombinations.pdb
+P:\Projects\softUni\VS\algorithm\LabRecursion\GeneratingCombinations\obj\Debug\netcoreapp2.1\GeneratingCombinations.csprojAssemblyReference.cache
+P:\Projects\softUni\VS\algorithm\LabRecursion\GeneratingCombinations\obj\Debug\netcoreapp2.1\GeneratingCombinations.csproj.CoreCompileInputs.cache
+P:\Projects\softUni\VS\algorithm\LabRecursion\GeneratingCombinations\obj\Debug\netcoreapp2.1\GeneratingCombinations.AssemblyInfoInputs.cache
+P:\Projects\softUni\VS\algorithm\LabRecursion\GeneratingCombinations\obj\Debug\netcoreapp2.1\GeneratingCombinations.AssemblyInfo.cs
+P:\Projects\softUni\VS\algorithm\LabRecursion\GeneratingCombinations\obj\Debug\netcoreapp2.1\GeneratingCombinations.dll
+P:\Projects\softUni\VS\algorithm\LabRecursion\GeneratingCombinations\obj\Debug\netcoreapp2.1\GeneratingCombinations.pdb

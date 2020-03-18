@@ -1,0 +1,6 @@
+P:\Projects\softUni\VS\U3-NestedCondStatements\Operations Between Numbers\bin\Debug\Operations Between Numbers.exe.config
+P:\Projects\softUni\VS\U3-NestedCondStatements\Operations Between Numbers\bin\Debug\Operations Between Numbers.exe
+P:\Projects\softUni\VS\U3-NestedCondStatements\Operations Between Numbers\bin\Debug\Operations Between Numbers.pdb
+P:\Projects\softUni\VS\U3-NestedCondStatements\Operations Between Numbers\obj\Debug\Operations Between Numbers.csprojResolveAssemblyReference.cache
+P:\Projects\softUni\VS\U3-NestedCondStatements\Operations Between Numbers\obj\Debug\Operations Between Numbers.exe
+P:\Projects\softUni\VS\U3-NestedCondStatements\Operations Between Numbers\obj\Debug\Operations Between Numbers.pdb

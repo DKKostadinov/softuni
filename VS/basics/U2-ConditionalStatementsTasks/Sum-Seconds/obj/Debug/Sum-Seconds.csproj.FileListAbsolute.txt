@@ -1,0 +1,13 @@
+P:\Projects\softUni\VS\U2-ConditionalStatementsTasks\Sum-Seconds\bin\Debug\Sum-Seconds.exe.config
+P:\Projects\softUni\VS\U2-ConditionalStatementsTasks\Sum-Seconds\bin\Debug\Sum-Seconds.exe
+P:\Projects\softUni\VS\U2-ConditionalStatementsTasks\Sum-Seconds\bin\Debug\Sum-Seconds.pdb
+P:\Projects\softUni\VS\U2-ConditionalStatementsTasks\Sum-Seconds\obj\Debug\Sum-Seconds.csprojResolveAssemblyReference.cache
+P:\Projects\softUni\VS\U2-ConditionalStatementsTasks\Sum-Seconds\obj\Debug\Sum-Seconds.exe
+P:\Projects\softUni\VS\U2-ConditionalStatementsTasks\Sum-Seconds\obj\Debug\Sum-Seconds.pdb
+P:\Projects\softUni\VS\basics\U2-ConditionalStatementsTasks\Sum-Seconds\bin\Debug\Sum-Seconds.exe.config
+P:\Projects\softUni\VS\basics\U2-ConditionalStatementsTasks\Sum-Seconds\bin\Debug\Sum-Seconds.exe
+P:\Projects\softUni\VS\basics\U2-ConditionalStatementsTasks\Sum-Seconds\bin\Debug\Sum-Seconds.pdb
+P:\Projects\softUni\VS\basics\U2-ConditionalStatementsTasks\Sum-Seconds\obj\Debug\Sum-Seconds.csprojAssemblyReference.cache
+P:\Projects\softUni\VS\basics\U2-ConditionalStatementsTasks\Sum-Seconds\obj\Debug\Sum-Seconds.csproj.CoreCompileInputs.cache
+P:\Projects\softUni\VS\basics\U2-ConditionalStatementsTasks\Sum-Seconds\obj\Debug\Sum-Seconds.exe
+P:\Projects\softUni\VS\basics\U2-ConditionalStatementsTasks\Sum-Seconds\obj\Debug\Sum-Seconds.pdb

@@ -1,0 +1,6 @@
+P:\Projects\softUni\VS\U1-proj6-currency\U1-proj6-currency\bin\Debug\U1-proj6-currency.exe.config
+P:\Projects\softUni\VS\U1-proj6-currency\U1-proj6-currency\bin\Debug\U1-proj6-currency.exe
+P:\Projects\softUni\VS\U1-proj6-currency\U1-proj6-currency\bin\Debug\U1-proj6-currency.pdb
+P:\Projects\softUni\VS\U1-proj6-currency\U1-proj6-currency\obj\Debug\U1-proj6-currency.csprojResolveAssemblyReference.cache
+P:\Projects\softUni\VS\U1-proj6-currency\U1-proj6-currency\obj\Debug\U1-proj6-currency.exe
+P:\Projects\softUni\VS\U1-proj6-currency\U1-proj6-currency\obj\Debug\U1-proj6-currency.pdb

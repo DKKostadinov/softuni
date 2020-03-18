@@ -1,0 +1,6 @@
+P:\Projects\softUni\VS\L2-proj5-concatenate\L2-proj5-concatenate\bin\Debug\L2-proj5-concatenate.exe.config
+P:\Projects\softUni\VS\L2-proj5-concatenate\L2-proj5-concatenate\bin\Debug\L2-proj5-concatenate.exe
+P:\Projects\softUni\VS\L2-proj5-concatenate\L2-proj5-concatenate\bin\Debug\L2-proj5-concatenate.pdb
+P:\Projects\softUni\VS\L2-proj5-concatenate\L2-proj5-concatenate\obj\Debug\L2-proj5-concatenate.csprojResolveAssemblyReference.cache
+P:\Projects\softUni\VS\L2-proj5-concatenate\L2-proj5-concatenate\obj\Debug\L2-proj5-concatenate.exe
+P:\Projects\softUni\VS\L2-proj5-concatenate\L2-proj5-concatenate\obj\Debug\L2-proj5-concatenate.pdb

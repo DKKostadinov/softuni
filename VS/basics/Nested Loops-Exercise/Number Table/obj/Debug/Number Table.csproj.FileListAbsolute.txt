@@ -1,0 +1,6 @@
+P:\Projects\softUni\VS\Nested Loops-Exercise\Number Table\bin\Debug\Number Table.exe.config
+P:\Projects\softUni\VS\Nested Loops-Exercise\Number Table\bin\Debug\Number Table.exe
+P:\Projects\softUni\VS\Nested Loops-Exercise\Number Table\bin\Debug\Number Table.pdb
+P:\Projects\softUni\VS\Nested Loops-Exercise\Number Table\obj\Debug\Number Table.exe
+P:\Projects\softUni\VS\Nested Loops-Exercise\Number Table\obj\Debug\Number Table.pdb
+P:\Projects\softUni\VS\Nested Loops-Exercise\Number Table\obj\Debug\Number Table.csprojResolveAssemblyReference.cache

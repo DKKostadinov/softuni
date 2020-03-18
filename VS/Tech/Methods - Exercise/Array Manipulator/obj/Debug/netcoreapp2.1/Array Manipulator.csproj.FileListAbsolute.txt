@@ -1,0 +1,11 @@
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Array Manipulator\bin\Debug\netcoreapp2.1\Array Manipulator.deps.json
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Array Manipulator\bin\Debug\netcoreapp2.1\Array Manipulator.runtimeconfig.json
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Array Manipulator\bin\Debug\netcoreapp2.1\Array Manipulator.runtimeconfig.dev.json
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Array Manipulator\bin\Debug\netcoreapp2.1\Array Manipulator.dll
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Array Manipulator\bin\Debug\netcoreapp2.1\Array Manipulator.pdb
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Array Manipulator\obj\Debug\netcoreapp2.1\Array Manipulator.csproj.CoreCompileInputs.cache
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Array Manipulator\obj\Debug\netcoreapp2.1\Array Manipulator.AssemblyInfoInputs.cache
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Array Manipulator\obj\Debug\netcoreapp2.1\Array Manipulator.AssemblyInfo.cs
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Array Manipulator\obj\Debug\netcoreapp2.1\Array Manipulator.dll
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Array Manipulator\obj\Debug\netcoreapp2.1\Array Manipulator.pdb
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Array Manipulator\obj\Debug\netcoreapp2.1\Array Manipulator.csprojAssemblyReference.cache

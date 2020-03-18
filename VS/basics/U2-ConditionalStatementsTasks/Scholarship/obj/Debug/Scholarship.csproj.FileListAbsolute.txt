@@ -1,0 +1,6 @@
+P:\Projects\softUni\VS\U2-ConditionalStatementsTasks\Scholarship\bin\Debug\Scholarship.exe.config
+P:\Projects\softUni\VS\U2-ConditionalStatementsTasks\Scholarship\bin\Debug\Scholarship.exe
+P:\Projects\softUni\VS\U2-ConditionalStatementsTasks\Scholarship\bin\Debug\Scholarship.pdb
+P:\Projects\softUni\VS\U2-ConditionalStatementsTasks\Scholarship\obj\Debug\Scholarship.csprojResolveAssemblyReference.cache
+P:\Projects\softUni\VS\U2-ConditionalStatementsTasks\Scholarship\obj\Debug\Scholarship.exe
+P:\Projects\softUni\VS\U2-ConditionalStatementsTasks\Scholarship\obj\Debug\Scholarship.pdb

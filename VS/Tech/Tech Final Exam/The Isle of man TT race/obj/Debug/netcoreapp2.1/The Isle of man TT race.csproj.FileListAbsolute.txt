@@ -1,0 +1,11 @@
+P:\Projects\softUni\VS\Tech\Tech Final Exam\The Isle of man TT race\bin\Debug\netcoreapp2.1\The Isle of man TT race.deps.json
+P:\Projects\softUni\VS\Tech\Tech Final Exam\The Isle of man TT race\bin\Debug\netcoreapp2.1\The Isle of man TT race.runtimeconfig.json
+P:\Projects\softUni\VS\Tech\Tech Final Exam\The Isle of man TT race\bin\Debug\netcoreapp2.1\The Isle of man TT race.runtimeconfig.dev.json
+P:\Projects\softUni\VS\Tech\Tech Final Exam\The Isle of man TT race\bin\Debug\netcoreapp2.1\The Isle of man TT race.dll
+P:\Projects\softUni\VS\Tech\Tech Final Exam\The Isle of man TT race\bin\Debug\netcoreapp2.1\The Isle of man TT race.pdb
+P:\Projects\softUni\VS\Tech\Tech Final Exam\The Isle of man TT race\obj\Debug\netcoreapp2.1\The Isle of man TT race.csprojAssemblyReference.cache
+P:\Projects\softUni\VS\Tech\Tech Final Exam\The Isle of man TT race\obj\Debug\netcoreapp2.1\The Isle of man TT race.csproj.CoreCompileInputs.cache
+P:\Projects\softUni\VS\Tech\Tech Final Exam\The Isle of man TT race\obj\Debug\netcoreapp2.1\The Isle of man TT race.AssemblyInfoInputs.cache
+P:\Projects\softUni\VS\Tech\Tech Final Exam\The Isle of man TT race\obj\Debug\netcoreapp2.1\The Isle of man TT race.AssemblyInfo.cs
+P:\Projects\softUni\VS\Tech\Tech Final Exam\The Isle of man TT race\obj\Debug\netcoreapp2.1\The Isle of man TT race.dll
+P:\Projects\softUni\VS\Tech\Tech Final Exam\The Isle of man TT race\obj\Debug\netcoreapp2.1\The Isle of man TT race.pdb

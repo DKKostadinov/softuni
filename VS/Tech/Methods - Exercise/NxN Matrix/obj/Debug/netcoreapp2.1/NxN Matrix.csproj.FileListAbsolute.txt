@@ -1,0 +1,10 @@
+P:\Projects\softUni\VS\Tech\Methods - Exercise\NxN Matrix\bin\Debug\netcoreapp2.1\NxN Matrix.deps.json
+P:\Projects\softUni\VS\Tech\Methods - Exercise\NxN Matrix\bin\Debug\netcoreapp2.1\NxN Matrix.runtimeconfig.json
+P:\Projects\softUni\VS\Tech\Methods - Exercise\NxN Matrix\bin\Debug\netcoreapp2.1\NxN Matrix.runtimeconfig.dev.json
+P:\Projects\softUni\VS\Tech\Methods - Exercise\NxN Matrix\bin\Debug\netcoreapp2.1\NxN Matrix.dll
+P:\Projects\softUni\VS\Tech\Methods - Exercise\NxN Matrix\bin\Debug\netcoreapp2.1\NxN Matrix.pdb
+P:\Projects\softUni\VS\Tech\Methods - Exercise\NxN Matrix\obj\Debug\netcoreapp2.1\NxN Matrix.csproj.CoreCompileInputs.cache
+P:\Projects\softUni\VS\Tech\Methods - Exercise\NxN Matrix\obj\Debug\netcoreapp2.1\NxN Matrix.AssemblyInfoInputs.cache
+P:\Projects\softUni\VS\Tech\Methods - Exercise\NxN Matrix\obj\Debug\netcoreapp2.1\NxN Matrix.AssemblyInfo.cs
+P:\Projects\softUni\VS\Tech\Methods - Exercise\NxN Matrix\obj\Debug\netcoreapp2.1\NxN Matrix.dll
+P:\Projects\softUni\VS\Tech\Methods - Exercise\NxN Matrix\obj\Debug\netcoreapp2.1\NxN Matrix.pdb

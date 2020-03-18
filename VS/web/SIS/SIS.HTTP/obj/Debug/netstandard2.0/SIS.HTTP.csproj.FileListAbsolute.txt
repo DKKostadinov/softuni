@@ -1,0 +1,8 @@
+P:\Projects\softUni\VS\web\SIS\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.deps.json
+P:\Projects\softUni\VS\web\SIS\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.dll
+P:\Projects\softUni\VS\web\SIS\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.pdb
+P:\Projects\softUni\VS\web\SIS\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.csprojAssemblyReference.cache
+P:\Projects\softUni\VS\web\SIS\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfoInputs.cache
+P:\Projects\softUni\VS\web\SIS\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfo.cs
+P:\Projects\softUni\VS\web\SIS\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.dll
+P:\Projects\softUni\VS\web\SIS\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.pdb

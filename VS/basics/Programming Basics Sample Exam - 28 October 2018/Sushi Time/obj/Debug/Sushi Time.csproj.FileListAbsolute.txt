@@ -1,0 +1,6 @@
+P:\Projects\softUni\VS\Programming Basics Sample Exam - 28 October 2018\Sushi Time\bin\Debug\Sushi Time.exe.config
+P:\Projects\softUni\VS\Programming Basics Sample Exam - 28 October 2018\Sushi Time\bin\Debug\Sushi Time.exe
+P:\Projects\softUni\VS\Programming Basics Sample Exam - 28 October 2018\Sushi Time\bin\Debug\Sushi Time.pdb
+P:\Projects\softUni\VS\Programming Basics Sample Exam - 28 October 2018\Sushi Time\obj\Debug\Sushi Time.csprojResolveAssemblyReference.cache
+P:\Projects\softUni\VS\Programming Basics Sample Exam - 28 October 2018\Sushi Time\obj\Debug\Sushi Time.exe
+P:\Projects\softUni\VS\Programming Basics Sample Exam - 28 October 2018\Sushi Time\obj\Debug\Sushi Time.pdb

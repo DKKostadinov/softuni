@@ -1,0 +1,5 @@
+P:\Projects\softUni\VS\U2-ConditionalStatementsTasks\Choreography\bin\Debug\Choreography.exe.config
+P:\Projects\softUni\VS\U2-ConditionalStatementsTasks\Choreography\bin\Debug\Choreography.exe
+P:\Projects\softUni\VS\U2-ConditionalStatementsTasks\Choreography\bin\Debug\Choreography.pdb
+P:\Projects\softUni\VS\U2-ConditionalStatementsTasks\Choreography\obj\Debug\Choreography.exe
+P:\Projects\softUni\VS\U2-ConditionalStatementsTasks\Choreography\obj\Debug\Choreography.pdb

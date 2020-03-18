@@ -1,0 +1,6 @@
+P:\Projects\softUni\VS\Programming Basics Online Exam\Wedding Hall\bin\Debug\Wedding Hall.exe.config
+P:\Projects\softUni\VS\Programming Basics Online Exam\Wedding Hall\bin\Debug\Wedding Hall.exe
+P:\Projects\softUni\VS\Programming Basics Online Exam\Wedding Hall\bin\Debug\Wedding Hall.pdb
+P:\Projects\softUni\VS\Programming Basics Online Exam\Wedding Hall\obj\Debug\Wedding Hall.csprojResolveAssemblyReference.cache
+P:\Projects\softUni\VS\Programming Basics Online Exam\Wedding Hall\obj\Debug\Wedding Hall.exe
+P:\Projects\softUni\VS\Programming Basics Online Exam\Wedding Hall\obj\Debug\Wedding Hall.pdb

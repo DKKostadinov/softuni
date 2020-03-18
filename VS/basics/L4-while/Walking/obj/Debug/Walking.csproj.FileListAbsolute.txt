@@ -1,0 +1,6 @@
+P:\Projects\softUni\VS\U4-while\Walking\bin\Debug\Walking.exe.config
+P:\Projects\softUni\VS\U4-while\Walking\bin\Debug\Walking.exe
+P:\Projects\softUni\VS\U4-while\Walking\bin\Debug\Walking.pdb
+P:\Projects\softUni\VS\U4-while\Walking\obj\Debug\Walking.csprojResolveAssemblyReference.cache
+P:\Projects\softUni\VS\U4-while\Walking\obj\Debug\Walking.exe
+P:\Projects\softUni\VS\U4-while\Walking\obj\Debug\Walking.pdb

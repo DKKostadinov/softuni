@@ -1,0 +1,11 @@
+P:\Projects\softUni\VS\oop\Encapsulation\ClassBoxData\bin\Debug\netcoreapp2.1\ClassBoxData.deps.json
+P:\Projects\softUni\VS\oop\Encapsulation\ClassBoxData\bin\Debug\netcoreapp2.1\ClassBoxData.runtimeconfig.json
+P:\Projects\softUni\VS\oop\Encapsulation\ClassBoxData\bin\Debug\netcoreapp2.1\ClassBoxData.runtimeconfig.dev.json
+P:\Projects\softUni\VS\oop\Encapsulation\ClassBoxData\bin\Debug\netcoreapp2.1\ClassBoxData.dll
+P:\Projects\softUni\VS\oop\Encapsulation\ClassBoxData\bin\Debug\netcoreapp2.1\ClassBoxData.pdb
+P:\Projects\softUni\VS\oop\Encapsulation\ClassBoxData\obj\Debug\netcoreapp2.1\ClassBoxData.csprojAssemblyReference.cache
+P:\Projects\softUni\VS\oop\Encapsulation\ClassBoxData\obj\Debug\netcoreapp2.1\ClassBoxData.csproj.CoreCompileInputs.cache
+P:\Projects\softUni\VS\oop\Encapsulation\ClassBoxData\obj\Debug\netcoreapp2.1\ClassBoxData.AssemblyInfoInputs.cache
+P:\Projects\softUni\VS\oop\Encapsulation\ClassBoxData\obj\Debug\netcoreapp2.1\ClassBoxData.AssemblyInfo.cs
+P:\Projects\softUni\VS\oop\Encapsulation\ClassBoxData\obj\Debug\netcoreapp2.1\ClassBoxData.dll
+P:\Projects\softUni\VS\oop\Encapsulation\ClassBoxData\obj\Debug\netcoreapp2.1\ClassBoxData.pdb

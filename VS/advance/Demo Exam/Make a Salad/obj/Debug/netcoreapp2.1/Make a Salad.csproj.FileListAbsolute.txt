@@ -1,0 +1,11 @@
+P:\softuni materials\advance\Demo Exam\Make a Salad\bin\Debug\netcoreapp2.1\Make a Salad.deps.json
+P:\softuni materials\advance\Demo Exam\Make a Salad\bin\Debug\netcoreapp2.1\Make a Salad.runtimeconfig.json
+P:\softuni materials\advance\Demo Exam\Make a Salad\bin\Debug\netcoreapp2.1\Make a Salad.runtimeconfig.dev.json
+P:\softuni materials\advance\Demo Exam\Make a Salad\bin\Debug\netcoreapp2.1\Make a Salad.dll
+P:\softuni materials\advance\Demo Exam\Make a Salad\bin\Debug\netcoreapp2.1\Make a Salad.pdb
+P:\softuni materials\advance\Demo Exam\Make a Salad\obj\Debug\netcoreapp2.1\Make a Salad.csprojAssemblyReference.cache
+P:\softuni materials\advance\Demo Exam\Make a Salad\obj\Debug\netcoreapp2.1\Make a Salad.csproj.CoreCompileInputs.cache
+P:\softuni materials\advance\Demo Exam\Make a Salad\obj\Debug\netcoreapp2.1\Make a Salad.AssemblyInfoInputs.cache
+P:\softuni materials\advance\Demo Exam\Make a Salad\obj\Debug\netcoreapp2.1\Make a Salad.AssemblyInfo.cs
+P:\softuni materials\advance\Demo Exam\Make a Salad\obj\Debug\netcoreapp2.1\Make a Salad.dll
+P:\softuni materials\advance\Demo Exam\Make a Salad\obj\Debug\netcoreapp2.1\Make a Salad.pdb

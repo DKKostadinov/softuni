@@ -1,0 +1,11 @@
+P:\Projects\softUni\VS\Tech\Intro and Basic Syntax - Exercise\Login\bin\Debug\netcoreapp2.1\Login.deps.json
+P:\Projects\softUni\VS\Tech\Intro and Basic Syntax - Exercise\Login\bin\Debug\netcoreapp2.1\Login.runtimeconfig.json
+P:\Projects\softUni\VS\Tech\Intro and Basic Syntax - Exercise\Login\bin\Debug\netcoreapp2.1\Login.runtimeconfig.dev.json
+P:\Projects\softUni\VS\Tech\Intro and Basic Syntax - Exercise\Login\bin\Debug\netcoreapp2.1\Login.dll
+P:\Projects\softUni\VS\Tech\Intro and Basic Syntax - Exercise\Login\bin\Debug\netcoreapp2.1\Login.pdb
+P:\Projects\softUni\VS\Tech\Intro and Basic Syntax - Exercise\Login\obj\Debug\netcoreapp2.1\Login.csproj.CoreCompileInputs.cache
+P:\Projects\softUni\VS\Tech\Intro and Basic Syntax - Exercise\Login\obj\Debug\netcoreapp2.1\Login.AssemblyInfoInputs.cache
+P:\Projects\softUni\VS\Tech\Intro and Basic Syntax - Exercise\Login\obj\Debug\netcoreapp2.1\Login.AssemblyInfo.cs
+P:\Projects\softUni\VS\Tech\Intro and Basic Syntax - Exercise\Login\obj\Debug\netcoreapp2.1\Login.dll
+P:\Projects\softUni\VS\Tech\Intro and Basic Syntax - Exercise\Login\obj\Debug\netcoreapp2.1\Login.pdb
+P:\Projects\softUni\VS\Tech\Intro and Basic Syntax - Exercise\Login\obj\Debug\netcoreapp2.1\Login.csprojAssemblyReference.cache

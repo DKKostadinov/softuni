@@ -1,0 +1,11 @@
+P:\Projects\softUni\VS\advance\DemoExam3\Excel Functions\bin\Debug\netcoreapp2.1\Excel Functions.deps.json
+P:\Projects\softUni\VS\advance\DemoExam3\Excel Functions\bin\Debug\netcoreapp2.1\Excel Functions.runtimeconfig.json
+P:\Projects\softUni\VS\advance\DemoExam3\Excel Functions\bin\Debug\netcoreapp2.1\Excel Functions.runtimeconfig.dev.json
+P:\Projects\softUni\VS\advance\DemoExam3\Excel Functions\bin\Debug\netcoreapp2.1\Excel Functions.dll
+P:\Projects\softUni\VS\advance\DemoExam3\Excel Functions\bin\Debug\netcoreapp2.1\Excel Functions.pdb
+P:\Projects\softUni\VS\advance\DemoExam3\Excel Functions\obj\Debug\netcoreapp2.1\Excel Functions.csprojAssemblyReference.cache
+P:\Projects\softUni\VS\advance\DemoExam3\Excel Functions\obj\Debug\netcoreapp2.1\Excel Functions.csproj.CoreCompileInputs.cache
+P:\Projects\softUni\VS\advance\DemoExam3\Excel Functions\obj\Debug\netcoreapp2.1\Excel Functions.AssemblyInfoInputs.cache
+P:\Projects\softUni\VS\advance\DemoExam3\Excel Functions\obj\Debug\netcoreapp2.1\Excel Functions.AssemblyInfo.cs
+P:\Projects\softUni\VS\advance\DemoExam3\Excel Functions\obj\Debug\netcoreapp2.1\Excel Functions.dll
+P:\Projects\softUni\VS\advance\DemoExam3\Excel Functions\obj\Debug\netcoreapp2.1\Excel Functions.pdb

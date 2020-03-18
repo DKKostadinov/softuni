@@ -1,0 +1,11 @@
+P:\Projects\softUni\VS\Tech\Lists - Exercise\List Operations\bin\Debug\netcoreapp2.1\List Operations.deps.json
+P:\Projects\softUni\VS\Tech\Lists - Exercise\List Operations\bin\Debug\netcoreapp2.1\List Operations.runtimeconfig.json
+P:\Projects\softUni\VS\Tech\Lists - Exercise\List Operations\bin\Debug\netcoreapp2.1\List Operations.runtimeconfig.dev.json
+P:\Projects\softUni\VS\Tech\Lists - Exercise\List Operations\bin\Debug\netcoreapp2.1\List Operations.dll
+P:\Projects\softUni\VS\Tech\Lists - Exercise\List Operations\bin\Debug\netcoreapp2.1\List Operations.pdb
+P:\Projects\softUni\VS\Tech\Lists - Exercise\List Operations\obj\Debug\netcoreapp2.1\List Operations.csprojAssemblyReference.cache
+P:\Projects\softUni\VS\Tech\Lists - Exercise\List Operations\obj\Debug\netcoreapp2.1\List Operations.csproj.CoreCompileInputs.cache
+P:\Projects\softUni\VS\Tech\Lists - Exercise\List Operations\obj\Debug\netcoreapp2.1\List Operations.AssemblyInfoInputs.cache
+P:\Projects\softUni\VS\Tech\Lists - Exercise\List Operations\obj\Debug\netcoreapp2.1\List Operations.AssemblyInfo.cs
+P:\Projects\softUni\VS\Tech\Lists - Exercise\List Operations\obj\Debug\netcoreapp2.1\List Operations.dll
+P:\Projects\softUni\VS\Tech\Lists - Exercise\List Operations\obj\Debug\netcoreapp2.1\List Operations.pdb

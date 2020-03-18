@@ -1,0 +1,5 @@
+P:\Projects\softUni\VS\L2-proj3-inchToCm\L2-proj3-inchToCm\bin\Debug\L2-proj3-inchToCm.exe.config
+P:\Projects\softUni\VS\L2-proj3-inchToCm\L2-proj3-inchToCm\bin\Debug\L2-proj3-inchToCm.exe
+P:\Projects\softUni\VS\L2-proj3-inchToCm\L2-proj3-inchToCm\bin\Debug\L2-proj3-inchToCm.pdb
+P:\Projects\softUni\VS\L2-proj3-inchToCm\L2-proj3-inchToCm\obj\Debug\L2-proj3-inchToCm.exe
+P:\Projects\softUni\VS\L2-proj3-inchToCm\L2-proj3-inchToCm\obj\Debug\L2-proj3-inchToCm.pdb

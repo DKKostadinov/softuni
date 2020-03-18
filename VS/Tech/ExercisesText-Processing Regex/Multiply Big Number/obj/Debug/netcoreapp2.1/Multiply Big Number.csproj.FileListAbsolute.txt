@@ -1,0 +1,11 @@
+P:\Projects\softUni\VS\Tech\ExercisesText-Processing Regex\Multiply Big Number\bin\Debug\netcoreapp2.1\Multiply Big Number.deps.json
+P:\Projects\softUni\VS\Tech\ExercisesText-Processing Regex\Multiply Big Number\bin\Debug\netcoreapp2.1\Multiply Big Number.runtimeconfig.json
+P:\Projects\softUni\VS\Tech\ExercisesText-Processing Regex\Multiply Big Number\bin\Debug\netcoreapp2.1\Multiply Big Number.runtimeconfig.dev.json
+P:\Projects\softUni\VS\Tech\ExercisesText-Processing Regex\Multiply Big Number\bin\Debug\netcoreapp2.1\Multiply Big Number.dll
+P:\Projects\softUni\VS\Tech\ExercisesText-Processing Regex\Multiply Big Number\bin\Debug\netcoreapp2.1\Multiply Big Number.pdb
+P:\Projects\softUni\VS\Tech\ExercisesText-Processing Regex\Multiply Big Number\obj\Debug\netcoreapp2.1\Multiply Big Number.csprojAssemblyReference.cache
+P:\Projects\softUni\VS\Tech\ExercisesText-Processing Regex\Multiply Big Number\obj\Debug\netcoreapp2.1\Multiply Big Number.csproj.CoreCompileInputs.cache
+P:\Projects\softUni\VS\Tech\ExercisesText-Processing Regex\Multiply Big Number\obj\Debug\netcoreapp2.1\Multiply Big Number.AssemblyInfoInputs.cache
+P:\Projects\softUni\VS\Tech\ExercisesText-Processing Regex\Multiply Big Number\obj\Debug\netcoreapp2.1\Multiply Big Number.AssemblyInfo.cs
+P:\Projects\softUni\VS\Tech\ExercisesText-Processing Regex\Multiply Big Number\obj\Debug\netcoreapp2.1\Multiply Big Number.dll
+P:\Projects\softUni\VS\Tech\ExercisesText-Processing Regex\Multiply Big Number\obj\Debug\netcoreapp2.1\Multiply Big Number.pdb

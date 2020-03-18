@@ -1,0 +1,6 @@
+P:\Projects\softUni\VS\EXERCISE-FOR LOOPS\Equal Pairs\bin\Debug\Equal Pairs.exe.config
+P:\Projects\softUni\VS\EXERCISE-FOR LOOPS\Equal Pairs\bin\Debug\Equal Pairs.exe
+P:\Projects\softUni\VS\EXERCISE-FOR LOOPS\Equal Pairs\bin\Debug\Equal Pairs.pdb
+P:\Projects\softUni\VS\EXERCISE-FOR LOOPS\Equal Pairs\obj\Debug\Equal Pairs.csprojResolveAssemblyReference.cache
+P:\Projects\softUni\VS\EXERCISE-FOR LOOPS\Equal Pairs\obj\Debug\Equal Pairs.exe
+P:\Projects\softUni\VS\EXERCISE-FOR LOOPS\Equal Pairs\obj\Debug\Equal Pairs.pdb

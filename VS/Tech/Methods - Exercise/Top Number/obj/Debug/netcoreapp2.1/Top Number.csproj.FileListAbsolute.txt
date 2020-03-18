@@ -1,0 +1,10 @@
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Top Number\bin\Debug\netcoreapp2.1\Top Number.deps.json
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Top Number\bin\Debug\netcoreapp2.1\Top Number.runtimeconfig.json
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Top Number\bin\Debug\netcoreapp2.1\Top Number.runtimeconfig.dev.json
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Top Number\bin\Debug\netcoreapp2.1\Top Number.dll
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Top Number\bin\Debug\netcoreapp2.1\Top Number.pdb
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Top Number\obj\Debug\netcoreapp2.1\Top Number.csproj.CoreCompileInputs.cache
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Top Number\obj\Debug\netcoreapp2.1\Top Number.AssemblyInfoInputs.cache
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Top Number\obj\Debug\netcoreapp2.1\Top Number.AssemblyInfo.cs
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Top Number\obj\Debug\netcoreapp2.1\Top Number.dll
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Top Number\obj\Debug\netcoreapp2.1\Top Number.pdb

@@ -1,0 +1,11 @@
+P:\Projects\softUni\VS\advance\Demo Exam 2\Helen's Abduction\bin\Debug\netcoreapp2.1\Helen's Abduction.deps.json
+P:\Projects\softUni\VS\advance\Demo Exam 2\Helen's Abduction\bin\Debug\netcoreapp2.1\Helen's Abduction.runtimeconfig.json
+P:\Projects\softUni\VS\advance\Demo Exam 2\Helen's Abduction\bin\Debug\netcoreapp2.1\Helen's Abduction.runtimeconfig.dev.json
+P:\Projects\softUni\VS\advance\Demo Exam 2\Helen's Abduction\bin\Debug\netcoreapp2.1\Helen's Abduction.dll
+P:\Projects\softUni\VS\advance\Demo Exam 2\Helen's Abduction\bin\Debug\netcoreapp2.1\Helen's Abduction.pdb
+P:\Projects\softUni\VS\advance\Demo Exam 2\Helen's Abduction\obj\Debug\netcoreapp2.1\Helen's Abduction.csproj.CoreCompileInputs.cache
+P:\Projects\softUni\VS\advance\Demo Exam 2\Helen's Abduction\obj\Debug\netcoreapp2.1\Helen's Abduction.AssemblyInfoInputs.cache
+P:\Projects\softUni\VS\advance\Demo Exam 2\Helen's Abduction\obj\Debug\netcoreapp2.1\Helen's Abduction.AssemblyInfo.cs
+P:\Projects\softUni\VS\advance\Demo Exam 2\Helen's Abduction\obj\Debug\netcoreapp2.1\Helen's Abduction.dll
+P:\Projects\softUni\VS\advance\Demo Exam 2\Helen's Abduction\obj\Debug\netcoreapp2.1\Helen's Abduction.pdb
+P:\Projects\softUni\VS\advance\Demo Exam 2\Helen's Abduction\obj\Debug\netcoreapp2.1\Helen's Abduction.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+P:\Projects\softUni\VS\Nested Loops-Exercise\Fishing\bin\Debug\Fishing.exe.config
+P:\Projects\softUni\VS\Nested Loops-Exercise\Fishing\bin\Debug\Fishing.exe
+P:\Projects\softUni\VS\Nested Loops-Exercise\Fishing\bin\Debug\Fishing.pdb
+P:\Projects\softUni\VS\Nested Loops-Exercise\Fishing\obj\Debug\Fishing.csprojResolveAssemblyReference.cache
+P:\Projects\softUni\VS\Nested Loops-Exercise\Fishing\obj\Debug\Fishing.exe
+P:\Projects\softUni\VS\Nested Loops-Exercise\Fishing\obj\Debug\Fishing.pdb

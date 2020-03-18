@@ -1,0 +1,11 @@
+C:\Users\Deydo\source\repos\Exercises - Arrays\Top Integers\bin\Debug\netcoreapp2.1\Top Integers.deps.json
+C:\Users\Deydo\source\repos\Exercises - Arrays\Top Integers\bin\Debug\netcoreapp2.1\Top Integers.runtimeconfig.json
+C:\Users\Deydo\source\repos\Exercises - Arrays\Top Integers\bin\Debug\netcoreapp2.1\Top Integers.runtimeconfig.dev.json
+C:\Users\Deydo\source\repos\Exercises - Arrays\Top Integers\bin\Debug\netcoreapp2.1\Top Integers.dll
+C:\Users\Deydo\source\repos\Exercises - Arrays\Top Integers\bin\Debug\netcoreapp2.1\Top Integers.pdb
+C:\Users\Deydo\source\repos\Exercises - Arrays\Top Integers\obj\Debug\netcoreapp2.1\Top Integers.csproj.CoreCompileInputs.cache
+C:\Users\Deydo\source\repos\Exercises - Arrays\Top Integers\obj\Debug\netcoreapp2.1\Top Integers.AssemblyInfoInputs.cache
+C:\Users\Deydo\source\repos\Exercises - Arrays\Top Integers\obj\Debug\netcoreapp2.1\Top Integers.AssemblyInfo.cs
+C:\Users\Deydo\source\repos\Exercises - Arrays\Top Integers\obj\Debug\netcoreapp2.1\Top Integers.dll
+C:\Users\Deydo\source\repos\Exercises - Arrays\Top Integers\obj\Debug\netcoreapp2.1\Top Integers.pdb
+C:\Users\Deydo\source\repos\Exercises - Arrays\Top Integers\obj\Debug\netcoreapp2.1\Top Integers.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+P:\Projects\softUni\VS\Nested Loops-Exercise\Shopping Maniac\bin\Debug\Shopping Maniac.exe.config
+P:\Projects\softUni\VS\Nested Loops-Exercise\Shopping Maniac\bin\Debug\Shopping Maniac.exe
+P:\Projects\softUni\VS\Nested Loops-Exercise\Shopping Maniac\bin\Debug\Shopping Maniac.pdb
+P:\Projects\softUni\VS\Nested Loops-Exercise\Shopping Maniac\obj\Debug\Shopping Maniac.csprojResolveAssemblyReference.cache
+P:\Projects\softUni\VS\Nested Loops-Exercise\Shopping Maniac\obj\Debug\Shopping Maniac.exe
+P:\Projects\softUni\VS\Nested Loops-Exercise\Shopping Maniac\obj\Debug\Shopping Maniac.pdb

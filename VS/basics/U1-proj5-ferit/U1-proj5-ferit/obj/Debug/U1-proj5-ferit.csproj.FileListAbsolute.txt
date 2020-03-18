@@ -1,0 +1,5 @@
+P:\Projects\softUni\VS\U1-proj5-ferit\U1-proj5-ferit\bin\Debug\U1-proj5-ferit.exe.config
+P:\Projects\softUni\VS\U1-proj5-ferit\U1-proj5-ferit\bin\Debug\U1-proj5-ferit.exe
+P:\Projects\softUni\VS\U1-proj5-ferit\U1-proj5-ferit\bin\Debug\U1-proj5-ferit.pdb
+P:\Projects\softUni\VS\U1-proj5-ferit\U1-proj5-ferit\obj\Debug\U1-proj5-ferit.exe
+P:\Projects\softUni\VS\U1-proj5-ferit\U1-proj5-ferit\obj\Debug\U1-proj5-ferit.pdb

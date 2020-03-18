@@ -1,0 +1,11 @@
+P:\Projects\softUni\VS\algorithm\LabRecursion\RecursiveArraySum\bin\Debug\netcoreapp2.1\RecursiveArraySum.deps.json
+P:\Projects\softUni\VS\algorithm\LabRecursion\RecursiveArraySum\bin\Debug\netcoreapp2.1\RecursiveArraySum.runtimeconfig.json
+P:\Projects\softUni\VS\algorithm\LabRecursion\RecursiveArraySum\bin\Debug\netcoreapp2.1\RecursiveArraySum.runtimeconfig.dev.json
+P:\Projects\softUni\VS\algorithm\LabRecursion\RecursiveArraySum\bin\Debug\netcoreapp2.1\RecursiveArraySum.dll
+P:\Projects\softUni\VS\algorithm\LabRecursion\RecursiveArraySum\bin\Debug\netcoreapp2.1\RecursiveArraySum.pdb
+P:\Projects\softUni\VS\algorithm\LabRecursion\RecursiveArraySum\obj\Debug\netcoreapp2.1\RecursiveArraySum.csprojAssemblyReference.cache
+P:\Projects\softUni\VS\algorithm\LabRecursion\RecursiveArraySum\obj\Debug\netcoreapp2.1\RecursiveArraySum.csproj.CoreCompileInputs.cache
+P:\Projects\softUni\VS\algorithm\LabRecursion\RecursiveArraySum\obj\Debug\netcoreapp2.1\RecursiveArraySum.AssemblyInfoInputs.cache
+P:\Projects\softUni\VS\algorithm\LabRecursion\RecursiveArraySum\obj\Debug\netcoreapp2.1\RecursiveArraySum.AssemblyInfo.cs
+P:\Projects\softUni\VS\algorithm\LabRecursion\RecursiveArraySum\obj\Debug\netcoreapp2.1\RecursiveArraySum.dll
+P:\Projects\softUni\VS\algorithm\LabRecursion\RecursiveArraySum\obj\Debug\netcoreapp2.1\RecursiveArraySum.pdb

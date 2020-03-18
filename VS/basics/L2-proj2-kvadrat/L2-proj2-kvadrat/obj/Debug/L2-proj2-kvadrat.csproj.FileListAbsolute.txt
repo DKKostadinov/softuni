@@ -1,0 +1,6 @@
+P:\Projects\softUni\VS\L2-proj2-kvadrat\L2-proj2-kvadrat\bin\Debug\L2-proj2-kvadrat.exe.config
+P:\Projects\softUni\VS\L2-proj2-kvadrat\L2-proj2-kvadrat\bin\Debug\L2-proj2-kvadrat.exe
+P:\Projects\softUni\VS\L2-proj2-kvadrat\L2-proj2-kvadrat\bin\Debug\L2-proj2-kvadrat.pdb
+P:\Projects\softUni\VS\L2-proj2-kvadrat\L2-proj2-kvadrat\obj\Debug\L2-proj2-kvadrat.csprojResolveAssemblyReference.cache
+P:\Projects\softUni\VS\L2-proj2-kvadrat\L2-proj2-kvadrat\obj\Debug\L2-proj2-kvadrat.exe
+P:\Projects\softUni\VS\L2-proj2-kvadrat\L2-proj2-kvadrat\obj\Debug\L2-proj2-kvadrat.pdb

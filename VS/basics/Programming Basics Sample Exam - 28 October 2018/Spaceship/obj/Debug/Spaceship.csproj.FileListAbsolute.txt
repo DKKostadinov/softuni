@@ -1,0 +1,5 @@
+P:\Projects\softUni\VS\Programming Basics Sample Exam - 28 October 2018\Spaceship\bin\Debug\Spaceship.exe.config
+P:\Projects\softUni\VS\Programming Basics Sample Exam - 28 October 2018\Spaceship\bin\Debug\Spaceship.exe
+P:\Projects\softUni\VS\Programming Basics Sample Exam - 28 October 2018\Spaceship\bin\Debug\Spaceship.pdb
+P:\Projects\softUni\VS\Programming Basics Sample Exam - 28 October 2018\Spaceship\obj\Debug\Spaceship.exe
+P:\Projects\softUni\VS\Programming Basics Sample Exam - 28 October 2018\Spaceship\obj\Debug\Spaceship.pdb

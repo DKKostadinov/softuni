@@ -1,0 +1,6 @@
+P:\Projects\softUni\VS\U1-proj3-dance\U1-proj3-dance\bin\Debug\U1-proj3-dance.exe.config
+P:\Projects\softUni\VS\U1-proj3-dance\U1-proj3-dance\bin\Debug\U1-proj3-dance.exe
+P:\Projects\softUni\VS\U1-proj3-dance\U1-proj3-dance\bin\Debug\U1-proj3-dance.pdb
+P:\Projects\softUni\VS\U1-proj3-dance\U1-proj3-dance\obj\Debug\U1-proj3-dance.csprojResolveAssemblyReference.cache
+P:\Projects\softUni\VS\U1-proj3-dance\U1-proj3-dance\obj\Debug\U1-proj3-dance.exe
+P:\Projects\softUni\VS\U1-proj3-dance\U1-proj3-dance\obj\Debug\U1-proj3-dance.pdb

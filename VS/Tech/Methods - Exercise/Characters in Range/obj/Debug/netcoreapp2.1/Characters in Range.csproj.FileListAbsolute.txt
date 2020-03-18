@@ -1,0 +1,10 @@
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Characters in Range\bin\Debug\netcoreapp2.1\Characters in Range.deps.json
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Characters in Range\bin\Debug\netcoreapp2.1\Characters in Range.runtimeconfig.json
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Characters in Range\bin\Debug\netcoreapp2.1\Characters in Range.runtimeconfig.dev.json
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Characters in Range\bin\Debug\netcoreapp2.1\Characters in Range.dll
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Characters in Range\bin\Debug\netcoreapp2.1\Characters in Range.pdb
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Characters in Range\obj\Debug\netcoreapp2.1\Characters in Range.csproj.CoreCompileInputs.cache
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Characters in Range\obj\Debug\netcoreapp2.1\Characters in Range.AssemblyInfoInputs.cache
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Characters in Range\obj\Debug\netcoreapp2.1\Characters in Range.AssemblyInfo.cs
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Characters in Range\obj\Debug\netcoreapp2.1\Characters in Range.dll
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Characters in Range\obj\Debug\netcoreapp2.1\Characters in Range.pdb

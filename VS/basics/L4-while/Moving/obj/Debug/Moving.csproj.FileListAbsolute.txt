@@ -1,0 +1,6 @@
+P:\Projects\softUni\VS\U4-while\Moving\bin\Debug\Moving.exe.config
+P:\Projects\softUni\VS\U4-while\Moving\bin\Debug\Moving.exe
+P:\Projects\softUni\VS\U4-while\Moving\bin\Debug\Moving.pdb
+P:\Projects\softUni\VS\U4-while\Moving\obj\Debug\Moving.csprojResolveAssemblyReference.cache
+P:\Projects\softUni\VS\U4-while\Moving\obj\Debug\Moving.exe
+P:\Projects\softUni\VS\U4-while\Moving\obj\Debug\Moving.pdb

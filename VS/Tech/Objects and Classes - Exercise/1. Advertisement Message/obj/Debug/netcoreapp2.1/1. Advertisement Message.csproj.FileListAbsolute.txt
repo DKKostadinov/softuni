@@ -1,0 +1,11 @@
+P:\Projects\softUni\VS\Tech\Objects and Classes - Exercise\1. Advertisement Message\bin\Debug\netcoreapp2.1\1. Advertisement Message.deps.json
+P:\Projects\softUni\VS\Tech\Objects and Classes - Exercise\1. Advertisement Message\bin\Debug\netcoreapp2.1\1. Advertisement Message.runtimeconfig.json
+P:\Projects\softUni\VS\Tech\Objects and Classes - Exercise\1. Advertisement Message\bin\Debug\netcoreapp2.1\1. Advertisement Message.runtimeconfig.dev.json
+P:\Projects\softUni\VS\Tech\Objects and Classes - Exercise\1. Advertisement Message\bin\Debug\netcoreapp2.1\1. Advertisement Message.dll
+P:\Projects\softUni\VS\Tech\Objects and Classes - Exercise\1. Advertisement Message\bin\Debug\netcoreapp2.1\1. Advertisement Message.pdb
+P:\Projects\softUni\VS\Tech\Objects and Classes - Exercise\1. Advertisement Message\obj\Debug\netcoreapp2.1\1. Advertisement Message.csprojAssemblyReference.cache
+P:\Projects\softUni\VS\Tech\Objects and Classes - Exercise\1. Advertisement Message\obj\Debug\netcoreapp2.1\1. Advertisement Message.csproj.CoreCompileInputs.cache
+P:\Projects\softUni\VS\Tech\Objects and Classes - Exercise\1. Advertisement Message\obj\Debug\netcoreapp2.1\1. Advertisement Message.AssemblyInfoInputs.cache
+P:\Projects\softUni\VS\Tech\Objects and Classes - Exercise\1. Advertisement Message\obj\Debug\netcoreapp2.1\1. Advertisement Message.AssemblyInfo.cs
+P:\Projects\softUni\VS\Tech\Objects and Classes - Exercise\1. Advertisement Message\obj\Debug\netcoreapp2.1\1. Advertisement Message.dll
+P:\Projects\softUni\VS\Tech\Objects and Classes - Exercise\1. Advertisement Message\obj\Debug\netcoreapp2.1\1. Advertisement Message.pdb

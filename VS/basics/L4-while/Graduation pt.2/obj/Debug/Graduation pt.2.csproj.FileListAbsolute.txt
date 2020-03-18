@@ -1,0 +1,6 @@
+P:\Projects\softUni\VS\U4-while\Graduation pt.2\bin\Debug\Graduation pt.2.exe.config
+P:\Projects\softUni\VS\U4-while\Graduation pt.2\bin\Debug\Graduation pt.2.exe
+P:\Projects\softUni\VS\U4-while\Graduation pt.2\bin\Debug\Graduation pt.2.pdb
+P:\Projects\softUni\VS\U4-while\Graduation pt.2\obj\Debug\Graduation pt.2.csprojResolveAssemblyReference.cache
+P:\Projects\softUni\VS\U4-while\Graduation pt.2\obj\Debug\Graduation pt.2.exe
+P:\Projects\softUni\VS\U4-while\Graduation pt.2\obj\Debug\Graduation pt.2.pdb

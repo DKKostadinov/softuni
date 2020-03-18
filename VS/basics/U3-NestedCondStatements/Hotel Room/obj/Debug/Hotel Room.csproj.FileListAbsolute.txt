@@ -1,0 +1,5 @@
+P:\Projects\softUni\VS\U3-NestedCondStatements\Hotel Room\bin\Debug\Hotel Room.exe.config
+P:\Projects\softUni\VS\U3-NestedCondStatements\Hotel Room\bin\Debug\Hotel Room.exe
+P:\Projects\softUni\VS\U3-NestedCondStatements\Hotel Room\bin\Debug\Hotel Room.pdb
+P:\Projects\softUni\VS\U3-NestedCondStatements\Hotel Room\obj\Debug\Hotel Room.exe
+P:\Projects\softUni\VS\U3-NestedCondStatements\Hotel Room\obj\Debug\Hotel Room.pdb

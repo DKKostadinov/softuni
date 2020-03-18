@@ -1,0 +1,11 @@
+P:\Projects\softUni\VS\web\HttpRequester\HttpRequester\bin\Debug\netcoreapp2.1\HttpRequester.deps.json
+P:\Projects\softUni\VS\web\HttpRequester\HttpRequester\bin\Debug\netcoreapp2.1\HttpRequester.runtimeconfig.json
+P:\Projects\softUni\VS\web\HttpRequester\HttpRequester\bin\Debug\netcoreapp2.1\HttpRequester.runtimeconfig.dev.json
+P:\Projects\softUni\VS\web\HttpRequester\HttpRequester\bin\Debug\netcoreapp2.1\HttpRequester.dll
+P:\Projects\softUni\VS\web\HttpRequester\HttpRequester\bin\Debug\netcoreapp2.1\HttpRequester.pdb
+P:\Projects\softUni\VS\web\HttpRequester\HttpRequester\obj\Debug\netcoreapp2.1\HttpRequester.csprojAssemblyReference.cache
+P:\Projects\softUni\VS\web\HttpRequester\HttpRequester\obj\Debug\netcoreapp2.1\HttpRequester.csproj.CoreCompileInputs.cache
+P:\Projects\softUni\VS\web\HttpRequester\HttpRequester\obj\Debug\netcoreapp2.1\HttpRequester.AssemblyInfoInputs.cache
+P:\Projects\softUni\VS\web\HttpRequester\HttpRequester\obj\Debug\netcoreapp2.1\HttpRequester.AssemblyInfo.cs
+P:\Projects\softUni\VS\web\HttpRequester\HttpRequester\obj\Debug\netcoreapp2.1\HttpRequester.dll
+P:\Projects\softUni\VS\web\HttpRequester\HttpRequester\obj\Debug\netcoreapp2.1\HttpRequester.pdb

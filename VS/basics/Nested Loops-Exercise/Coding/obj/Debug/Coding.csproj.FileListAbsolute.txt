@@ -1,0 +1,5 @@
+P:\Projects\softUni\VS\Nested Loops-Exercise\Coding\bin\Debug\Coding.exe.config
+P:\Projects\softUni\VS\Nested Loops-Exercise\Coding\bin\Debug\Coding.exe
+P:\Projects\softUni\VS\Nested Loops-Exercise\Coding\bin\Debug\Coding.pdb
+P:\Projects\softUni\VS\Nested Loops-Exercise\Coding\obj\Debug\Coding.exe
+P:\Projects\softUni\VS\Nested Loops-Exercise\Coding\obj\Debug\Coding.pdb

@@ -1,0 +1,11 @@
+P:\Projects\softUni\VS\Tech\Exercise - Associative Arrays\Student Academy\bin\Debug\netcoreapp2.1\Student Academy.deps.json
+P:\Projects\softUni\VS\Tech\Exercise - Associative Arrays\Student Academy\bin\Debug\netcoreapp2.1\Student Academy.runtimeconfig.json
+P:\Projects\softUni\VS\Tech\Exercise - Associative Arrays\Student Academy\bin\Debug\netcoreapp2.1\Student Academy.runtimeconfig.dev.json
+P:\Projects\softUni\VS\Tech\Exercise - Associative Arrays\Student Academy\bin\Debug\netcoreapp2.1\Student Academy.dll
+P:\Projects\softUni\VS\Tech\Exercise - Associative Arrays\Student Academy\bin\Debug\netcoreapp2.1\Student Academy.pdb
+P:\Projects\softUni\VS\Tech\Exercise - Associative Arrays\Student Academy\obj\Debug\netcoreapp2.1\Student Academy.csprojAssemblyReference.cache
+P:\Projects\softUni\VS\Tech\Exercise - Associative Arrays\Student Academy\obj\Debug\netcoreapp2.1\Student Academy.csproj.CoreCompileInputs.cache
+P:\Projects\softUni\VS\Tech\Exercise - Associative Arrays\Student Academy\obj\Debug\netcoreapp2.1\Student Academy.AssemblyInfoInputs.cache
+P:\Projects\softUni\VS\Tech\Exercise - Associative Arrays\Student Academy\obj\Debug\netcoreapp2.1\Student Academy.AssemblyInfo.cs
+P:\Projects\softUni\VS\Tech\Exercise - Associative Arrays\Student Academy\obj\Debug\netcoreapp2.1\Student Academy.dll
+P:\Projects\softUni\VS\Tech\Exercise - Associative Arrays\Student Academy\obj\Debug\netcoreapp2.1\Student Academy.pdb

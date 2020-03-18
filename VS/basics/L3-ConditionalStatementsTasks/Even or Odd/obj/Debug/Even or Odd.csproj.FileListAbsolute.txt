@@ -1,0 +1,5 @@
+P:\Projects\softUni\VS\L3-ConditionalStatementsTasks\Even or Odd\bin\Debug\Even or Odd.exe.config
+P:\Projects\softUni\VS\L3-ConditionalStatementsTasks\Even or Odd\bin\Debug\Even or Odd.exe
+P:\Projects\softUni\VS\L3-ConditionalStatementsTasks\Even or Odd\bin\Debug\Even or Odd.pdb
+P:\Projects\softUni\VS\L3-ConditionalStatementsTasks\Even or Odd\obj\Debug\Even or Odd.exe
+P:\Projects\softUni\VS\L3-ConditionalStatementsTasks\Even or Odd\obj\Debug\Even or Odd.pdb

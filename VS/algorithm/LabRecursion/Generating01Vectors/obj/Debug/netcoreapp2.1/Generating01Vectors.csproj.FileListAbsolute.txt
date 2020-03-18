@@ -1,0 +1,11 @@
+P:\Projects\softUni\VS\algorithm\LabRecursion\Generating01Vectors\bin\Debug\netcoreapp2.1\Generating01Vectors.deps.json
+P:\Projects\softUni\VS\algorithm\LabRecursion\Generating01Vectors\bin\Debug\netcoreapp2.1\Generating01Vectors.runtimeconfig.json
+P:\Projects\softUni\VS\algorithm\LabRecursion\Generating01Vectors\bin\Debug\netcoreapp2.1\Generating01Vectors.runtimeconfig.dev.json
+P:\Projects\softUni\VS\algorithm\LabRecursion\Generating01Vectors\bin\Debug\netcoreapp2.1\Generating01Vectors.dll
+P:\Projects\softUni\VS\algorithm\LabRecursion\Generating01Vectors\bin\Debug\netcoreapp2.1\Generating01Vectors.pdb
+P:\Projects\softUni\VS\algorithm\LabRecursion\Generating01Vectors\obj\Debug\netcoreapp2.1\Generating01Vectors.csproj.CoreCompileInputs.cache
+P:\Projects\softUni\VS\algorithm\LabRecursion\Generating01Vectors\obj\Debug\netcoreapp2.1\Generating01Vectors.AssemblyInfoInputs.cache
+P:\Projects\softUni\VS\algorithm\LabRecursion\Generating01Vectors\obj\Debug\netcoreapp2.1\Generating01Vectors.AssemblyInfo.cs
+P:\Projects\softUni\VS\algorithm\LabRecursion\Generating01Vectors\obj\Debug\netcoreapp2.1\Generating01Vectors.dll
+P:\Projects\softUni\VS\algorithm\LabRecursion\Generating01Vectors\obj\Debug\netcoreapp2.1\Generating01Vectors.pdb
+P:\Projects\softUni\VS\algorithm\LabRecursion\Generating01Vectors\obj\Debug\netcoreapp2.1\Generating01Vectors.csprojAssemblyReference.cache

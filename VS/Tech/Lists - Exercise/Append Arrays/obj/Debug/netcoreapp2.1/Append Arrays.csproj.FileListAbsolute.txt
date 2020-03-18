@@ -1,0 +1,10 @@
+P:\Projects\softUni\VS\Tech\Lists - Exercise\Append Arrays\bin\Debug\netcoreapp2.1\Append Arrays.deps.json
+P:\Projects\softUni\VS\Tech\Lists - Exercise\Append Arrays\bin\Debug\netcoreapp2.1\Append Arrays.runtimeconfig.json
+P:\Projects\softUni\VS\Tech\Lists - Exercise\Append Arrays\bin\Debug\netcoreapp2.1\Append Arrays.runtimeconfig.dev.json
+P:\Projects\softUni\VS\Tech\Lists - Exercise\Append Arrays\bin\Debug\netcoreapp2.1\Append Arrays.dll
+P:\Projects\softUni\VS\Tech\Lists - Exercise\Append Arrays\bin\Debug\netcoreapp2.1\Append Arrays.pdb
+P:\Projects\softUni\VS\Tech\Lists - Exercise\Append Arrays\obj\Debug\netcoreapp2.1\Append Arrays.csproj.CoreCompileInputs.cache
+P:\Projects\softUni\VS\Tech\Lists - Exercise\Append Arrays\obj\Debug\netcoreapp2.1\Append Arrays.AssemblyInfoInputs.cache
+P:\Projects\softUni\VS\Tech\Lists - Exercise\Append Arrays\obj\Debug\netcoreapp2.1\Append Arrays.AssemblyInfo.cs
+P:\Projects\softUni\VS\Tech\Lists - Exercise\Append Arrays\obj\Debug\netcoreapp2.1\Append Arrays.dll
+P:\Projects\softUni\VS\Tech\Lists - Exercise\Append Arrays\obj\Debug\netcoreapp2.1\Append Arrays.pdb

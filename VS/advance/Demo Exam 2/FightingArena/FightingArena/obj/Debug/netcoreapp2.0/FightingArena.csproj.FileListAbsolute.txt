@@ -1,0 +1,11 @@
+P:\Projects\softUni\VS\advance\Demo Exam 2\FightingArena\FightingArena\bin\Debug\netcoreapp2.0\FightingArena.deps.json
+P:\Projects\softUni\VS\advance\Demo Exam 2\FightingArena\FightingArena\bin\Debug\netcoreapp2.0\FightingArena.runtimeconfig.json
+P:\Projects\softUni\VS\advance\Demo Exam 2\FightingArena\FightingArena\bin\Debug\netcoreapp2.0\FightingArena.runtimeconfig.dev.json
+P:\Projects\softUni\VS\advance\Demo Exam 2\FightingArena\FightingArena\bin\Debug\netcoreapp2.0\FightingArena.dll
+P:\Projects\softUni\VS\advance\Demo Exam 2\FightingArena\FightingArena\bin\Debug\netcoreapp2.0\FightingArena.pdb
+P:\Projects\softUni\VS\advance\Demo Exam 2\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.csprojAssemblyReference.cache
+P:\Projects\softUni\VS\advance\Demo Exam 2\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.csproj.CoreCompileInputs.cache
+P:\Projects\softUni\VS\advance\Demo Exam 2\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.AssemblyInfoInputs.cache
+P:\Projects\softUni\VS\advance\Demo Exam 2\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.AssemblyInfo.cs
+P:\Projects\softUni\VS\advance\Demo Exam 2\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.dll
+P:\Projects\softUni\VS\advance\Demo Exam 2\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.pdb

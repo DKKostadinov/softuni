@@ -1,0 +1,10 @@
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Middle Characters\bin\Debug\netcoreapp2.1\Middle Characters.deps.json
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Middle Characters\bin\Debug\netcoreapp2.1\Middle Characters.runtimeconfig.json
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Middle Characters\bin\Debug\netcoreapp2.1\Middle Characters.runtimeconfig.dev.json
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Middle Characters\bin\Debug\netcoreapp2.1\Middle Characters.dll
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Middle Characters\bin\Debug\netcoreapp2.1\Middle Characters.pdb
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Middle Characters\obj\Debug\netcoreapp2.1\Middle Characters.csproj.CoreCompileInputs.cache
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Middle Characters\obj\Debug\netcoreapp2.1\Middle Characters.AssemblyInfoInputs.cache
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Middle Characters\obj\Debug\netcoreapp2.1\Middle Characters.AssemblyInfo.cs
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Middle Characters\obj\Debug\netcoreapp2.1\Middle Characters.dll
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Middle Characters\obj\Debug\netcoreapp2.1\Middle Characters.pdb

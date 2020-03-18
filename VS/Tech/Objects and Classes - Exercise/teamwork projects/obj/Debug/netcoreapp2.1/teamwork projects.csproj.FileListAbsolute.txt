@@ -1,0 +1,10 @@
+P:\Projects\softUni\VS\Tech\Objects and Classes - Exercise\teamwork projects\bin\Debug\netcoreapp2.1\teamwork projects.deps.json
+P:\Projects\softUni\VS\Tech\Objects and Classes - Exercise\teamwork projects\bin\Debug\netcoreapp2.1\teamwork projects.runtimeconfig.json
+P:\Projects\softUni\VS\Tech\Objects and Classes - Exercise\teamwork projects\bin\Debug\netcoreapp2.1\teamwork projects.runtimeconfig.dev.json
+P:\Projects\softUni\VS\Tech\Objects and Classes - Exercise\teamwork projects\bin\Debug\netcoreapp2.1\teamwork projects.dll
+P:\Projects\softUni\VS\Tech\Objects and Classes - Exercise\teamwork projects\bin\Debug\netcoreapp2.1\teamwork projects.pdb
+P:\Projects\softUni\VS\Tech\Objects and Classes - Exercise\teamwork projects\obj\Debug\netcoreapp2.1\teamwork projects.csproj.CoreCompileInputs.cache
+P:\Projects\softUni\VS\Tech\Objects and Classes - Exercise\teamwork projects\obj\Debug\netcoreapp2.1\teamwork projects.AssemblyInfoInputs.cache
+P:\Projects\softUni\VS\Tech\Objects and Classes - Exercise\teamwork projects\obj\Debug\netcoreapp2.1\teamwork projects.AssemblyInfo.cs
+P:\Projects\softUni\VS\Tech\Objects and Classes - Exercise\teamwork projects\obj\Debug\netcoreapp2.1\teamwork projects.dll
+P:\Projects\softUni\VS\Tech\Objects and Classes - Exercise\teamwork projects\obj\Debug\netcoreapp2.1\teamwork projects.pdb

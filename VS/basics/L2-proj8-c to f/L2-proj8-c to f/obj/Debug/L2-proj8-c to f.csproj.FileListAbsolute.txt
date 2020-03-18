@@ -1,0 +1,6 @@
+P:\Projects\softUni\VS\L2-proj8-c to f\L2-proj8-c to f\bin\Debug\L2-proj8-c to f.exe.config
+P:\Projects\softUni\VS\L2-proj8-c to f\L2-proj8-c to f\bin\Debug\L2-proj8-c to f.exe
+P:\Projects\softUni\VS\L2-proj8-c to f\L2-proj8-c to f\bin\Debug\L2-proj8-c to f.pdb
+P:\Projects\softUni\VS\L2-proj8-c to f\L2-proj8-c to f\obj\Debug\L2-proj8-c to f.csprojResolveAssemblyReference.cache
+P:\Projects\softUni\VS\L2-proj8-c to f\L2-proj8-c to f\obj\Debug\L2-proj8-c to f.exe
+P:\Projects\softUni\VS\L2-proj8-c to f\L2-proj8-c to f\obj\Debug\L2-proj8-c to f.pdb

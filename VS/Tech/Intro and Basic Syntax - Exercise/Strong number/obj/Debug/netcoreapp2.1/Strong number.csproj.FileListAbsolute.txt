@@ -1,0 +1,10 @@
+P:\Projects\softUni\VS\Tech\Intro and Basic Syntax - Exercise\Strong number\bin\Debug\netcoreapp2.1\Strong number.deps.json
+P:\Projects\softUni\VS\Tech\Intro and Basic Syntax - Exercise\Strong number\bin\Debug\netcoreapp2.1\Strong number.runtimeconfig.json
+P:\Projects\softUni\VS\Tech\Intro and Basic Syntax - Exercise\Strong number\bin\Debug\netcoreapp2.1\Strong number.runtimeconfig.dev.json
+P:\Projects\softUni\VS\Tech\Intro and Basic Syntax - Exercise\Strong number\bin\Debug\netcoreapp2.1\Strong number.dll
+P:\Projects\softUni\VS\Tech\Intro and Basic Syntax - Exercise\Strong number\bin\Debug\netcoreapp2.1\Strong number.pdb
+P:\Projects\softUni\VS\Tech\Intro and Basic Syntax - Exercise\Strong number\obj\Debug\netcoreapp2.1\Strong number.csproj.CoreCompileInputs.cache
+P:\Projects\softUni\VS\Tech\Intro and Basic Syntax - Exercise\Strong number\obj\Debug\netcoreapp2.1\Strong number.AssemblyInfoInputs.cache
+P:\Projects\softUni\VS\Tech\Intro and Basic Syntax - Exercise\Strong number\obj\Debug\netcoreapp2.1\Strong number.AssemblyInfo.cs
+P:\Projects\softUni\VS\Tech\Intro and Basic Syntax - Exercise\Strong number\obj\Debug\netcoreapp2.1\Strong number.dll
+P:\Projects\softUni\VS\Tech\Intro and Basic Syntax - Exercise\Strong number\obj\Debug\netcoreapp2.1\Strong number.pdb

@@ -1,0 +1,6 @@
+P:\Projects\softUni\VS\U4-while\Exam Preparation\bin\Debug\Exam Preparation.exe.config
+P:\Projects\softUni\VS\U4-while\Exam Preparation\bin\Debug\Exam Preparation.exe
+P:\Projects\softUni\VS\U4-while\Exam Preparation\bin\Debug\Exam Preparation.pdb
+P:\Projects\softUni\VS\U4-while\Exam Preparation\obj\Debug\Exam Preparation.csprojResolveAssemblyReference.cache
+P:\Projects\softUni\VS\U4-while\Exam Preparation\obj\Debug\Exam Preparation.exe
+P:\Projects\softUni\VS\U4-while\Exam Preparation\obj\Debug\Exam Preparation.pdb

@@ -1,0 +1,5 @@
+P:\Projects\softUni\VS\Programming Basics Online Exam\Wedding Investment\bin\Debug\Wedding Investment.exe.config
+P:\Projects\softUni\VS\Programming Basics Online Exam\Wedding Investment\bin\Debug\Wedding Investment.exe
+P:\Projects\softUni\VS\Programming Basics Online Exam\Wedding Investment\bin\Debug\Wedding Investment.pdb
+P:\Projects\softUni\VS\Programming Basics Online Exam\Wedding Investment\obj\Debug\Wedding Investment.exe
+P:\Projects\softUni\VS\Programming Basics Online Exam\Wedding Investment\obj\Debug\Wedding Investment.pdb

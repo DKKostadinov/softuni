@@ -1,0 +1,5 @@
+P:\Projects\softUni\VS\Programming Basics Sample Exam - 28 October 2018\Bus\bin\Debug\Bus.exe.config
+P:\Projects\softUni\VS\Programming Basics Sample Exam - 28 October 2018\Bus\bin\Debug\Bus.exe
+P:\Projects\softUni\VS\Programming Basics Sample Exam - 28 October 2018\Bus\bin\Debug\Bus.pdb
+P:\Projects\softUni\VS\Programming Basics Sample Exam - 28 October 2018\Bus\obj\Debug\Bus.exe
+P:\Projects\softUni\VS\Programming Basics Sample Exam - 28 October 2018\Bus\obj\Debug\Bus.pdb

@@ -1,0 +1,5 @@
+P:\Projects\softUni\VS\Programming Basics Online Exam\Maiden Party\bin\Debug\Maiden Party.exe.config
+P:\Projects\softUni\VS\Programming Basics Online Exam\Maiden Party\bin\Debug\Maiden Party.exe
+P:\Projects\softUni\VS\Programming Basics Online Exam\Maiden Party\bin\Debug\Maiden Party.pdb
+P:\Projects\softUni\VS\Programming Basics Online Exam\Maiden Party\obj\Debug\Maiden Party.exe
+P:\Projects\softUni\VS\Programming Basics Online Exam\Maiden Party\obj\Debug\Maiden Party.pdb

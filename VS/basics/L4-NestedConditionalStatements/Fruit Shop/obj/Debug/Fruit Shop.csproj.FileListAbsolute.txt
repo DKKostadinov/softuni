@@ -1,0 +1,5 @@
+P:\Projects\softUni\VS\L4-NestedConditionalStatements\Fruit Shop\bin\Debug\Fruit Shop.exe.config
+P:\Projects\softUni\VS\L4-NestedConditionalStatements\Fruit Shop\bin\Debug\Fruit Shop.exe
+P:\Projects\softUni\VS\L4-NestedConditionalStatements\Fruit Shop\bin\Debug\Fruit Shop.pdb
+P:\Projects\softUni\VS\L4-NestedConditionalStatements\Fruit Shop\obj\Debug\Fruit Shop.exe
+P:\Projects\softUni\VS\L4-NestedConditionalStatements\Fruit Shop\obj\Debug\Fruit Shop.pdb

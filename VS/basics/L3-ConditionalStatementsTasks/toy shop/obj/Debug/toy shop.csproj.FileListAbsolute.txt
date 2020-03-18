@@ -1,0 +1,6 @@
+P:\Projects\softUni\VS\L3-ConditionalStatementsTasks\toy shop\bin\Debug\toy shop.exe.config
+P:\Projects\softUni\VS\L3-ConditionalStatementsTasks\toy shop\bin\Debug\toy shop.exe
+P:\Projects\softUni\VS\L3-ConditionalStatementsTasks\toy shop\bin\Debug\toy shop.pdb
+P:\Projects\softUni\VS\L3-ConditionalStatementsTasks\toy shop\obj\Debug\toy shop.csprojResolveAssemblyReference.cache
+P:\Projects\softUni\VS\L3-ConditionalStatementsTasks\toy shop\obj\Debug\toy shop.exe
+P:\Projects\softUni\VS\L3-ConditionalStatementsTasks\toy shop\obj\Debug\toy shop.pdb

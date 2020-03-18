@@ -1,0 +1,11 @@
+P:\softuni materials\advance\Demo Exam\The Garden\bin\Debug\netcoreapp2.1\The Garden.deps.json
+P:\softuni materials\advance\Demo Exam\The Garden\bin\Debug\netcoreapp2.1\The Garden.runtimeconfig.json
+P:\softuni materials\advance\Demo Exam\The Garden\bin\Debug\netcoreapp2.1\The Garden.runtimeconfig.dev.json
+P:\softuni materials\advance\Demo Exam\The Garden\bin\Debug\netcoreapp2.1\The Garden.dll
+P:\softuni materials\advance\Demo Exam\The Garden\bin\Debug\netcoreapp2.1\The Garden.pdb
+P:\softuni materials\advance\Demo Exam\The Garden\obj\Debug\netcoreapp2.1\The Garden.csprojAssemblyReference.cache
+P:\softuni materials\advance\Demo Exam\The Garden\obj\Debug\netcoreapp2.1\The Garden.csproj.CoreCompileInputs.cache
+P:\softuni materials\advance\Demo Exam\The Garden\obj\Debug\netcoreapp2.1\The Garden.AssemblyInfoInputs.cache
+P:\softuni materials\advance\Demo Exam\The Garden\obj\Debug\netcoreapp2.1\The Garden.AssemblyInfo.cs
+P:\softuni materials\advance\Demo Exam\The Garden\obj\Debug\netcoreapp2.1\The Garden.dll
+P:\softuni materials\advance\Demo Exam\The Garden\obj\Debug\netcoreapp2.1\The Garden.pdb

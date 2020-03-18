@@ -1,0 +1,5 @@
+P:\Projects\softUni\VS\L2-proj4-greeting\L2-proj4-greeting\bin\Debug\L2-proj4-greeting.exe.config
+P:\Projects\softUni\VS\L2-proj4-greeting\L2-proj4-greeting\bin\Debug\L2-proj4-greeting.exe
+P:\Projects\softUni\VS\L2-proj4-greeting\L2-proj4-greeting\bin\Debug\L2-proj4-greeting.pdb
+P:\Projects\softUni\VS\L2-proj4-greeting\L2-proj4-greeting\obj\Debug\L2-proj4-greeting.exe
+P:\Projects\softUni\VS\L2-proj4-greeting\L2-proj4-greeting\obj\Debug\L2-proj4-greeting.pdb

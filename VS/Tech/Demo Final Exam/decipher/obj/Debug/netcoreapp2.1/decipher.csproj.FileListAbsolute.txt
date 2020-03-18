@@ -1,0 +1,11 @@
+P:\Projects\softUni\VS\Tech\Demo Final Exam\decipher\bin\Debug\netcoreapp2.1\decipher.deps.json
+P:\Projects\softUni\VS\Tech\Demo Final Exam\decipher\bin\Debug\netcoreapp2.1\decipher.runtimeconfig.json
+P:\Projects\softUni\VS\Tech\Demo Final Exam\decipher\bin\Debug\netcoreapp2.1\decipher.runtimeconfig.dev.json
+P:\Projects\softUni\VS\Tech\Demo Final Exam\decipher\bin\Debug\netcoreapp2.1\decipher.dll
+P:\Projects\softUni\VS\Tech\Demo Final Exam\decipher\bin\Debug\netcoreapp2.1\decipher.pdb
+P:\Projects\softUni\VS\Tech\Demo Final Exam\decipher\obj\Debug\netcoreapp2.1\decipher.csprojAssemblyReference.cache
+P:\Projects\softUni\VS\Tech\Demo Final Exam\decipher\obj\Debug\netcoreapp2.1\decipher.csproj.CoreCompileInputs.cache
+P:\Projects\softUni\VS\Tech\Demo Final Exam\decipher\obj\Debug\netcoreapp2.1\decipher.AssemblyInfoInputs.cache
+P:\Projects\softUni\VS\Tech\Demo Final Exam\decipher\obj\Debug\netcoreapp2.1\decipher.AssemblyInfo.cs
+P:\Projects\softUni\VS\Tech\Demo Final Exam\decipher\obj\Debug\netcoreapp2.1\decipher.dll
+P:\Projects\softUni\VS\Tech\Demo Final Exam\decipher\obj\Debug\netcoreapp2.1\decipher.pdb

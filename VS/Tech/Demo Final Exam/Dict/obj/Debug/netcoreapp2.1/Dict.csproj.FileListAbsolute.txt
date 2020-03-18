@@ -1,0 +1,11 @@
+P:\Projects\softUni\VS\Tech\Demo Final Exam\Dict\bin\Debug\netcoreapp2.1\Dict.deps.json
+P:\Projects\softUni\VS\Tech\Demo Final Exam\Dict\bin\Debug\netcoreapp2.1\Dict.runtimeconfig.json
+P:\Projects\softUni\VS\Tech\Demo Final Exam\Dict\bin\Debug\netcoreapp2.1\Dict.runtimeconfig.dev.json
+P:\Projects\softUni\VS\Tech\Demo Final Exam\Dict\bin\Debug\netcoreapp2.1\Dict.dll
+P:\Projects\softUni\VS\Tech\Demo Final Exam\Dict\bin\Debug\netcoreapp2.1\Dict.pdb
+P:\Projects\softUni\VS\Tech\Demo Final Exam\Dict\obj\Debug\netcoreapp2.1\Dict.csprojAssemblyReference.cache
+P:\Projects\softUni\VS\Tech\Demo Final Exam\Dict\obj\Debug\netcoreapp2.1\Dict.csproj.CoreCompileInputs.cache
+P:\Projects\softUni\VS\Tech\Demo Final Exam\Dict\obj\Debug\netcoreapp2.1\Dict.AssemblyInfoInputs.cache
+P:\Projects\softUni\VS\Tech\Demo Final Exam\Dict\obj\Debug\netcoreapp2.1\Dict.AssemblyInfo.cs
+P:\Projects\softUni\VS\Tech\Demo Final Exam\Dict\obj\Debug\netcoreapp2.1\Dict.dll
+P:\Projects\softUni\VS\Tech\Demo Final Exam\Dict\obj\Debug\netcoreapp2.1\Dict.pdb

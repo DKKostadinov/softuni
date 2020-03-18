@@ -1,0 +1,6 @@
+P:\Projects\softUni\VS\Nested Loops-Exercise\Number Pyramid\bin\Debug\Number Pyramid.exe.config
+P:\Projects\softUni\VS\Nested Loops-Exercise\Number Pyramid\bin\Debug\Number Pyramid.exe
+P:\Projects\softUni\VS\Nested Loops-Exercise\Number Pyramid\bin\Debug\Number Pyramid.pdb
+P:\Projects\softUni\VS\Nested Loops-Exercise\Number Pyramid\obj\Debug\Number Pyramid.csprojResolveAssemblyReference.cache
+P:\Projects\softUni\VS\Nested Loops-Exercise\Number Pyramid\obj\Debug\Number Pyramid.exe
+P:\Projects\softUni\VS\Nested Loops-Exercise\Number Pyramid\obj\Debug\Number Pyramid.pdb

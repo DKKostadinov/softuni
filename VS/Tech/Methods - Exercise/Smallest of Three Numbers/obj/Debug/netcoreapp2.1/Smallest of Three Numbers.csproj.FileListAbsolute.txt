@@ -1,0 +1,11 @@
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Smallest of Three Numbers\bin\Debug\netcoreapp2.1\Smallest of Three Numbers.deps.json
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Smallest of Three Numbers\bin\Debug\netcoreapp2.1\Smallest of Three Numbers.runtimeconfig.json
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Smallest of Three Numbers\bin\Debug\netcoreapp2.1\Smallest of Three Numbers.runtimeconfig.dev.json
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Smallest of Three Numbers\bin\Debug\netcoreapp2.1\Smallest of Three Numbers.dll
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Smallest of Three Numbers\bin\Debug\netcoreapp2.1\Smallest of Three Numbers.pdb
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Smallest of Three Numbers\obj\Debug\netcoreapp2.1\Smallest of Three Numbers.csprojAssemblyReference.cache
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Smallest of Three Numbers\obj\Debug\netcoreapp2.1\Smallest of Three Numbers.csproj.CoreCompileInputs.cache
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Smallest of Three Numbers\obj\Debug\netcoreapp2.1\Smallest of Three Numbers.AssemblyInfoInputs.cache
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Smallest of Three Numbers\obj\Debug\netcoreapp2.1\Smallest of Three Numbers.AssemblyInfo.cs
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Smallest of Three Numbers\obj\Debug\netcoreapp2.1\Smallest of Three Numbers.dll
+P:\Projects\softUni\VS\Tech\Methods - Exercise\Smallest of Three Numbers\obj\Debug\netcoreapp2.1\Smallest of Three Numbers.pdb

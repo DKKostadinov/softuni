@@ -1,0 +1,6 @@
+P:\Projects\softUni\VS\U2-ConditionalStatementsTasks\Three-Bros\bin\Debug\Three-Bros.exe.config
+P:\Projects\softUni\VS\U2-ConditionalStatementsTasks\Three-Bros\bin\Debug\Three-Bros.exe
+P:\Projects\softUni\VS\U2-ConditionalStatementsTasks\Three-Bros\bin\Debug\Three-Bros.pdb
+P:\Projects\softUni\VS\U2-ConditionalStatementsTasks\Three-Bros\obj\Debug\Three-Bros.csprojResolveAssemblyReference.cache
+P:\Projects\softUni\VS\U2-ConditionalStatementsTasks\Three-Bros\obj\Debug\Three-Bros.exe
+P:\Projects\softUni\VS\U2-ConditionalStatementsTasks\Three-Bros\obj\Debug\Three-Bros.pdb
