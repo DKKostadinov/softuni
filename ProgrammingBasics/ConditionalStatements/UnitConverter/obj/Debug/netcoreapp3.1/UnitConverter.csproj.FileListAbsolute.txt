@@ -1,0 +1,13 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\UnitConverter\bin\Debug\netcoreapp3.1\UnitConverter.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\UnitConverter\bin\Debug\netcoreapp3.1\UnitConverter.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\UnitConverter\bin\Debug\netcoreapp3.1\UnitConverter.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\UnitConverter\bin\Debug\netcoreapp3.1\UnitConverter.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\UnitConverter\bin\Debug\netcoreapp3.1\UnitConverter.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\UnitConverter\bin\Debug\netcoreapp3.1\UnitConverter.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\UnitConverter\obj\Debug\netcoreapp3.1\UnitConverter.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\UnitConverter\obj\Debug\netcoreapp3.1\UnitConverter.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\UnitConverter\obj\Debug\netcoreapp3.1\UnitConverter.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\UnitConverter\obj\Debug\netcoreapp3.1\UnitConverter.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\UnitConverter\obj\Debug\netcoreapp3.1\UnitConverter.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\UnitConverter\obj\Debug\netcoreapp3.1\UnitConverter.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\UnitConverter\obj\Debug\netcoreapp3.1\UnitConverter.genruntimeconfig.cache

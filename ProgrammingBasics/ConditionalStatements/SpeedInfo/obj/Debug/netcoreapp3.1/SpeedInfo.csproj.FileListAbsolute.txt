@@ -1,0 +1,13 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\SpeedInfo\bin\Debug\netcoreapp3.1\SpeedInfo.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\SpeedInfo\bin\Debug\netcoreapp3.1\SpeedInfo.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\SpeedInfo\bin\Debug\netcoreapp3.1\SpeedInfo.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\SpeedInfo\bin\Debug\netcoreapp3.1\SpeedInfo.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\SpeedInfo\bin\Debug\netcoreapp3.1\SpeedInfo.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\SpeedInfo\bin\Debug\netcoreapp3.1\SpeedInfo.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\SpeedInfo\obj\Debug\netcoreapp3.1\SpeedInfo.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\SpeedInfo\obj\Debug\netcoreapp3.1\SpeedInfo.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\SpeedInfo\obj\Debug\netcoreapp3.1\SpeedInfo.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\SpeedInfo\obj\Debug\netcoreapp3.1\SpeedInfo.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\SpeedInfo\obj\Debug\netcoreapp3.1\SpeedInfo.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\SpeedInfo\obj\Debug\netcoreapp3.1\SpeedInfo.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\SpeedInfo\obj\Debug\netcoreapp3.1\SpeedInfo.genruntimeconfig.cache

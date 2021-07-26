@@ -1,0 +1,13 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\BonusPoints\bin\Debug\netcoreapp3.1\BonusPoints.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\BonusPoints\bin\Debug\netcoreapp3.1\BonusPoints.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\BonusPoints\bin\Debug\netcoreapp3.1\BonusPoints.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\BonusPoints\bin\Debug\netcoreapp3.1\BonusPoints.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\BonusPoints\bin\Debug\netcoreapp3.1\BonusPoints.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\BonusPoints\bin\Debug\netcoreapp3.1\BonusPoints.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\CalculatingSeconds\bin\Debug\netcoreapp3.1\CalculatingSeconds.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\CalculatingSeconds\bin\Debug\netcoreapp3.1\CalculatingSeconds.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\CalculatingSeconds\bin\Debug\netcoreapp3.1\CalculatingSeconds.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\CalculatingSeconds\bin\Debug\netcoreapp3.1\CalculatingSeconds.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\CalculatingSeconds\bin\Debug\netcoreapp3.1\CalculatingSeconds.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\CalculatingSeconds\bin\Debug\netcoreapp3.1\CalculatingSeconds.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\CalculatingSeconds\obj\Debug\netcoreapp3.1\CalculatingSeconds.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\CalculatingSeconds\obj\Debug\netcoreapp3.1\CalculatingSeconds.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\CalculatingSeconds\obj\Debug\netcoreapp3.1\CalculatingSeconds.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\CalculatingSeconds\obj\Debug\netcoreapp3.1\CalculatingSeconds.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\CalculatingSeconds\obj\Debug\netcoreapp3.1\CalculatingSeconds.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\CalculatingSeconds\obj\Debug\netcoreapp3.1\CalculatingSeconds.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\CalculatingSeconds\obj\Debug\netcoreapp3.1\CalculatingSeconds.genruntimeconfig.cache
