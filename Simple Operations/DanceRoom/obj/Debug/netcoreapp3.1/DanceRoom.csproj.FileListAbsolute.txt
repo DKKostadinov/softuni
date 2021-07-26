@@ -1,0 +1,12 @@
+C:\Users\kosta\source\repos\Simple Operations\DanceRoom\bin\Debug\netcoreapp3.1\DanceRoom.exe
+C:\Users\kosta\source\repos\Simple Operations\DanceRoom\bin\Debug\netcoreapp3.1\DanceRoom.deps.json
+C:\Users\kosta\source\repos\Simple Operations\DanceRoom\bin\Debug\netcoreapp3.1\DanceRoom.runtimeconfig.json
+C:\Users\kosta\source\repos\Simple Operations\DanceRoom\bin\Debug\netcoreapp3.1\DanceRoom.runtimeconfig.dev.json
+C:\Users\kosta\source\repos\Simple Operations\DanceRoom\bin\Debug\netcoreapp3.1\DanceRoom.dll
+C:\Users\kosta\source\repos\Simple Operations\DanceRoom\bin\Debug\netcoreapp3.1\DanceRoom.pdb
+C:\Users\kosta\source\repos\Simple Operations\DanceRoom\obj\Debug\netcoreapp3.1\DanceRoom.AssemblyInfoInputs.cache
+C:\Users\kosta\source\repos\Simple Operations\DanceRoom\obj\Debug\netcoreapp3.1\DanceRoom.AssemblyInfo.cs
+C:\Users\kosta\source\repos\Simple Operations\DanceRoom\obj\Debug\netcoreapp3.1\DanceRoom.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\Simple Operations\DanceRoom\obj\Debug\netcoreapp3.1\DanceRoom.dll
+C:\Users\kosta\source\repos\Simple Operations\DanceRoom\obj\Debug\netcoreapp3.1\DanceRoom.pdb
+C:\Users\kosta\source\repos\Simple Operations\DanceRoom\obj\Debug\netcoreapp3.1\DanceRoom.genruntimeconfig.cache

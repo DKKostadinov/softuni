@@ -1,0 +1,13 @@
+C:\Users\kosta\source\repos\Simple Operations\ConsoleConverter\bin\Debug\netcoreapp3.1\ConsoleConverter.exe
+C:\Users\kosta\source\repos\Simple Operations\ConsoleConverter\bin\Debug\netcoreapp3.1\ConsoleConverter.deps.json
+C:\Users\kosta\source\repos\Simple Operations\ConsoleConverter\bin\Debug\netcoreapp3.1\ConsoleConverter.runtimeconfig.json
+C:\Users\kosta\source\repos\Simple Operations\ConsoleConverter\bin\Debug\netcoreapp3.1\ConsoleConverter.runtimeconfig.dev.json
+C:\Users\kosta\source\repos\Simple Operations\ConsoleConverter\bin\Debug\netcoreapp3.1\ConsoleConverter.dll
+C:\Users\kosta\source\repos\Simple Operations\ConsoleConverter\bin\Debug\netcoreapp3.1\ConsoleConverter.pdb
+C:\Users\kosta\source\repos\Simple Operations\ConsoleConverter\obj\Debug\netcoreapp3.1\ConsoleConverter.csproj.AssemblyReference.cache
+C:\Users\kosta\source\repos\Simple Operations\ConsoleConverter\obj\Debug\netcoreapp3.1\ConsoleConverter.AssemblyInfoInputs.cache
+C:\Users\kosta\source\repos\Simple Operations\ConsoleConverter\obj\Debug\netcoreapp3.1\ConsoleConverter.AssemblyInfo.cs
+C:\Users\kosta\source\repos\Simple Operations\ConsoleConverter\obj\Debug\netcoreapp3.1\ConsoleConverter.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\Simple Operations\ConsoleConverter\obj\Debug\netcoreapp3.1\ConsoleConverter.dll
+C:\Users\kosta\source\repos\Simple Operations\ConsoleConverter\obj\Debug\netcoreapp3.1\ConsoleConverter.pdb
+C:\Users\kosta\source\repos\Simple Operations\ConsoleConverter\obj\Debug\netcoreapp3.1\ConsoleConverter.genruntimeconfig.cache

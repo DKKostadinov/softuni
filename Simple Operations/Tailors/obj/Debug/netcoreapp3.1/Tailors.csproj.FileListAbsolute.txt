@@ -1,0 +1,13 @@
+C:\Users\kosta\source\repos\Simple Operations\Tailors\bin\Debug\netcoreapp3.1\Tailors.exe
+C:\Users\kosta\source\repos\Simple Operations\Tailors\bin\Debug\netcoreapp3.1\Tailors.deps.json
+C:\Users\kosta\source\repos\Simple Operations\Tailors\bin\Debug\netcoreapp3.1\Tailors.runtimeconfig.json
+C:\Users\kosta\source\repos\Simple Operations\Tailors\bin\Debug\netcoreapp3.1\Tailors.runtimeconfig.dev.json
+C:\Users\kosta\source\repos\Simple Operations\Tailors\bin\Debug\netcoreapp3.1\Tailors.dll
+C:\Users\kosta\source\repos\Simple Operations\Tailors\bin\Debug\netcoreapp3.1\Tailors.pdb
+C:\Users\kosta\source\repos\Simple Operations\Tailors\obj\Debug\netcoreapp3.1\Tailors.csproj.AssemblyReference.cache
+C:\Users\kosta\source\repos\Simple Operations\Tailors\obj\Debug\netcoreapp3.1\Tailors.AssemblyInfoInputs.cache
+C:\Users\kosta\source\repos\Simple Operations\Tailors\obj\Debug\netcoreapp3.1\Tailors.AssemblyInfo.cs
+C:\Users\kosta\source\repos\Simple Operations\Tailors\obj\Debug\netcoreapp3.1\Tailors.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\Simple Operations\Tailors\obj\Debug\netcoreapp3.1\Tailors.dll
+C:\Users\kosta\source\repos\Simple Operations\Tailors\obj\Debug\netcoreapp3.1\Tailors.pdb
+C:\Users\kosta\source\repos\Simple Operations\Tailors\obj\Debug\netcoreapp3.1\Tailors.genruntimeconfig.cache

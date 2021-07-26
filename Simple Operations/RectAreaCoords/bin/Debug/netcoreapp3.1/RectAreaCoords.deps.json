@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RectAreaCoords/1.0.0": {
+        "runtime": {
+          "RectAreaCoords.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RectAreaCoords/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

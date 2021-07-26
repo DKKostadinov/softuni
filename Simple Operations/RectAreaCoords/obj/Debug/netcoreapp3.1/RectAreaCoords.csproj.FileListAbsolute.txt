@@ -1,0 +1,12 @@
+C:\Users\kosta\source\repos\Simple Operations\RectAreaCoords\bin\Debug\netcoreapp3.1\RectAreaCoords.exe
+C:\Users\kosta\source\repos\Simple Operations\RectAreaCoords\bin\Debug\netcoreapp3.1\RectAreaCoords.deps.json
+C:\Users\kosta\source\repos\Simple Operations\RectAreaCoords\bin\Debug\netcoreapp3.1\RectAreaCoords.runtimeconfig.json
+C:\Users\kosta\source\repos\Simple Operations\RectAreaCoords\bin\Debug\netcoreapp3.1\RectAreaCoords.runtimeconfig.dev.json
+C:\Users\kosta\source\repos\Simple Operations\RectAreaCoords\bin\Debug\netcoreapp3.1\RectAreaCoords.dll
+C:\Users\kosta\source\repos\Simple Operations\RectAreaCoords\bin\Debug\netcoreapp3.1\RectAreaCoords.pdb
+C:\Users\kosta\source\repos\Simple Operations\RectAreaCoords\obj\Debug\netcoreapp3.1\RectAreaCoords.AssemblyInfoInputs.cache
+C:\Users\kosta\source\repos\Simple Operations\RectAreaCoords\obj\Debug\netcoreapp3.1\RectAreaCoords.AssemblyInfo.cs
+C:\Users\kosta\source\repos\Simple Operations\RectAreaCoords\obj\Debug\netcoreapp3.1\RectAreaCoords.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\Simple Operations\RectAreaCoords\obj\Debug\netcoreapp3.1\RectAreaCoords.dll
+C:\Users\kosta\source\repos\Simple Operations\RectAreaCoords\obj\Debug\netcoreapp3.1\RectAreaCoords.pdb
+C:\Users\kosta\source\repos\Simple Operations\RectAreaCoords\obj\Debug\netcoreapp3.1\RectAreaCoords.genruntimeconfig.cache

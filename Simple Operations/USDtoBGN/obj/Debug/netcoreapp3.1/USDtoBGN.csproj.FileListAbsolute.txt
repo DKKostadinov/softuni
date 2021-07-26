@@ -1,0 +1,13 @@
+C:\Users\kosta\source\repos\Simple Operations\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.exe
+C:\Users\kosta\source\repos\Simple Operations\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.deps.json
+C:\Users\kosta\source\repos\Simple Operations\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.runtimeconfig.json
+C:\Users\kosta\source\repos\Simple Operations\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.runtimeconfig.dev.json
+C:\Users\kosta\source\repos\Simple Operations\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.dll
+C:\Users\kosta\source\repos\Simple Operations\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.pdb
+C:\Users\kosta\source\repos\Simple Operations\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.csproj.AssemblyReference.cache
+C:\Users\kosta\source\repos\Simple Operations\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.AssemblyInfoInputs.cache
+C:\Users\kosta\source\repos\Simple Operations\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.AssemblyInfo.cs
+C:\Users\kosta\source\repos\Simple Operations\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\Simple Operations\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.dll
+C:\Users\kosta\source\repos\Simple Operations\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.pdb
+C:\Users\kosta\source\repos\Simple Operations\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.genruntimeconfig.cache
