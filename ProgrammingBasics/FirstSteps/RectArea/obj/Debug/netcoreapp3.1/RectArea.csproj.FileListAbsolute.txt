@@ -1,0 +1,12 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\RectArea\bin\Debug\netcoreapp3.1\RectArea.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\RectArea\bin\Debug\netcoreapp3.1\RectArea.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\RectArea\bin\Debug\netcoreapp3.1\RectArea.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\RectArea\bin\Debug\netcoreapp3.1\RectArea.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\RectArea\bin\Debug\netcoreapp3.1\RectArea.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\RectArea\bin\Debug\netcoreapp3.1\RectArea.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\RectArea\obj\Debug\netcoreapp3.1\RectArea.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\RectArea\obj\Debug\netcoreapp3.1\RectArea.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\RectArea\obj\Debug\netcoreapp3.1\RectArea.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\RectArea\obj\Debug\netcoreapp3.1\RectArea.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\RectArea\obj\Debug\netcoreapp3.1\RectArea.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\RectArea\obj\Debug\netcoreapp3.1\RectArea.genruntimeconfig.cache
