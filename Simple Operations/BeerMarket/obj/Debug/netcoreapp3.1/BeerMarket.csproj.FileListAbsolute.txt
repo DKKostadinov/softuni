@@ -1,0 +1,13 @@
+D:\Documents\GitHub\softuni\Simple Operations\BeerMarket\bin\Debug\netcoreapp3.1\BeerMarket.exe
+D:\Documents\GitHub\softuni\Simple Operations\BeerMarket\bin\Debug\netcoreapp3.1\BeerMarket.deps.json
+D:\Documents\GitHub\softuni\Simple Operations\BeerMarket\bin\Debug\netcoreapp3.1\BeerMarket.runtimeconfig.json
+D:\Documents\GitHub\softuni\Simple Operations\BeerMarket\bin\Debug\netcoreapp3.1\BeerMarket.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\Simple Operations\BeerMarket\bin\Debug\netcoreapp3.1\BeerMarket.dll
+D:\Documents\GitHub\softuni\Simple Operations\BeerMarket\bin\Debug\netcoreapp3.1\BeerMarket.pdb
+D:\Documents\GitHub\softuni\Simple Operations\BeerMarket\obj\Debug\netcoreapp3.1\BeerMarket.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\Simple Operations\BeerMarket\obj\Debug\netcoreapp3.1\BeerMarket.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\Simple Operations\BeerMarket\obj\Debug\netcoreapp3.1\BeerMarket.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\Simple Operations\BeerMarket\obj\Debug\netcoreapp3.1\BeerMarket.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\Simple Operations\BeerMarket\obj\Debug\netcoreapp3.1\BeerMarket.dll
+D:\Documents\GitHub\softuni\Simple Operations\BeerMarket\obj\Debug\netcoreapp3.1\BeerMarket.pdb
+D:\Documents\GitHub\softuni\Simple Operations\BeerMarket\obj\Debug\netcoreapp3.1\BeerMarket.genruntimeconfig.cache
