@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloSoftuni", "HelloSoftuni\HelloSoftuni.csproj", "{72D68FA4-8C1F-4E21-978D-89EBCC1A00B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloSoftuni", "HelloSoftuni\HelloSoftuni.csproj", "{72D68FA4-8C1F-4E21-978D-89EBCC1A00B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expression", "Expression\Expression.csproj", "{C6423DCA-18DB-4B3B-929F-3E32D322FAFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Expression", "Expression\Expression.csproj", "{C6423DCA-18DB-4B3B-929F-3E32D322FAFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nums1To20", "Nums1To20\Nums1To20.csproj", "{FE86BED0-3D54-4518-AEA6-9C52EFD80CB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nums1To20", "Nums1To20\Nums1To20.csproj", "{FE86BED0-3D54-4518-AEA6-9C52EFD80CB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleOf55Stars", "TriangleOf55Stars\TriangleOf55Stars.csproj", "{6B9DD517-8585-4942-87A4-92AFFAE228A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TriangleOf55Stars", "TriangleOf55Stars\TriangleOf55Stars.csproj", "{6B9DD517-8585-4942-87A4-92AFFAE228A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectArea", "RectArea\RectArea.csproj", "{429A3A85-2227-4DDE-821B-46BAB2D1F5BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RectArea", "RectArea\RectArea.csproj", "{429A3A85-2227-4DDE-821B-46BAB2D1F5BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarSquare", "StarSquare\StarSquare.csproj", "{816E6212-37C3-4E0D-8798-CE93F84468AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{429A3A85-2227-4DDE-821B-46BAB2D1F5BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{429A3A85-2227-4DDE-821B-46BAB2D1F5BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{429A3A85-2227-4DDE-821B-46BAB2D1F5BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{816E6212-37C3-4E0D-8798-CE93F84468AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{816E6212-37C3-4E0D-8798-CE93F84468AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{816E6212-37C3-4E0D-8798-CE93F84468AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{816E6212-37C3-4E0D-8798-CE93F84468AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

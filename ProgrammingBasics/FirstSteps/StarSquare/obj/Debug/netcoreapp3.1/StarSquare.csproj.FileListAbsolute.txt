@@ -1,0 +1,13 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\StarSquare\bin\Debug\netcoreapp3.1\StarSquare.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\StarSquare\bin\Debug\netcoreapp3.1\StarSquare.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\StarSquare\bin\Debug\netcoreapp3.1\StarSquare.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\StarSquare\bin\Debug\netcoreapp3.1\StarSquare.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\StarSquare\bin\Debug\netcoreapp3.1\StarSquare.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\StarSquare\bin\Debug\netcoreapp3.1\StarSquare.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\StarSquare\obj\Debug\netcoreapp3.1\StarSquare.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\StarSquare\obj\Debug\netcoreapp3.1\StarSquare.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\StarSquare\obj\Debug\netcoreapp3.1\StarSquare.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\StarSquare\obj\Debug\netcoreapp3.1\StarSquare.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\StarSquare\obj\Debug\netcoreapp3.1\StarSquare.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\StarSquare\obj\Debug\netcoreapp3.1\StarSquare.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\StarSquare\obj\Debug\netcoreapp3.1\StarSquare.genruntimeconfig.cache

@@ -10,3 +10,4 @@ D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\RectArea\obj\Debug\netc
 D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\RectArea\obj\Debug\netcoreapp3.1\RectArea.dll
 D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\RectArea\obj\Debug\netcoreapp3.1\RectArea.pdb
 D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\RectArea\obj\Debug\netcoreapp3.1\RectArea.genruntimeconfig.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\RectArea\obj\Debug\netcoreapp3.1\RectArea.csproj.AssemblyReference.cache
