@@ -1,0 +1,13 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\TimePlus15m\bin\Debug\netcoreapp3.1\TimePlus15m.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\TimePlus15m\bin\Debug\netcoreapp3.1\TimePlus15m.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\TimePlus15m\bin\Debug\netcoreapp3.1\TimePlus15m.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\TimePlus15m\bin\Debug\netcoreapp3.1\TimePlus15m.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\TimePlus15m\bin\Debug\netcoreapp3.1\TimePlus15m.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\TimePlus15m\bin\Debug\netcoreapp3.1\TimePlus15m.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\TimePlus15m\obj\Debug\netcoreapp3.1\TimePlus15m.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\TimePlus15m\obj\Debug\netcoreapp3.1\TimePlus15m.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\TimePlus15m\obj\Debug\netcoreapp3.1\TimePlus15m.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\TimePlus15m\obj\Debug\netcoreapp3.1\TimePlus15m.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\TimePlus15m\obj\Debug\netcoreapp3.1\TimePlus15m.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\TimePlus15m\obj\Debug\netcoreapp3.1\TimePlus15m.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\TimePlus15m\obj\Debug\netcoreapp3.1\TimePlus15m.genruntimeconfig.cache

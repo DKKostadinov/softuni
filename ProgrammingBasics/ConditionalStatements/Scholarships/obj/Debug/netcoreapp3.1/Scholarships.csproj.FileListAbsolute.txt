@@ -1,0 +1,12 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\Scholarships\bin\Debug\netcoreapp3.1\Scholarships.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\Scholarships\bin\Debug\netcoreapp3.1\Scholarships.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\Scholarships\bin\Debug\netcoreapp3.1\Scholarships.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\Scholarships\bin\Debug\netcoreapp3.1\Scholarships.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\Scholarships\bin\Debug\netcoreapp3.1\Scholarships.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\Scholarships\bin\Debug\netcoreapp3.1\Scholarships.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\Scholarships\obj\Debug\netcoreapp3.1\Scholarships.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\Scholarships\obj\Debug\netcoreapp3.1\Scholarships.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\Scholarships\obj\Debug\netcoreapp3.1\Scholarships.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\Scholarships\obj\Debug\netcoreapp3.1\Scholarships.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\Scholarships\obj\Debug\netcoreapp3.1\Scholarships.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\Scholarships\obj\Debug\netcoreapp3.1\Scholarships.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\ThreeBrothers\bin\Debug\netcoreapp3.1\ThreeBrothers.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\ThreeBrothers\bin\Debug\netcoreapp3.1\ThreeBrothers.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\ThreeBrothers\bin\Debug\netcoreapp3.1\ThreeBrothers.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\ThreeBrothers\bin\Debug\netcoreapp3.1\ThreeBrothers.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\ThreeBrothers\bin\Debug\netcoreapp3.1\ThreeBrothers.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\ThreeBrothers\bin\Debug\netcoreapp3.1\ThreeBrothers.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\ThreeBrothers\obj\Debug\netcoreapp3.1\ThreeBrothers.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\ThreeBrothers\obj\Debug\netcoreapp3.1\ThreeBrothers.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\ThreeBrothers\obj\Debug\netcoreapp3.1\ThreeBrothers.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\ThreeBrothers\obj\Debug\netcoreapp3.1\ThreeBrothers.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\ThreeBrothers\obj\Debug\netcoreapp3.1\ThreeBrothers.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\ThreeBrothers\obj\Debug\netcoreapp3.1\ThreeBrothers.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\Choreography\bin\Debug\netcoreapp3.1\Choreography.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\Choreography\bin\Debug\netcoreapp3.1\Choreography.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\Choreography\bin\Debug\netcoreapp3.1\Choreography.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\Choreography\bin\Debug\netcoreapp3.1\Choreography.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\Choreography\bin\Debug\netcoreapp3.1\Choreography.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\Choreography\bin\Debug\netcoreapp3.1\Choreography.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\Choreography\obj\Debug\netcoreapp3.1\Choreography.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\Choreography\obj\Debug\netcoreapp3.1\Choreography.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\Choreography\obj\Debug\netcoreapp3.1\Choreography.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\Choreography\obj\Debug\netcoreapp3.1\Choreography.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\Choreography\obj\Debug\netcoreapp3.1\Choreography.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\Choreography\obj\Debug\netcoreapp3.1\Choreography.genruntimeconfig.cache
