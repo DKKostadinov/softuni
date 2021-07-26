@@ -1,0 +1,13 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\HelloSoftuni\bin\Debug\netcoreapp3.1\HelloSoftuni.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\HelloSoftuni\bin\Debug\netcoreapp3.1\HelloSoftuni.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\HelloSoftuni\bin\Debug\netcoreapp3.1\HelloSoftuni.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\HelloSoftuni\bin\Debug\netcoreapp3.1\HelloSoftuni.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\HelloSoftuni\bin\Debug\netcoreapp3.1\HelloSoftuni.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\HelloSoftuni\bin\Debug\netcoreapp3.1\HelloSoftuni.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\HelloSoftuni\obj\Debug\netcoreapp3.1\HelloSoftuni.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\HelloSoftuni\obj\Debug\netcoreapp3.1\HelloSoftuni.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\HelloSoftuni\obj\Debug\netcoreapp3.1\HelloSoftuni.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\HelloSoftuni\obj\Debug\netcoreapp3.1\HelloSoftuni.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\HelloSoftuni\obj\Debug\netcoreapp3.1\HelloSoftuni.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\HelloSoftuni\obj\Debug\netcoreapp3.1\HelloSoftuni.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\HelloSoftuni\obj\Debug\netcoreapp3.1\HelloSoftuni.genruntimeconfig.cache

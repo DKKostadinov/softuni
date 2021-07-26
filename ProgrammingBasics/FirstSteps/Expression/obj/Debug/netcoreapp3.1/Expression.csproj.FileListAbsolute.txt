@@ -1,0 +1,13 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Expression\bin\Debug\netcoreapp3.1\Expression.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Expression\bin\Debug\netcoreapp3.1\Expression.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Expression\bin\Debug\netcoreapp3.1\Expression.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Expression\bin\Debug\netcoreapp3.1\Expression.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Expression\bin\Debug\netcoreapp3.1\Expression.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Expression\bin\Debug\netcoreapp3.1\Expression.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Expression\obj\Debug\netcoreapp3.1\Expression.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Expression\obj\Debug\netcoreapp3.1\Expression.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Expression\obj\Debug\netcoreapp3.1\Expression.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Expression\obj\Debug\netcoreapp3.1\Expression.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Expression\obj\Debug\netcoreapp3.1\Expression.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Expression\obj\Debug\netcoreapp3.1\Expression.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Expression\obj\Debug\netcoreapp3.1\Expression.genruntimeconfig.cache

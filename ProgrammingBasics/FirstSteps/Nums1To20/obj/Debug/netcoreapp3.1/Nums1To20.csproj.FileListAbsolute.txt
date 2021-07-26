@@ -1,0 +1,13 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Nums1To20\bin\Debug\netcoreapp3.1\Nums1To20.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Nums1To20\bin\Debug\netcoreapp3.1\Nums1To20.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Nums1To20\bin\Debug\netcoreapp3.1\Nums1To20.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Nums1To20\bin\Debug\netcoreapp3.1\Nums1To20.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Nums1To20\bin\Debug\netcoreapp3.1\Nums1To20.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Nums1To20\bin\Debug\netcoreapp3.1\Nums1To20.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Nums1To20\obj\Debug\netcoreapp3.1\Nums1To20.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Nums1To20\obj\Debug\netcoreapp3.1\Nums1To20.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Nums1To20\obj\Debug\netcoreapp3.1\Nums1To20.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Nums1To20\obj\Debug\netcoreapp3.1\Nums1To20.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Nums1To20\obj\Debug\netcoreapp3.1\Nums1To20.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Nums1To20\obj\Debug\netcoreapp3.1\Nums1To20.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Nums1To20\obj\Debug\netcoreapp3.1\Nums1To20.genruntimeconfig.cache
