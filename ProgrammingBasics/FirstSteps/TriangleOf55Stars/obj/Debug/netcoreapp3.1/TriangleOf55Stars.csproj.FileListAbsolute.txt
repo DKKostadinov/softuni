@@ -1,0 +1,13 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\TriangleOf55Stars\bin\Debug\netcoreapp3.1\TriangleOf55Stars.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\TriangleOf55Stars\bin\Debug\netcoreapp3.1\TriangleOf55Stars.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\TriangleOf55Stars\bin\Debug\netcoreapp3.1\TriangleOf55Stars.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\TriangleOf55Stars\bin\Debug\netcoreapp3.1\TriangleOf55Stars.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\TriangleOf55Stars\bin\Debug\netcoreapp3.1\TriangleOf55Stars.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\TriangleOf55Stars\bin\Debug\netcoreapp3.1\TriangleOf55Stars.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\TriangleOf55Stars\obj\Debug\netcoreapp3.1\TriangleOf55Stars.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\TriangleOf55Stars\obj\Debug\netcoreapp3.1\TriangleOf55Stars.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\TriangleOf55Stars\obj\Debug\netcoreapp3.1\TriangleOf55Stars.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\TriangleOf55Stars\obj\Debug\netcoreapp3.1\TriangleOf55Stars.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\TriangleOf55Stars\obj\Debug\netcoreapp3.1\TriangleOf55Stars.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\TriangleOf55Stars\obj\Debug\netcoreapp3.1\TriangleOf55Stars.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\TriangleOf55Stars\obj\Debug\netcoreapp3.1\TriangleOf55Stars.genruntimeconfig.cache
