@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RectArea", "RectArea\RectAr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarSquare", "StarSquare\StarSquare.csproj", "{816E6212-37C3-4E0D-8798-CE93F84468AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sumator", "Sumator\Sumator.csproj", "{7BFFCD70-F4D3-40AA-9073-8BD9A52D742D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{816E6212-37C3-4E0D-8798-CE93F84468AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{816E6212-37C3-4E0D-8798-CE93F84468AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{816E6212-37C3-4E0D-8798-CE93F84468AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BFFCD70-F4D3-40AA-9073-8BD9A52D742D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BFFCD70-F4D3-40AA-9073-8BD9A52D742D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BFFCD70-F4D3-40AA-9073-8BD9A52D742D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BFFCD70-F4D3-40AA-9073-8BD9A52D742D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,10 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Sumator\bin\Debug\Sumator.exe.config
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Sumator\bin\Debug\Sumator.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Sumator\bin\Debug\Sumator.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Sumator\obj\Debug\Sumator.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Sumator\obj\Debug\Sumator.Form1.resources
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Sumator\obj\Debug\Sumator.Properties.Resources.resources
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Sumator\obj\Debug\Sumator.csproj.GenerateResource.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Sumator\obj\Debug\Sumator.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Sumator\obj\Debug\Sumator.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\FirstSteps\Sumator\obj\Debug\Sumator.pdb
