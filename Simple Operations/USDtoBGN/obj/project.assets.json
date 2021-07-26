@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kosta\\source\\repos\\Simple Operations\\USDtoBGN\\USDtoBGN.csproj",
+      "projectUniqueName": "D:\\Documents\\GitHub\\softuni\\Simple Operations\\USDtoBGN\\USDtoBGN.csproj",
       "projectName": "USDtoBGN",
-      "projectPath": "C:\\Users\\kosta\\source\\repos\\Simple Operations\\USDtoBGN\\USDtoBGN.csproj",
+      "projectPath": "D:\\Documents\\GitHub\\softuni\\Simple Operations\\USDtoBGN\\USDtoBGN.csproj",
       "packagesPath": "C:\\Users\\kosta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kosta\\source\\repos\\Simple Operations\\USDtoBGN\\obj\\",
+      "outputPath": "D:\\Documents\\GitHub\\softuni\\Simple Operations\\USDtoBGN\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

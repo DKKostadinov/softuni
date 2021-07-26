@@ -1,0 +1,12 @@
+D:\Documents\GitHub\softuni\Simple Operations\CharityCampaign\bin\Debug\netcoreapp3.1\CharityCampaign.exe
+D:\Documents\GitHub\softuni\Simple Operations\CharityCampaign\bin\Debug\netcoreapp3.1\CharityCampaign.deps.json
+D:\Documents\GitHub\softuni\Simple Operations\CharityCampaign\bin\Debug\netcoreapp3.1\CharityCampaign.runtimeconfig.json
+D:\Documents\GitHub\softuni\Simple Operations\CharityCampaign\bin\Debug\netcoreapp3.1\CharityCampaign.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\Simple Operations\CharityCampaign\bin\Debug\netcoreapp3.1\CharityCampaign.dll
+D:\Documents\GitHub\softuni\Simple Operations\CharityCampaign\bin\Debug\netcoreapp3.1\CharityCampaign.pdb
+D:\Documents\GitHub\softuni\Simple Operations\CharityCampaign\obj\Debug\netcoreapp3.1\CharityCampaign.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\Simple Operations\CharityCampaign\obj\Debug\netcoreapp3.1\CharityCampaign.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\Simple Operations\CharityCampaign\obj\Debug\netcoreapp3.1\CharityCampaign.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\Simple Operations\CharityCampaign\obj\Debug\netcoreapp3.1\CharityCampaign.dll
+D:\Documents\GitHub\softuni\Simple Operations\CharityCampaign\obj\Debug\netcoreapp3.1\CharityCampaign.pdb
+D:\Documents\GitHub\softuni\Simple Operations\CharityCampaign\obj\Debug\netcoreapp3.1\CharityCampaign.genruntimeconfig.cache

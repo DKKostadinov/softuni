@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kosta\\source\\repos\\Simple Operations\\RectAreaCoords\\RectAreaCoords.csproj": {}
+    "D:\\Documents\\GitHub\\softuni\\Simple Operations\\RectAreaCoords\\RectAreaCoords.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kosta\\source\\repos\\Simple Operations\\RectAreaCoords\\RectAreaCoords.csproj": {
+    "D:\\Documents\\GitHub\\softuni\\Simple Operations\\RectAreaCoords\\RectAreaCoords.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kosta\\source\\repos\\Simple Operations\\RectAreaCoords\\RectAreaCoords.csproj",
+        "projectUniqueName": "D:\\Documents\\GitHub\\softuni\\Simple Operations\\RectAreaCoords\\RectAreaCoords.csproj",
         "projectName": "RectAreaCoords",
-        "projectPath": "C:\\Users\\kosta\\source\\repos\\Simple Operations\\RectAreaCoords\\RectAreaCoords.csproj",
+        "projectPath": "D:\\Documents\\GitHub\\softuni\\Simple Operations\\RectAreaCoords\\RectAreaCoords.csproj",
         "packagesPath": "C:\\Users\\kosta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kosta\\source\\repos\\Simple Operations\\RectAreaCoords\\obj\\",
+        "outputPath": "D:\\Documents\\GitHub\\softuni\\Simple Operations\\RectAreaCoords\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
