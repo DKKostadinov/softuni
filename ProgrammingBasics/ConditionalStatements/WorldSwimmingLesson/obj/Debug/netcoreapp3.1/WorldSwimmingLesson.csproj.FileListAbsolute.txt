@@ -1,0 +1,12 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\WorldSwimmingLesson\bin\Debug\netcoreapp3.1\WorldSwimmingLesson.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\WorldSwimmingLesson\bin\Debug\netcoreapp3.1\WorldSwimmingLesson.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\WorldSwimmingLesson\bin\Debug\netcoreapp3.1\WorldSwimmingLesson.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\WorldSwimmingLesson\bin\Debug\netcoreapp3.1\WorldSwimmingLesson.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\WorldSwimmingLesson\bin\Debug\netcoreapp3.1\WorldSwimmingLesson.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\WorldSwimmingLesson\bin\Debug\netcoreapp3.1\WorldSwimmingLesson.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\WorldSwimmingLesson\obj\Debug\netcoreapp3.1\WorldSwimmingLesson.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\WorldSwimmingLesson\obj\Debug\netcoreapp3.1\WorldSwimmingLesson.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\WorldSwimmingLesson\obj\Debug\netcoreapp3.1\WorldSwimmingLesson.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\WorldSwimmingLesson\obj\Debug\netcoreapp3.1\WorldSwimmingLesson.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\WorldSwimmingLesson\obj\Debug\netcoreapp3.1\WorldSwimmingLesson.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ConditionalStatements\WorldSwimmingLesson\obj\Debug\netcoreapp3.1\WorldSwimmingLesson.genruntimeconfig.cache
