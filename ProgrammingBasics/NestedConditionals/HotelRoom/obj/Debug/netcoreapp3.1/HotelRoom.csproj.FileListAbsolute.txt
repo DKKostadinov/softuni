@@ -1,0 +1,13 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.genruntimeconfig.cache
