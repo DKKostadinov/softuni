@@ -1,0 +1,12 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\ExamOnTime\bin\Debug\netcoreapp3.1\ExamOnTime.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\ExamOnTime\bin\Debug\netcoreapp3.1\ExamOnTime.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\ExamOnTime\bin\Debug\netcoreapp3.1\ExamOnTime.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\ExamOnTime\bin\Debug\netcoreapp3.1\ExamOnTime.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\ExamOnTime\bin\Debug\netcoreapp3.1\ExamOnTime.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\ExamOnTime\bin\Debug\netcoreapp3.1\ExamOnTime.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\ExamOnTime\obj\Debug\netcoreapp3.1\ExamOnTime.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\ExamOnTime\obj\Debug\netcoreapp3.1\ExamOnTime.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\ExamOnTime\obj\Debug\netcoreapp3.1\ExamOnTime.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\ExamOnTime\obj\Debug\netcoreapp3.1\ExamOnTime.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\ExamOnTime\obj\Debug\netcoreapp3.1\ExamOnTime.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\ExamOnTime\obj\Debug\netcoreapp3.1\ExamOnTime.genruntimeconfig.cache

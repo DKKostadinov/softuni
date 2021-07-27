@@ -1,0 +1,12 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\Journey\bin\Debug\netcoreapp3.1\Journey.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\Journey\bin\Debug\netcoreapp3.1\Journey.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\Journey\bin\Debug\netcoreapp3.1\Journey.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\Journey\bin\Debug\netcoreapp3.1\Journey.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\Journey\bin\Debug\netcoreapp3.1\Journey.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\Journey\bin\Debug\netcoreapp3.1\Journey.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\Journey\obj\Debug\netcoreapp3.1\Journey.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\Journey\obj\Debug\netcoreapp3.1\Journey.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\Journey\obj\Debug\netcoreapp3.1\Journey.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\Journey\obj\Debug\netcoreapp3.1\Journey.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\Journey\obj\Debug\netcoreapp3.1\Journey.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\Journey\obj\Debug\netcoreapp3.1\Journey.genruntimeconfig.cache

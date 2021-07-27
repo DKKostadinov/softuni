@@ -1,0 +1,12 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.genruntimeconfig.cache
