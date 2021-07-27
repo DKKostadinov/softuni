@@ -1,0 +1,12 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.genruntimeconfig.cache

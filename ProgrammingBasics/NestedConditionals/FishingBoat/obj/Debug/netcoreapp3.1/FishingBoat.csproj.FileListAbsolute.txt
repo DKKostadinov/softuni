@@ -1,0 +1,12 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.genruntimeconfig.cache

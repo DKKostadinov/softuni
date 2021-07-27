@@ -1,0 +1,13 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\PointOnARectangle\bin\Debug\netcoreapp3.1\PointOnARectangle.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\PointOnARectangle\bin\Debug\netcoreapp3.1\PointOnARectangle.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\PointOnARectangle\bin\Debug\netcoreapp3.1\PointOnARectangle.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\PointOnARectangle\bin\Debug\netcoreapp3.1\PointOnARectangle.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\PointOnARectangle\bin\Debug\netcoreapp3.1\PointOnARectangle.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\PointOnARectangle\bin\Debug\netcoreapp3.1\PointOnARectangle.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\PointOnARectangle\obj\Debug\netcoreapp3.1\PointOnARectangle.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\PointOnARectangle\obj\Debug\netcoreapp3.1\PointOnARectangle.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\PointOnARectangle\obj\Debug\netcoreapp3.1\PointOnARectangle.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\PointOnARectangle\obj\Debug\netcoreapp3.1\PointOnARectangle.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\PointOnARectangle\obj\Debug\netcoreapp3.1\PointOnARectangle.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\PointOnARectangle\obj\Debug\netcoreapp3.1\PointOnARectangle.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\PointOnARectangle\obj\Debug\netcoreapp3.1\PointOnARectangle.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\Volleyball\bin\Debug\netcoreapp3.1\Volleyball.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\Volleyball\bin\Debug\netcoreapp3.1\Volleyball.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\Volleyball\bin\Debug\netcoreapp3.1\Volleyball.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\Volleyball\bin\Debug\netcoreapp3.1\Volleyball.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\Volleyball\bin\Debug\netcoreapp3.1\Volleyball.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\Volleyball\bin\Debug\netcoreapp3.1\Volleyball.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\Volleyball\obj\Debug\netcoreapp3.1\Volleyball.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\Volleyball\obj\Debug\netcoreapp3.1\Volleyball.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\Volleyball\obj\Debug\netcoreapp3.1\Volleyball.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\Volleyball\obj\Debug\netcoreapp3.1\Volleyball.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\Volleyball\obj\Debug\netcoreapp3.1\Volleyball.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\Volleyball\obj\Debug\netcoreapp3.1\Volleyball.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\NestedConditionals\Volleyball\obj\Debug\netcoreapp3.1\Volleyball.genruntimeconfig.cache
