@@ -1,0 +1,12 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Cake\bin\Debug\netcoreapp3.1\Cake.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Cake\bin\Debug\netcoreapp3.1\Cake.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Cake\bin\Debug\netcoreapp3.1\Cake.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Cake\bin\Debug\netcoreapp3.1\Cake.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Cake\bin\Debug\netcoreapp3.1\Cake.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Cake\bin\Debug\netcoreapp3.1\Cake.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Cake\obj\Debug\netcoreapp3.1\Cake.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Cake\obj\Debug\netcoreapp3.1\Cake.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Cake\obj\Debug\netcoreapp3.1\Cake.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Cake\obj\Debug\netcoreapp3.1\Cake.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Cake\obj\Debug\netcoreapp3.1\Cake.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Cake\obj\Debug\netcoreapp3.1\Cake.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\OldBooks\bin\Debug\netcoreapp3.1\OldBooks.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\OldBooks\bin\Debug\netcoreapp3.1\OldBooks.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\OldBooks\bin\Debug\netcoreapp3.1\OldBooks.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\OldBooks\bin\Debug\netcoreapp3.1\OldBooks.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\OldBooks\bin\Debug\netcoreapp3.1\OldBooks.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\OldBooks\bin\Debug\netcoreapp3.1\OldBooks.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\OldBooks\obj\Debug\netcoreapp3.1\OldBooks.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\OldBooks\obj\Debug\netcoreapp3.1\OldBooks.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\OldBooks\obj\Debug\netcoreapp3.1\OldBooks.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\OldBooks\obj\Debug\netcoreapp3.1\OldBooks.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\OldBooks\obj\Debug\netcoreapp3.1\OldBooks.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\OldBooks\obj\Debug\netcoreapp3.1\OldBooks.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\OldBooks\obj\Debug\netcoreapp3.1\OldBooks.genruntimeconfig.cache

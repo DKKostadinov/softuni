@@ -1,0 +1,12 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Coins\bin\Debug\netcoreapp3.1\Coins.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Coins\bin\Debug\netcoreapp3.1\Coins.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Coins\bin\Debug\netcoreapp3.1\Coins.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Coins\bin\Debug\netcoreapp3.1\Coins.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Coins\bin\Debug\netcoreapp3.1\Coins.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Coins\bin\Debug\netcoreapp3.1\Coins.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Coins\obj\Debug\netcoreapp3.1\Coins.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Coins\obj\Debug\netcoreapp3.1\Coins.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Coins\obj\Debug\netcoreapp3.1\Coins.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Coins\obj\Debug\netcoreapp3.1\Coins.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Coins\obj\Debug\netcoreapp3.1\Coins.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Coins\obj\Debug\netcoreapp3.1\Coins.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\CommonDenominator\obj\Debug\netcoreapp3.1\CommonDenominator.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\CommonDenominator\obj\Debug\netcoreapp3.1\CommonDenominator.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\CommonDenominator\obj\Debug\netcoreapp3.1\CommonDenominator.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\CommonDenominator\obj\Debug\netcoreapp3.1\CommonDenominator.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\CommonDenominator\bin\Debug\netcoreapp3.1\CommonDenominator.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\CommonDenominator\bin\Debug\netcoreapp3.1\CommonDenominator.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\CommonDenominator\bin\Debug\netcoreapp3.1\CommonDenominator.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\CommonDenominator\bin\Debug\netcoreapp3.1\CommonDenominator.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\CommonDenominator\bin\Debug\netcoreapp3.1\CommonDenominator.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\CommonDenominator\bin\Debug\netcoreapp3.1\CommonDenominator.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\CommonDenominator\obj\Debug\netcoreapp3.1\CommonDenominator.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\CommonDenominator\obj\Debug\netcoreapp3.1\CommonDenominator.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\CommonDenominator\obj\Debug\netcoreapp3.1\CommonDenominator.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\ExamPrep\bin\Debug\netcoreapp3.1\ExamPrep.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\ExamPrep\bin\Debug\netcoreapp3.1\ExamPrep.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\ExamPrep\bin\Debug\netcoreapp3.1\ExamPrep.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\ExamPrep\bin\Debug\netcoreapp3.1\ExamPrep.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\ExamPrep\bin\Debug\netcoreapp3.1\ExamPrep.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\ExamPrep\bin\Debug\netcoreapp3.1\ExamPrep.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\ExamPrep\obj\Debug\netcoreapp3.1\ExamPrep.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\ExamPrep\obj\Debug\netcoreapp3.1\ExamPrep.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\ExamPrep\obj\Debug\netcoreapp3.1\ExamPrep.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\ExamPrep\obj\Debug\netcoreapp3.1\ExamPrep.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\ExamPrep\obj\Debug\netcoreapp3.1\ExamPrep.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\ExamPrep\obj\Debug\netcoreapp3.1\ExamPrep.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\ExamPrep\obj\Debug\netcoreapp3.1\ExamPrep.genruntimeconfig.cache

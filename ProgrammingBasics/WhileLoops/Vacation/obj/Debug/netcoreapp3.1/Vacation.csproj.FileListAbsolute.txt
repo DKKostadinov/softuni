@@ -1,0 +1,12 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Vacation\bin\Debug\netcoreapp3.1\Vacation.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Vacation\bin\Debug\netcoreapp3.1\Vacation.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Vacation\bin\Debug\netcoreapp3.1\Vacation.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Vacation\bin\Debug\netcoreapp3.1\Vacation.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Vacation\bin\Debug\netcoreapp3.1\Vacation.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Vacation\bin\Debug\netcoreapp3.1\Vacation.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Vacation\obj\Debug\netcoreapp3.1\Vacation.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Vacation\obj\Debug\netcoreapp3.1\Vacation.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Vacation\obj\Debug\netcoreapp3.1\Vacation.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Vacation\obj\Debug\netcoreapp3.1\Vacation.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Vacation\obj\Debug\netcoreapp3.1\Vacation.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\WhileLoops\Vacation\obj\Debug\netcoreapp3.1\Vacation.genruntimeconfig.cache
