@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EqualSumPrimeCompositeNums/1.0.0": {
+        "runtime": {
+          "EqualSumPrimeCompositeNums.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EqualSumPrimeCompositeNums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

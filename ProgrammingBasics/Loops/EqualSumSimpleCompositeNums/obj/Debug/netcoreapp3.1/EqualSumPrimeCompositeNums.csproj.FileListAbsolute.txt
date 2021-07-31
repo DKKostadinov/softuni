@@ -1,0 +1,12 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\EqualSumSimpleCompositeNums\bin\Debug\netcoreapp3.1\EqualSumPrimeCompositeNums.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\EqualSumSimpleCompositeNums\bin\Debug\netcoreapp3.1\EqualSumPrimeCompositeNums.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\EqualSumSimpleCompositeNums\bin\Debug\netcoreapp3.1\EqualSumPrimeCompositeNums.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\EqualSumSimpleCompositeNums\bin\Debug\netcoreapp3.1\EqualSumPrimeCompositeNums.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\EqualSumSimpleCompositeNums\bin\Debug\netcoreapp3.1\EqualSumPrimeCompositeNums.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\EqualSumSimpleCompositeNums\bin\Debug\netcoreapp3.1\EqualSumPrimeCompositeNums.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\EqualSumSimpleCompositeNums\obj\Debug\netcoreapp3.1\EqualSumPrimeCompositeNums.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\EqualSumSimpleCompositeNums\obj\Debug\netcoreapp3.1\EqualSumPrimeCompositeNums.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\EqualSumSimpleCompositeNums\obj\Debug\netcoreapp3.1\EqualSumPrimeCompositeNums.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\EqualSumSimpleCompositeNums\obj\Debug\netcoreapp3.1\EqualSumPrimeCompositeNums.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\EqualSumSimpleCompositeNums\obj\Debug\netcoreapp3.1\EqualSumPrimeCompositeNums.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\EqualSumSimpleCompositeNums\obj\Debug\netcoreapp3.1\EqualSumPrimeCompositeNums.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\NumPyramid\bin\Debug\netcoreapp3.1\NumPyramid.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\NumPyramid\bin\Debug\netcoreapp3.1\NumPyramid.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\NumPyramid\bin\Debug\netcoreapp3.1\NumPyramid.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\NumPyramid\bin\Debug\netcoreapp3.1\NumPyramid.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\NumPyramid\bin\Debug\netcoreapp3.1\NumPyramid.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\NumPyramid\bin\Debug\netcoreapp3.1\NumPyramid.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\NumPyramid\obj\Debug\netcoreapp3.1\NumPyramid.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\NumPyramid\obj\Debug\netcoreapp3.1\NumPyramid.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\NumPyramid\obj\Debug\netcoreapp3.1\NumPyramid.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\NumPyramid\obj\Debug\netcoreapp3.1\NumPyramid.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\NumPyramid\obj\Debug\netcoreapp3.1\NumPyramid.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\NumPyramid\obj\Debug\netcoreapp3.1\NumPyramid.genruntimeconfig.cache

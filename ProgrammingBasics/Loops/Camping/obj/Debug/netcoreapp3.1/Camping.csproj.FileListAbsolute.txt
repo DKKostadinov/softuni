@@ -1,0 +1,12 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\Camping\bin\Debug\netcoreapp3.1\Camping.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\Camping\bin\Debug\netcoreapp3.1\Camping.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\Camping\bin\Debug\netcoreapp3.1\Camping.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\Camping\bin\Debug\netcoreapp3.1\Camping.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\Camping\bin\Debug\netcoreapp3.1\Camping.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\Camping\bin\Debug\netcoreapp3.1\Camping.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\Camping\obj\Debug\netcoreapp3.1\Camping.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\Camping\obj\Debug\netcoreapp3.1\Camping.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\Camping\obj\Debug\netcoreapp3.1\Camping.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\Camping\obj\Debug\netcoreapp3.1\Camping.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\Camping\obj\Debug\netcoreapp3.1\Camping.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\Camping\obj\Debug\netcoreapp3.1\Camping.genruntimeconfig.cache

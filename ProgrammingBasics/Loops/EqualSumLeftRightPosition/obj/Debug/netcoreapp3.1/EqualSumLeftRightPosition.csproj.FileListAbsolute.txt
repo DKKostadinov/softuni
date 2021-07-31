@@ -1,0 +1,12 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\EqualSumLeftRightPosition\bin\Debug\netcoreapp3.1\EqualSumLeftRightPosition.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\EqualSumLeftRightPosition\bin\Debug\netcoreapp3.1\EqualSumLeftRightPosition.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\EqualSumLeftRightPosition\bin\Debug\netcoreapp3.1\EqualSumLeftRightPosition.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\EqualSumLeftRightPosition\bin\Debug\netcoreapp3.1\EqualSumLeftRightPosition.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\EqualSumLeftRightPosition\bin\Debug\netcoreapp3.1\EqualSumLeftRightPosition.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\EqualSumLeftRightPosition\bin\Debug\netcoreapp3.1\EqualSumLeftRightPosition.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\EqualSumLeftRightPosition\obj\Debug\netcoreapp3.1\EqualSumLeftRightPosition.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\EqualSumLeftRightPosition\obj\Debug\netcoreapp3.1\EqualSumLeftRightPosition.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\EqualSumLeftRightPosition\obj\Debug\netcoreapp3.1\EqualSumLeftRightPosition.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\EqualSumLeftRightPosition\obj\Debug\netcoreapp3.1\EqualSumLeftRightPosition.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\EqualSumLeftRightPosition\obj\Debug\netcoreapp3.1\EqualSumLeftRightPosition.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\EqualSumLeftRightPosition\obj\Debug\netcoreapp3.1\EqualSumLeftRightPosition.genruntimeconfig.cache

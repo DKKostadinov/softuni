@@ -1,0 +1,13 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\NumberTable\bin\Debug\netcoreapp3.1\NumberTable.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\NumberTable\bin\Debug\netcoreapp3.1\NumberTable.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\NumberTable\bin\Debug\netcoreapp3.1\NumberTable.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\NumberTable\bin\Debug\netcoreapp3.1\NumberTable.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\NumberTable\bin\Debug\netcoreapp3.1\NumberTable.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\NumberTable\bin\Debug\netcoreapp3.1\NumberTable.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\NumberTable\obj\Debug\netcoreapp3.1\NumberTable.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\NumberTable\obj\Debug\netcoreapp3.1\NumberTable.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\NumberTable\obj\Debug\netcoreapp3.1\NumberTable.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\NumberTable\obj\Debug\netcoreapp3.1\NumberTable.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\NumberTable\obj\Debug\netcoreapp3.1\NumberTable.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\NumberTable\obj\Debug\netcoreapp3.1\NumberTable.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\NumberTable\obj\Debug\netcoreapp3.1\NumberTable.genruntimeconfig.cache

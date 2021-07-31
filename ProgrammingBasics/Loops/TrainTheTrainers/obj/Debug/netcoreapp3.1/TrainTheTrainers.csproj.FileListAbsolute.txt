@@ -1,0 +1,12 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\TrainTheTrainers\bin\Debug\netcoreapp3.1\TrainTheTrainers.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\TrainTheTrainers\bin\Debug\netcoreapp3.1\TrainTheTrainers.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\TrainTheTrainers\bin\Debug\netcoreapp3.1\TrainTheTrainers.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\TrainTheTrainers\bin\Debug\netcoreapp3.1\TrainTheTrainers.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\TrainTheTrainers\bin\Debug\netcoreapp3.1\TrainTheTrainers.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\TrainTheTrainers\bin\Debug\netcoreapp3.1\TrainTheTrainers.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\TrainTheTrainers\obj\Debug\netcoreapp3.1\TrainTheTrainers.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\TrainTheTrainers\obj\Debug\netcoreapp3.1\TrainTheTrainers.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\TrainTheTrainers\obj\Debug\netcoreapp3.1\TrainTheTrainers.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\TrainTheTrainers\obj\Debug\netcoreapp3.1\TrainTheTrainers.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\TrainTheTrainers\obj\Debug\netcoreapp3.1\TrainTheTrainers.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\Loops\TrainTheTrainers\obj\Debug\netcoreapp3.1\TrainTheTrainers.genruntimeconfig.cache
