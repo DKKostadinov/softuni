@@ -1,0 +1,13 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\Division\bin\Debug\netcoreapp3.1\Division.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\Division\bin\Debug\netcoreapp3.1\Division.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\Division\bin\Debug\netcoreapp3.1\Division.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\Division\bin\Debug\netcoreapp3.1\Division.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\Division\bin\Debug\netcoreapp3.1\Division.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\Division\bin\Debug\netcoreapp3.1\Division.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\Division\obj\Debug\netcoreapp3.1\Division.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\Division\obj\Debug\netcoreapp3.1\Division.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\Division\obj\Debug\netcoreapp3.1\Division.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\Division\obj\Debug\netcoreapp3.1\Division.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\Division\obj\Debug\netcoreapp3.1\Division.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\Division\obj\Debug\netcoreapp3.1\Division.genruntimeconfig.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\Division\obj\Debug\netcoreapp3.1\Division.csproj.AssemblyReference.cache

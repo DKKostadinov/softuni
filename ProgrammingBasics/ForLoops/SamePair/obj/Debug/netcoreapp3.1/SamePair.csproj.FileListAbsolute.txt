@@ -1,0 +1,12 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\SamePair\bin\Debug\netcoreapp3.1\SamePair.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\SamePair\bin\Debug\netcoreapp3.1\SamePair.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\SamePair\bin\Debug\netcoreapp3.1\SamePair.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\SamePair\bin\Debug\netcoreapp3.1\SamePair.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\SamePair\bin\Debug\netcoreapp3.1\SamePair.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\SamePair\bin\Debug\netcoreapp3.1\SamePair.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\SamePair\obj\Debug\netcoreapp3.1\SamePair.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\SamePair\obj\Debug\netcoreapp3.1\SamePair.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\SamePair\obj\Debug\netcoreapp3.1\SamePair.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\SamePair\obj\Debug\netcoreapp3.1\SamePair.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\SamePair\obj\Debug\netcoreapp3.1\SamePair.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\SamePair\obj\Debug\netcoreapp3.1\SamePair.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\Histogram\bin\Debug\netcoreapp3.1\Histogram.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\Histogram\bin\Debug\netcoreapp3.1\Histogram.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\Histogram\bin\Debug\netcoreapp3.1\Histogram.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\Histogram\bin\Debug\netcoreapp3.1\Histogram.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\Histogram\bin\Debug\netcoreapp3.1\Histogram.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\Histogram\bin\Debug\netcoreapp3.1\Histogram.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\Histogram\obj\Debug\netcoreapp3.1\Histogram.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\Histogram\obj\Debug\netcoreapp3.1\Histogram.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\Histogram\obj\Debug\netcoreapp3.1\Histogram.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\Histogram\obj\Debug\netcoreapp3.1\Histogram.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\Histogram\obj\Debug\netcoreapp3.1\Histogram.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\Histogram\obj\Debug\netcoreapp3.1\Histogram.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\Histogram\obj\Debug\netcoreapp3.1\Histogram.genruntimeconfig.cache

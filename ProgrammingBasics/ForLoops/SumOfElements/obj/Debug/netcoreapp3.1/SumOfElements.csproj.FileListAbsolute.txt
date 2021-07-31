@@ -1,0 +1,13 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\SumOfElements\bin\Debug\netcoreapp3.1\SumOfElements.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\SumOfElements\bin\Debug\netcoreapp3.1\SumOfElements.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\SumOfElements\bin\Debug\netcoreapp3.1\SumOfElements.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\SumOfElements\bin\Debug\netcoreapp3.1\SumOfElements.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\SumOfElements\bin\Debug\netcoreapp3.1\SumOfElements.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\SumOfElements\bin\Debug\netcoreapp3.1\SumOfElements.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\SumOfElements\obj\Debug\netcoreapp3.1\SumOfElements.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\SumOfElements\obj\Debug\netcoreapp3.1\SumOfElements.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\SumOfElements\obj\Debug\netcoreapp3.1\SumOfElements.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\SumOfElements\obj\Debug\netcoreapp3.1\SumOfElements.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\SumOfElements\obj\Debug\netcoreapp3.1\SumOfElements.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\SumOfElements\obj\Debug\netcoreapp3.1\SumOfElements.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\SumOfElements\obj\Debug\netcoreapp3.1\SumOfElements.genruntimeconfig.cache

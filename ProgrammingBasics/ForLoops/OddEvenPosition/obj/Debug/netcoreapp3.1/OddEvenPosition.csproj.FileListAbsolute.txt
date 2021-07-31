@@ -1,0 +1,13 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\OddEvenPosition\bin\Debug\netcoreapp3.1\OddEvenPosition.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\OddEvenPosition\bin\Debug\netcoreapp3.1\OddEvenPosition.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\OddEvenPosition\bin\Debug\netcoreapp3.1\OddEvenPosition.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\OddEvenPosition\bin\Debug\netcoreapp3.1\OddEvenPosition.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\OddEvenPosition\bin\Debug\netcoreapp3.1\OddEvenPosition.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\OddEvenPosition\bin\Debug\netcoreapp3.1\OddEvenPosition.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\OddEvenPosition\obj\Debug\netcoreapp3.1\OddEvenPosition.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\OddEvenPosition\obj\Debug\netcoreapp3.1\OddEvenPosition.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\OddEvenPosition\obj\Debug\netcoreapp3.1\OddEvenPosition.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\OddEvenPosition\obj\Debug\netcoreapp3.1\OddEvenPosition.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\OddEvenPosition\obj\Debug\netcoreapp3.1\OddEvenPosition.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\OddEvenPosition\obj\Debug\netcoreapp3.1\OddEvenPosition.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ForLoops\OddEvenPosition\obj\Debug\netcoreapp3.1\OddEvenPosition.genruntimeconfig.cache
