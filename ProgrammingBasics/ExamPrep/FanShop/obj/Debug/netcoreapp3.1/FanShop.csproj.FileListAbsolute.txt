@@ -1,0 +1,12 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\FanShop\bin\Debug\netcoreapp3.1\FanShop.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\FanShop\bin\Debug\netcoreapp3.1\FanShop.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\FanShop\bin\Debug\netcoreapp3.1\FanShop.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\FanShop\bin\Debug\netcoreapp3.1\FanShop.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\FanShop\bin\Debug\netcoreapp3.1\FanShop.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\FanShop\bin\Debug\netcoreapp3.1\FanShop.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\FanShop\obj\Debug\netcoreapp3.1\FanShop.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\FanShop\obj\Debug\netcoreapp3.1\FanShop.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\FanShop\obj\Debug\netcoreapp3.1\FanShop.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\FanShop\obj\Debug\netcoreapp3.1\FanShop.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\FanShop\obj\Debug\netcoreapp3.1\FanShop.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\FanShop\obj\Debug\netcoreapp3.1\FanShop.genruntimeconfig.cache

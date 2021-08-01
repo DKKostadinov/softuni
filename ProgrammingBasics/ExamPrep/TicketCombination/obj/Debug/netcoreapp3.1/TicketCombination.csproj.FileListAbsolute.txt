@@ -1,0 +1,13 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\TicketCombination\bin\Debug\netcoreapp3.1\TicketCombination.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\TicketCombination\bin\Debug\netcoreapp3.1\TicketCombination.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\TicketCombination\bin\Debug\netcoreapp3.1\TicketCombination.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\TicketCombination\bin\Debug\netcoreapp3.1\TicketCombination.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\TicketCombination\bin\Debug\netcoreapp3.1\TicketCombination.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\TicketCombination\bin\Debug\netcoreapp3.1\TicketCombination.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\TicketCombination\obj\Debug\netcoreapp3.1\TicketCombination.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\TicketCombination\obj\Debug\netcoreapp3.1\TicketCombination.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\TicketCombination\obj\Debug\netcoreapp3.1\TicketCombination.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\TicketCombination\obj\Debug\netcoreapp3.1\TicketCombination.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\TicketCombination\obj\Debug\netcoreapp3.1\TicketCombination.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\TicketCombination\obj\Debug\netcoreapp3.1\TicketCombination.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\TicketCombination\obj\Debug\netcoreapp3.1\TicketCombination.genruntimeconfig.cache

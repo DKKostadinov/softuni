@@ -1,0 +1,12 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\BestPlayer\bin\Debug\netcoreapp3.1\BestPlayer.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\BestPlayer\bin\Debug\netcoreapp3.1\BestPlayer.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\BestPlayer\bin\Debug\netcoreapp3.1\BestPlayer.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\BestPlayer\bin\Debug\netcoreapp3.1\BestPlayer.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\BestPlayer\bin\Debug\netcoreapp3.1\BestPlayer.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\BestPlayer\bin\Debug\netcoreapp3.1\BestPlayer.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\BestPlayer\obj\Debug\netcoreapp3.1\BestPlayer.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\BestPlayer\obj\Debug\netcoreapp3.1\BestPlayer.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\BestPlayer\obj\Debug\netcoreapp3.1\BestPlayer.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\BestPlayer\obj\Debug\netcoreapp3.1\BestPlayer.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\BestPlayer\obj\Debug\netcoreapp3.1\BestPlayer.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\BestPlayer\obj\Debug\netcoreapp3.1\BestPlayer.genruntimeconfig.cache

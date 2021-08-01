@@ -1,0 +1,13 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\FootbalSouveniers\bin\Debug\netcoreapp3.1\FootbalSouveniers.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\FootbalSouveniers\bin\Debug\netcoreapp3.1\FootbalSouveniers.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\FootbalSouveniers\bin\Debug\netcoreapp3.1\FootbalSouveniers.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\FootbalSouveniers\bin\Debug\netcoreapp3.1\FootbalSouveniers.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\FootbalSouveniers\bin\Debug\netcoreapp3.1\FootbalSouveniers.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\FootbalSouveniers\bin\Debug\netcoreapp3.1\FootbalSouveniers.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\FootbalSouveniers\obj\Debug\netcoreapp3.1\FootbalSouveniers.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\FootbalSouveniers\obj\Debug\netcoreapp3.1\FootbalSouveniers.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\FootbalSouveniers\obj\Debug\netcoreapp3.1\FootbalSouveniers.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\FootbalSouveniers\obj\Debug\netcoreapp3.1\FootbalSouveniers.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\FootbalSouveniers\obj\Debug\netcoreapp3.1\FootbalSouveniers.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\FootbalSouveniers\obj\Debug\netcoreapp3.1\FootbalSouveniers.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\FootbalSouveniers\obj\Debug\netcoreapp3.1\FootbalSouveniers.genruntimeconfig.cache

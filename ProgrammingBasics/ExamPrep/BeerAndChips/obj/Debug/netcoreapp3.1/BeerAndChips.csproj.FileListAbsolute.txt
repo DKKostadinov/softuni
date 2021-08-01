@@ -1,0 +1,13 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\BeerAndChips\bin\Debug\netcoreapp3.1\BeerAndChips.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\BeerAndChips\bin\Debug\netcoreapp3.1\BeerAndChips.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\BeerAndChips\bin\Debug\netcoreapp3.1\BeerAndChips.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\BeerAndChips\bin\Debug\netcoreapp3.1\BeerAndChips.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\BeerAndChips\bin\Debug\netcoreapp3.1\BeerAndChips.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\BeerAndChips\bin\Debug\netcoreapp3.1\BeerAndChips.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\BeerAndChips\obj\Debug\netcoreapp3.1\BeerAndChips.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\BeerAndChips\obj\Debug\netcoreapp3.1\BeerAndChips.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\BeerAndChips\obj\Debug\netcoreapp3.1\BeerAndChips.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\BeerAndChips\obj\Debug\netcoreapp3.1\BeerAndChips.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\BeerAndChips\obj\Debug\netcoreapp3.1\BeerAndChips.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\BeerAndChips\obj\Debug\netcoreapp3.1\BeerAndChips.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\BeerAndChips\obj\Debug\netcoreapp3.1\BeerAndChips.genruntimeconfig.cache

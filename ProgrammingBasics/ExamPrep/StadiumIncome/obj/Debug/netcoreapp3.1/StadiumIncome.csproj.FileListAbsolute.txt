@@ -1,0 +1,13 @@
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\StadiumIncome\bin\Debug\netcoreapp3.1\StadiumIncome.exe
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\StadiumIncome\bin\Debug\netcoreapp3.1\StadiumIncome.deps.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\StadiumIncome\bin\Debug\netcoreapp3.1\StadiumIncome.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\StadiumIncome\bin\Debug\netcoreapp3.1\StadiumIncome.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\StadiumIncome\bin\Debug\netcoreapp3.1\StadiumIncome.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\StadiumIncome\bin\Debug\netcoreapp3.1\StadiumIncome.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\StadiumIncome\obj\Debug\netcoreapp3.1\StadiumIncome.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\StadiumIncome\obj\Debug\netcoreapp3.1\StadiumIncome.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\StadiumIncome\obj\Debug\netcoreapp3.1\StadiumIncome.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\StadiumIncome\obj\Debug\netcoreapp3.1\StadiumIncome.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\StadiumIncome\obj\Debug\netcoreapp3.1\StadiumIncome.dll
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\StadiumIncome\obj\Debug\netcoreapp3.1\StadiumIncome.pdb
+D:\Documents\GitHub\softuni\ProgrammingBasics\ExamPrep\StadiumIncome\obj\Debug\netcoreapp3.1\StadiumIncome.genruntimeconfig.cache
