@@ -1,0 +1,13 @@
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\PadawanEquipment\bin\Debug\netcoreapp3.1\PadawanEquipment.exe
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\PadawanEquipment\bin\Debug\netcoreapp3.1\PadawanEquipment.deps.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\PadawanEquipment\bin\Debug\netcoreapp3.1\PadawanEquipment.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\PadawanEquipment\bin\Debug\netcoreapp3.1\PadawanEquipment.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\PadawanEquipment\bin\Debug\netcoreapp3.1\PadawanEquipment.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\PadawanEquipment\bin\Debug\netcoreapp3.1\PadawanEquipment.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\PadawanEquipment\obj\Debug\netcoreapp3.1\PadawanEquipment.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\PadawanEquipment\obj\Debug\netcoreapp3.1\PadawanEquipment.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\PadawanEquipment\obj\Debug\netcoreapp3.1\PadawanEquipment.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\PadawanEquipment\obj\Debug\netcoreapp3.1\PadawanEquipment.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\PadawanEquipment\obj\Debug\netcoreapp3.1\PadawanEquipment.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\PadawanEquipment\obj\Debug\netcoreapp3.1\PadawanEquipment.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\PadawanEquipment\obj\Debug\netcoreapp3.1\PadawanEquipment.genruntimeconfig.cache

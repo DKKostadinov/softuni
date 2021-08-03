@@ -1,0 +1,12 @@
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.exe
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.deps.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.genruntimeconfig.cache

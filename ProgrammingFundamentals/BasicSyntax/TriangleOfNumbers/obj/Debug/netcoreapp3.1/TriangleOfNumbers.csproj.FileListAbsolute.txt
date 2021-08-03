@@ -1,0 +1,12 @@
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.exe
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.deps.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\TriangleOfNumbers\obj\Debug\netcoreapp3.1\TriangleOfNumbers.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\TriangleOfNumbers\obj\Debug\netcoreapp3.1\TriangleOfNumbers.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\TriangleOfNumbers\obj\Debug\netcoreapp3.1\TriangleOfNumbers.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\TriangleOfNumbers\obj\Debug\netcoreapp3.1\TriangleOfNumbers.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\TriangleOfNumbers\obj\Debug\netcoreapp3.1\TriangleOfNumbers.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\TriangleOfNumbers\obj\Debug\netcoreapp3.1\TriangleOfNumbers.genruntimeconfig.cache

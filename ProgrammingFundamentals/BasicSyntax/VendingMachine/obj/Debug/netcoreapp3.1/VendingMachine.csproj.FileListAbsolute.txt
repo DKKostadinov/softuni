@@ -1,0 +1,13 @@
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.exe
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.deps.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.genruntimeconfig.cache

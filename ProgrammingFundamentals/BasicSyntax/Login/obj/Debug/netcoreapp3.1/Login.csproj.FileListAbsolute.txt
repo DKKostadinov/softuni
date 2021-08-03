@@ -1,0 +1,13 @@
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\Login\bin\Debug\netcoreapp3.1\Login.exe
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\Login\bin\Debug\netcoreapp3.1\Login.deps.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\Login\bin\Debug\netcoreapp3.1\Login.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\Login\bin\Debug\netcoreapp3.1\Login.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\Login\bin\Debug\netcoreapp3.1\Login.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\Login\bin\Debug\netcoreapp3.1\Login.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\Login\obj\Debug\netcoreapp3.1\Login.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\Login\obj\Debug\netcoreapp3.1\Login.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\Login\obj\Debug\netcoreapp3.1\Login.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\Login\obj\Debug\netcoreapp3.1\Login.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\Login\obj\Debug\netcoreapp3.1\Login.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\Login\obj\Debug\netcoreapp3.1\Login.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntax\Login\obj\Debug\netcoreapp3.1\Login.genruntimeconfig.cache
