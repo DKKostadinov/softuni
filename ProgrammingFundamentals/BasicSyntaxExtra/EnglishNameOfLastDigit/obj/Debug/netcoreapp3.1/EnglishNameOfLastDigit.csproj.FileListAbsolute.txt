@@ -1,0 +1,13 @@
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\EnglishNameOfLastDigit\bin\Debug\netcoreapp3.1\EnglishNameOfLastDigit.exe
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\EnglishNameOfLastDigit\bin\Debug\netcoreapp3.1\EnglishNameOfLastDigit.deps.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\EnglishNameOfLastDigit\bin\Debug\netcoreapp3.1\EnglishNameOfLastDigit.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\EnglishNameOfLastDigit\bin\Debug\netcoreapp3.1\EnglishNameOfLastDigit.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\EnglishNameOfLastDigit\bin\Debug\netcoreapp3.1\EnglishNameOfLastDigit.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\EnglishNameOfLastDigit\bin\Debug\netcoreapp3.1\EnglishNameOfLastDigit.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\EnglishNameOfLastDigit\obj\Debug\netcoreapp3.1\EnglishNameOfLastDigit.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\EnglishNameOfLastDigit\obj\Debug\netcoreapp3.1\EnglishNameOfLastDigit.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\EnglishNameOfLastDigit\obj\Debug\netcoreapp3.1\EnglishNameOfLastDigit.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\EnglishNameOfLastDigit\obj\Debug\netcoreapp3.1\EnglishNameOfLastDigit.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\EnglishNameOfLastDigit\obj\Debug\netcoreapp3.1\EnglishNameOfLastDigit.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\EnglishNameOfLastDigit\obj\Debug\netcoreapp3.1\EnglishNameOfLastDigit.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\EnglishNameOfLastDigit\obj\Debug\netcoreapp3.1\EnglishNameOfLastDigit.genruntimeconfig.cache

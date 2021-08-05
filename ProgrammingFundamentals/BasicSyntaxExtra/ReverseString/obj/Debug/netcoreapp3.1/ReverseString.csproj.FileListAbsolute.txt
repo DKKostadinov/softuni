@@ -1,0 +1,12 @@
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.exe
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.deps.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\SortNumbers\bin\Debug\netcoreapp3.1\SortNumbers.exe
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\SortNumbers\bin\Debug\netcoreapp3.1\SortNumbers.deps.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\SortNumbers\bin\Debug\netcoreapp3.1\SortNumbers.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\SortNumbers\bin\Debug\netcoreapp3.1\SortNumbers.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\SortNumbers\bin\Debug\netcoreapp3.1\SortNumbers.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\SortNumbers\bin\Debug\netcoreapp3.1\SortNumbers.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\SortNumbers\obj\Debug\netcoreapp3.1\SortNumbers.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\SortNumbers\obj\Debug\netcoreapp3.1\SortNumbers.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\SortNumbers\obj\Debug\netcoreapp3.1\SortNumbers.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\SortNumbers\obj\Debug\netcoreapp3.1\SortNumbers.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\SortNumbers\obj\Debug\netcoreapp3.1\SortNumbers.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\SortNumbers\obj\Debug\netcoreapp3.1\SortNumbers.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\SortNumbers\obj\Debug\netcoreapp3.1\SortNumbers.genruntimeconfig.cache

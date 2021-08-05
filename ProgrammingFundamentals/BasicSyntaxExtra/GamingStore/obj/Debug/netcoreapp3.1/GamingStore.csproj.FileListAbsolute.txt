@@ -1,0 +1,12 @@
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\GamingStore\bin\Debug\netcoreapp3.1\GamingStore.exe
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\GamingStore\bin\Debug\netcoreapp3.1\GamingStore.deps.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\GamingStore\bin\Debug\netcoreapp3.1\GamingStore.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\GamingStore\bin\Debug\netcoreapp3.1\GamingStore.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\GamingStore\bin\Debug\netcoreapp3.1\GamingStore.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\GamingStore\bin\Debug\netcoreapp3.1\GamingStore.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\GamingStore\obj\Debug\netcoreapp3.1\GamingStore.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\GamingStore\obj\Debug\netcoreapp3.1\GamingStore.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\GamingStore\obj\Debug\netcoreapp3.1\GamingStore.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\GamingStore\obj\Debug\netcoreapp3.1\GamingStore.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\GamingStore\obj\Debug\netcoreapp3.1\GamingStore.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\GamingStore\obj\Debug\netcoreapp3.1\GamingStore.genruntimeconfig.cache

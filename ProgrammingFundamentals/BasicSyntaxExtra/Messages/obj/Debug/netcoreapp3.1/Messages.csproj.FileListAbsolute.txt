@@ -1,0 +1,12 @@
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\Messages\bin\Debug\netcoreapp3.1\Messages.exe
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\Messages\bin\Debug\netcoreapp3.1\Messages.deps.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\Messages\bin\Debug\netcoreapp3.1\Messages.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\Messages\bin\Debug\netcoreapp3.1\Messages.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\Messages\bin\Debug\netcoreapp3.1\Messages.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\Messages\bin\Debug\netcoreapp3.1\Messages.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\Messages\obj\Debug\netcoreapp3.1\Messages.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\Messages\obj\Debug\netcoreapp3.1\Messages.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\Messages\obj\Debug\netcoreapp3.1\Messages.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\Messages\obj\Debug\netcoreapp3.1\Messages.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\Messages\obj\Debug\netcoreapp3.1\Messages.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\BasicSyntaxExtra\Messages\obj\Debug\netcoreapp3.1\Messages.genruntimeconfig.cache
