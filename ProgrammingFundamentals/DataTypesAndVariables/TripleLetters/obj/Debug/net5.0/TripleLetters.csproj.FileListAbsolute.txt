@@ -1,0 +1,15 @@
+C:\Users\kosta\source\repos\DataTypesAndVariables\TripleLetters\bin\Debug\net5.0\TripleLetters.exe
+C:\Users\kosta\source\repos\DataTypesAndVariables\TripleLetters\bin\Debug\net5.0\TripleLetters.deps.json
+C:\Users\kosta\source\repos\DataTypesAndVariables\TripleLetters\bin\Debug\net5.0\TripleLetters.runtimeconfig.json
+C:\Users\kosta\source\repos\DataTypesAndVariables\TripleLetters\bin\Debug\net5.0\TripleLetters.runtimeconfig.dev.json
+C:\Users\kosta\source\repos\DataTypesAndVariables\TripleLetters\bin\Debug\net5.0\TripleLetters.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\TripleLetters\bin\Debug\net5.0\ref\TripleLetters.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\TripleLetters\bin\Debug\net5.0\TripleLetters.pdb
+C:\Users\kosta\source\repos\DataTypesAndVariables\TripleLetters\obj\Debug\net5.0\TripleLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosta\source\repos\DataTypesAndVariables\TripleLetters\obj\Debug\net5.0\TripleLetters.AssemblyInfoInputs.cache
+C:\Users\kosta\source\repos\DataTypesAndVariables\TripleLetters\obj\Debug\net5.0\TripleLetters.AssemblyInfo.cs
+C:\Users\kosta\source\repos\DataTypesAndVariables\TripleLetters\obj\Debug\net5.0\TripleLetters.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\DataTypesAndVariables\TripleLetters\obj\Debug\net5.0\TripleLetters.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\TripleLetters\obj\Debug\net5.0\ref\TripleLetters.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\TripleLetters\obj\Debug\net5.0\TripleLetters.pdb
+C:\Users\kosta\source\repos\DataTypesAndVariables\TripleLetters\obj\Debug\net5.0\TripleLetters.genruntimeconfig.cache

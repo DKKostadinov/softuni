@@ -1,0 +1,15 @@
+C:\Users\kosta\source\repos\Arrays\TopIntegers\bin\Debug\net5.0\TopIntegers.exe
+C:\Users\kosta\source\repos\Arrays\TopIntegers\bin\Debug\net5.0\TopIntegers.deps.json
+C:\Users\kosta\source\repos\Arrays\TopIntegers\bin\Debug\net5.0\TopIntegers.runtimeconfig.json
+C:\Users\kosta\source\repos\Arrays\TopIntegers\bin\Debug\net5.0\TopIntegers.runtimeconfig.dev.json
+C:\Users\kosta\source\repos\Arrays\TopIntegers\bin\Debug\net5.0\TopIntegers.dll
+C:\Users\kosta\source\repos\Arrays\TopIntegers\bin\Debug\net5.0\ref\TopIntegers.dll
+C:\Users\kosta\source\repos\Arrays\TopIntegers\bin\Debug\net5.0\TopIntegers.pdb
+C:\Users\kosta\source\repos\Arrays\TopIntegers\obj\Debug\net5.0\TopIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosta\source\repos\Arrays\TopIntegers\obj\Debug\net5.0\TopIntegers.AssemblyInfoInputs.cache
+C:\Users\kosta\source\repos\Arrays\TopIntegers\obj\Debug\net5.0\TopIntegers.AssemblyInfo.cs
+C:\Users\kosta\source\repos\Arrays\TopIntegers\obj\Debug\net5.0\TopIntegers.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\Arrays\TopIntegers\obj\Debug\net5.0\TopIntegers.dll
+C:\Users\kosta\source\repos\Arrays\TopIntegers\obj\Debug\net5.0\ref\TopIntegers.dll
+C:\Users\kosta\source\repos\Arrays\TopIntegers\obj\Debug\net5.0\TopIntegers.pdb
+C:\Users\kosta\source\repos\Arrays\TopIntegers\obj\Debug\net5.0\TopIntegers.genruntimeconfig.cache

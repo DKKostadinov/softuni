@@ -1,0 +1,13 @@
+C:\Users\kosta\source\repos\DataTypesAndVariables\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.exe
+C:\Users\kosta\source\repos\DataTypesAndVariables\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.deps.json
+C:\Users\kosta\source\repos\DataTypesAndVariables\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.runtimeconfig.json
+C:\Users\kosta\source\repos\DataTypesAndVariables\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.runtimeconfig.dev.json
+C:\Users\kosta\source\repos\DataTypesAndVariables\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.pdb
+C:\Users\kosta\source\repos\DataTypesAndVariables\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.csproj.AssemblyReference.cache
+C:\Users\kosta\source\repos\DataTypesAndVariables\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.AssemblyInfoInputs.cache
+C:\Users\kosta\source\repos\DataTypesAndVariables\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.AssemblyInfo.cs
+C:\Users\kosta\source\repos\DataTypesAndVariables\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\DataTypesAndVariables\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.pdb
+C:\Users\kosta\source\repos\DataTypesAndVariables\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\kosta\source\repos\Arrays\ZigZagArrays\bin\Debug\net5.0\ZigZagArrays.exe
+C:\Users\kosta\source\repos\Arrays\ZigZagArrays\bin\Debug\net5.0\ZigZagArrays.deps.json
+C:\Users\kosta\source\repos\Arrays\ZigZagArrays\bin\Debug\net5.0\ZigZagArrays.runtimeconfig.json
+C:\Users\kosta\source\repos\Arrays\ZigZagArrays\bin\Debug\net5.0\ZigZagArrays.runtimeconfig.dev.json
+C:\Users\kosta\source\repos\Arrays\ZigZagArrays\bin\Debug\net5.0\ZigZagArrays.dll
+C:\Users\kosta\source\repos\Arrays\ZigZagArrays\bin\Debug\net5.0\ref\ZigZagArrays.dll
+C:\Users\kosta\source\repos\Arrays\ZigZagArrays\bin\Debug\net5.0\ZigZagArrays.pdb
+C:\Users\kosta\source\repos\Arrays\ZigZagArrays\obj\Debug\net5.0\ZigZagArrays.csproj.AssemblyReference.cache
+C:\Users\kosta\source\repos\Arrays\ZigZagArrays\obj\Debug\net5.0\ZigZagArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosta\source\repos\Arrays\ZigZagArrays\obj\Debug\net5.0\ZigZagArrays.AssemblyInfoInputs.cache
+C:\Users\kosta\source\repos\Arrays\ZigZagArrays\obj\Debug\net5.0\ZigZagArrays.AssemblyInfo.cs
+C:\Users\kosta\source\repos\Arrays\ZigZagArrays\obj\Debug\net5.0\ZigZagArrays.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\Arrays\ZigZagArrays\obj\Debug\net5.0\ZigZagArrays.dll
+C:\Users\kosta\source\repos\Arrays\ZigZagArrays\obj\Debug\net5.0\ref\ZigZagArrays.dll
+C:\Users\kosta\source\repos\Arrays\ZigZagArrays\obj\Debug\net5.0\ZigZagArrays.pdb
+C:\Users\kosta\source\repos\Arrays\ZigZagArrays\obj\Debug\net5.0\ZigZagArrays.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\kosta\source\repos\DataTypesAndVariables\Snowballs\bin\Debug\net5.0\Snowballs.exe
+C:\Users\kosta\source\repos\DataTypesAndVariables\Snowballs\bin\Debug\net5.0\Snowballs.deps.json
+C:\Users\kosta\source\repos\DataTypesAndVariables\Snowballs\bin\Debug\net5.0\Snowballs.runtimeconfig.json
+C:\Users\kosta\source\repos\DataTypesAndVariables\Snowballs\bin\Debug\net5.0\Snowballs.runtimeconfig.dev.json
+C:\Users\kosta\source\repos\DataTypesAndVariables\Snowballs\bin\Debug\net5.0\Snowballs.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\Snowballs\bin\Debug\net5.0\ref\Snowballs.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\Snowballs\bin\Debug\net5.0\Snowballs.pdb
+C:\Users\kosta\source\repos\DataTypesAndVariables\Snowballs\obj\Debug\net5.0\Snowballs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosta\source\repos\DataTypesAndVariables\Snowballs\obj\Debug\net5.0\Snowballs.AssemblyInfoInputs.cache
+C:\Users\kosta\source\repos\DataTypesAndVariables\Snowballs\obj\Debug\net5.0\Snowballs.AssemblyInfo.cs
+C:\Users\kosta\source\repos\DataTypesAndVariables\Snowballs\obj\Debug\net5.0\Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\DataTypesAndVariables\Snowballs\obj\Debug\net5.0\Snowballs.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\Snowballs\obj\Debug\net5.0\ref\Snowballs.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\Snowballs\obj\Debug\net5.0\Snowballs.pdb
+C:\Users\kosta\source\repos\DataTypesAndVariables\Snowballs\obj\Debug\net5.0\Snowballs.genruntimeconfig.cache

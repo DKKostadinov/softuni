@@ -1,0 +1,15 @@
+C:\Users\kosta\source\repos\DataTypesAndVariables\FloatingEquality\bin\Debug\net5.0\FloatingEquality.exe
+C:\Users\kosta\source\repos\DataTypesAndVariables\FloatingEquality\bin\Debug\net5.0\FloatingEquality.deps.json
+C:\Users\kosta\source\repos\DataTypesAndVariables\FloatingEquality\bin\Debug\net5.0\FloatingEquality.runtimeconfig.json
+C:\Users\kosta\source\repos\DataTypesAndVariables\FloatingEquality\bin\Debug\net5.0\FloatingEquality.runtimeconfig.dev.json
+C:\Users\kosta\source\repos\DataTypesAndVariables\FloatingEquality\bin\Debug\net5.0\FloatingEquality.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\FloatingEquality\bin\Debug\net5.0\ref\FloatingEquality.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\FloatingEquality\bin\Debug\net5.0\FloatingEquality.pdb
+C:\Users\kosta\source\repos\DataTypesAndVariables\FloatingEquality\obj\Debug\net5.0\FloatingEquality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosta\source\repos\DataTypesAndVariables\FloatingEquality\obj\Debug\net5.0\FloatingEquality.AssemblyInfoInputs.cache
+C:\Users\kosta\source\repos\DataTypesAndVariables\FloatingEquality\obj\Debug\net5.0\FloatingEquality.AssemblyInfo.cs
+C:\Users\kosta\source\repos\DataTypesAndVariables\FloatingEquality\obj\Debug\net5.0\FloatingEquality.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\DataTypesAndVariables\FloatingEquality\obj\Debug\net5.0\FloatingEquality.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\FloatingEquality\obj\Debug\net5.0\ref\FloatingEquality.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\FloatingEquality\obj\Debug\net5.0\FloatingEquality.pdb
+C:\Users\kosta\source\repos\DataTypesAndVariables\FloatingEquality\obj\Debug\net5.0\FloatingEquality.genruntimeconfig.cache

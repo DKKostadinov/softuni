@@ -1,0 +1,15 @@
+C:\Users\kosta\source\repos\DataTypesAndVariables\SumOfChars\bin\Debug\net5.0\SumOfChars.exe
+C:\Users\kosta\source\repos\DataTypesAndVariables\SumOfChars\bin\Debug\net5.0\SumOfChars.deps.json
+C:\Users\kosta\source\repos\DataTypesAndVariables\SumOfChars\bin\Debug\net5.0\SumOfChars.runtimeconfig.json
+C:\Users\kosta\source\repos\DataTypesAndVariables\SumOfChars\bin\Debug\net5.0\SumOfChars.runtimeconfig.dev.json
+C:\Users\kosta\source\repos\DataTypesAndVariables\SumOfChars\bin\Debug\net5.0\SumOfChars.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\SumOfChars\bin\Debug\net5.0\ref\SumOfChars.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\SumOfChars\bin\Debug\net5.0\SumOfChars.pdb
+C:\Users\kosta\source\repos\DataTypesAndVariables\SumOfChars\obj\Debug\net5.0\SumOfChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosta\source\repos\DataTypesAndVariables\SumOfChars\obj\Debug\net5.0\SumOfChars.AssemblyInfoInputs.cache
+C:\Users\kosta\source\repos\DataTypesAndVariables\SumOfChars\obj\Debug\net5.0\SumOfChars.AssemblyInfo.cs
+C:\Users\kosta\source\repos\DataTypesAndVariables\SumOfChars\obj\Debug\net5.0\SumOfChars.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\DataTypesAndVariables\SumOfChars\obj\Debug\net5.0\SumOfChars.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\SumOfChars\obj\Debug\net5.0\ref\SumOfChars.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\SumOfChars\obj\Debug\net5.0\SumOfChars.pdb
+C:\Users\kosta\source\repos\DataTypesAndVariables\SumOfChars\obj\Debug\net5.0\SumOfChars.genruntimeconfig.cache

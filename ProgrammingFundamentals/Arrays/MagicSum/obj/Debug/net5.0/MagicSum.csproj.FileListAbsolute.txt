@@ -1,0 +1,15 @@
+C:\Users\kosta\source\repos\Arrays\MagicSum\bin\Debug\net5.0\MagicSum.exe
+C:\Users\kosta\source\repos\Arrays\MagicSum\bin\Debug\net5.0\MagicSum.deps.json
+C:\Users\kosta\source\repos\Arrays\MagicSum\bin\Debug\net5.0\MagicSum.runtimeconfig.json
+C:\Users\kosta\source\repos\Arrays\MagicSum\bin\Debug\net5.0\MagicSum.runtimeconfig.dev.json
+C:\Users\kosta\source\repos\Arrays\MagicSum\bin\Debug\net5.0\MagicSum.dll
+C:\Users\kosta\source\repos\Arrays\MagicSum\bin\Debug\net5.0\ref\MagicSum.dll
+C:\Users\kosta\source\repos\Arrays\MagicSum\bin\Debug\net5.0\MagicSum.pdb
+C:\Users\kosta\source\repos\Arrays\MagicSum\obj\Debug\net5.0\MagicSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosta\source\repos\Arrays\MagicSum\obj\Debug\net5.0\MagicSum.AssemblyInfoInputs.cache
+C:\Users\kosta\source\repos\Arrays\MagicSum\obj\Debug\net5.0\MagicSum.AssemblyInfo.cs
+C:\Users\kosta\source\repos\Arrays\MagicSum\obj\Debug\net5.0\MagicSum.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\Arrays\MagicSum\obj\Debug\net5.0\MagicSum.dll
+C:\Users\kosta\source\repos\Arrays\MagicSum\obj\Debug\net5.0\ref\MagicSum.dll
+C:\Users\kosta\source\repos\Arrays\MagicSum\obj\Debug\net5.0\MagicSum.pdb
+C:\Users\kosta\source\repos\Arrays\MagicSum\obj\Debug\net5.0\MagicSum.genruntimeconfig.cache

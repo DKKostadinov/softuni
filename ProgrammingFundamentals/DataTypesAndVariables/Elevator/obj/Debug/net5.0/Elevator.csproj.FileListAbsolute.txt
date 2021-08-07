@@ -1,0 +1,16 @@
+C:\Users\kosta\source\repos\DataTypesAndVariables\Elevator\bin\Debug\net5.0\Elevator.exe
+C:\Users\kosta\source\repos\DataTypesAndVariables\Elevator\bin\Debug\net5.0\Elevator.deps.json
+C:\Users\kosta\source\repos\DataTypesAndVariables\Elevator\bin\Debug\net5.0\Elevator.runtimeconfig.json
+C:\Users\kosta\source\repos\DataTypesAndVariables\Elevator\bin\Debug\net5.0\Elevator.runtimeconfig.dev.json
+C:\Users\kosta\source\repos\DataTypesAndVariables\Elevator\bin\Debug\net5.0\Elevator.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\Elevator\bin\Debug\net5.0\ref\Elevator.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\Elevator\bin\Debug\net5.0\Elevator.pdb
+C:\Users\kosta\source\repos\DataTypesAndVariables\Elevator\obj\Debug\net5.0\Elevator.csproj.AssemblyReference.cache
+C:\Users\kosta\source\repos\DataTypesAndVariables\Elevator\obj\Debug\net5.0\Elevator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosta\source\repos\DataTypesAndVariables\Elevator\obj\Debug\net5.0\Elevator.AssemblyInfoInputs.cache
+C:\Users\kosta\source\repos\DataTypesAndVariables\Elevator\obj\Debug\net5.0\Elevator.AssemblyInfo.cs
+C:\Users\kosta\source\repos\DataTypesAndVariables\Elevator\obj\Debug\net5.0\Elevator.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\DataTypesAndVariables\Elevator\obj\Debug\net5.0\Elevator.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\Elevator\obj\Debug\net5.0\ref\Elevator.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\Elevator\obj\Debug\net5.0\Elevator.pdb
+C:\Users\kosta\source\repos\DataTypesAndVariables\Elevator\obj\Debug\net5.0\Elevator.genruntimeconfig.cache

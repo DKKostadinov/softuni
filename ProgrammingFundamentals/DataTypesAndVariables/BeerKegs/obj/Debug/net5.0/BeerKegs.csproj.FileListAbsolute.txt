@@ -1,0 +1,15 @@
+C:\Users\kosta\source\repos\DataTypesAndVariables\BeerKegs\bin\Debug\net5.0\BeerKegs.exe
+C:\Users\kosta\source\repos\DataTypesAndVariables\BeerKegs\bin\Debug\net5.0\BeerKegs.deps.json
+C:\Users\kosta\source\repos\DataTypesAndVariables\BeerKegs\bin\Debug\net5.0\BeerKegs.runtimeconfig.json
+C:\Users\kosta\source\repos\DataTypesAndVariables\BeerKegs\bin\Debug\net5.0\BeerKegs.runtimeconfig.dev.json
+C:\Users\kosta\source\repos\DataTypesAndVariables\BeerKegs\bin\Debug\net5.0\BeerKegs.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\BeerKegs\bin\Debug\net5.0\ref\BeerKegs.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\BeerKegs\bin\Debug\net5.0\BeerKegs.pdb
+C:\Users\kosta\source\repos\DataTypesAndVariables\BeerKegs\obj\Debug\net5.0\BeerKegs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosta\source\repos\DataTypesAndVariables\BeerKegs\obj\Debug\net5.0\BeerKegs.AssemblyInfoInputs.cache
+C:\Users\kosta\source\repos\DataTypesAndVariables\BeerKegs\obj\Debug\net5.0\BeerKegs.AssemblyInfo.cs
+C:\Users\kosta\source\repos\DataTypesAndVariables\BeerKegs\obj\Debug\net5.0\BeerKegs.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\DataTypesAndVariables\BeerKegs\obj\Debug\net5.0\BeerKegs.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\BeerKegs\obj\Debug\net5.0\ref\BeerKegs.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\BeerKegs\obj\Debug\net5.0\BeerKegs.pdb
+C:\Users\kosta\source\repos\DataTypesAndVariables\BeerKegs\obj\Debug\net5.0\BeerKegs.genruntimeconfig.cache

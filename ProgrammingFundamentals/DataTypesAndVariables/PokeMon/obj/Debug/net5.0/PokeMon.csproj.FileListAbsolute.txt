@@ -1,0 +1,15 @@
+C:\Users\kosta\source\repos\DataTypesAndVariables\PokeMon\bin\Debug\net5.0\PokeMon.exe
+C:\Users\kosta\source\repos\DataTypesAndVariables\PokeMon\bin\Debug\net5.0\PokeMon.deps.json
+C:\Users\kosta\source\repos\DataTypesAndVariables\PokeMon\bin\Debug\net5.0\PokeMon.runtimeconfig.json
+C:\Users\kosta\source\repos\DataTypesAndVariables\PokeMon\bin\Debug\net5.0\PokeMon.runtimeconfig.dev.json
+C:\Users\kosta\source\repos\DataTypesAndVariables\PokeMon\bin\Debug\net5.0\PokeMon.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\PokeMon\bin\Debug\net5.0\ref\PokeMon.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\PokeMon\bin\Debug\net5.0\PokeMon.pdb
+C:\Users\kosta\source\repos\DataTypesAndVariables\PokeMon\obj\Debug\net5.0\PokeMon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosta\source\repos\DataTypesAndVariables\PokeMon\obj\Debug\net5.0\PokeMon.AssemblyInfoInputs.cache
+C:\Users\kosta\source\repos\DataTypesAndVariables\PokeMon\obj\Debug\net5.0\PokeMon.AssemblyInfo.cs
+C:\Users\kosta\source\repos\DataTypesAndVariables\PokeMon\obj\Debug\net5.0\PokeMon.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\DataTypesAndVariables\PokeMon\obj\Debug\net5.0\PokeMon.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\PokeMon\obj\Debug\net5.0\ref\PokeMon.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\PokeMon\obj\Debug\net5.0\PokeMon.pdb
+C:\Users\kosta\source\repos\DataTypesAndVariables\PokeMon\obj\Debug\net5.0\PokeMon.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\kosta\source\repos\DataTypesAndVariables\PrintASCIITable\bin\Debug\net5.0\PrintASCIITable.exe
+C:\Users\kosta\source\repos\DataTypesAndVariables\PrintASCIITable\bin\Debug\net5.0\PrintASCIITable.deps.json
+C:\Users\kosta\source\repos\DataTypesAndVariables\PrintASCIITable\bin\Debug\net5.0\PrintASCIITable.runtimeconfig.json
+C:\Users\kosta\source\repos\DataTypesAndVariables\PrintASCIITable\bin\Debug\net5.0\PrintASCIITable.runtimeconfig.dev.json
+C:\Users\kosta\source\repos\DataTypesAndVariables\PrintASCIITable\bin\Debug\net5.0\PrintASCIITable.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\PrintASCIITable\bin\Debug\net5.0\ref\PrintASCIITable.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\PrintASCIITable\bin\Debug\net5.0\PrintASCIITable.pdb
+C:\Users\kosta\source\repos\DataTypesAndVariables\PrintASCIITable\obj\Debug\net5.0\PrintASCIITable.csproj.AssemblyReference.cache
+C:\Users\kosta\source\repos\DataTypesAndVariables\PrintASCIITable\obj\Debug\net5.0\PrintASCIITable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosta\source\repos\DataTypesAndVariables\PrintASCIITable\obj\Debug\net5.0\PrintASCIITable.AssemblyInfoInputs.cache
+C:\Users\kosta\source\repos\DataTypesAndVariables\PrintASCIITable\obj\Debug\net5.0\PrintASCIITable.AssemblyInfo.cs
+C:\Users\kosta\source\repos\DataTypesAndVariables\PrintASCIITable\obj\Debug\net5.0\PrintASCIITable.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\DataTypesAndVariables\PrintASCIITable\obj\Debug\net5.0\PrintASCIITable.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\PrintASCIITable\obj\Debug\net5.0\ref\PrintASCIITable.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\PrintASCIITable\obj\Debug\net5.0\PrintASCIITable.pdb
+C:\Users\kosta\source\repos\DataTypesAndVariables\PrintASCIITable\obj\Debug\net5.0\PrintASCIITable.genruntimeconfig.cache

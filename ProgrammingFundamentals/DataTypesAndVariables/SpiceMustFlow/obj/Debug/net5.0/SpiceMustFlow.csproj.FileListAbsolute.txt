@@ -1,0 +1,15 @@
+C:\Users\kosta\source\repos\DataTypesAndVariables\SpiceMustFlow\bin\Debug\net5.0\SpiceMustFlow.exe
+C:\Users\kosta\source\repos\DataTypesAndVariables\SpiceMustFlow\bin\Debug\net5.0\SpiceMustFlow.deps.json
+C:\Users\kosta\source\repos\DataTypesAndVariables\SpiceMustFlow\bin\Debug\net5.0\SpiceMustFlow.runtimeconfig.json
+C:\Users\kosta\source\repos\DataTypesAndVariables\SpiceMustFlow\bin\Debug\net5.0\SpiceMustFlow.runtimeconfig.dev.json
+C:\Users\kosta\source\repos\DataTypesAndVariables\SpiceMustFlow\bin\Debug\net5.0\SpiceMustFlow.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\SpiceMustFlow\bin\Debug\net5.0\ref\SpiceMustFlow.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\SpiceMustFlow\bin\Debug\net5.0\SpiceMustFlow.pdb
+C:\Users\kosta\source\repos\DataTypesAndVariables\SpiceMustFlow\obj\Debug\net5.0\SpiceMustFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosta\source\repos\DataTypesAndVariables\SpiceMustFlow\obj\Debug\net5.0\SpiceMustFlow.AssemblyInfoInputs.cache
+C:\Users\kosta\source\repos\DataTypesAndVariables\SpiceMustFlow\obj\Debug\net5.0\SpiceMustFlow.AssemblyInfo.cs
+C:\Users\kosta\source\repos\DataTypesAndVariables\SpiceMustFlow\obj\Debug\net5.0\SpiceMustFlow.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\DataTypesAndVariables\SpiceMustFlow\obj\Debug\net5.0\SpiceMustFlow.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\SpiceMustFlow\obj\Debug\net5.0\ref\SpiceMustFlow.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\SpiceMustFlow\obj\Debug\net5.0\SpiceMustFlow.pdb
+C:\Users\kosta\source\repos\DataTypesAndVariables\SpiceMustFlow\obj\Debug\net5.0\SpiceMustFlow.genruntimeconfig.cache

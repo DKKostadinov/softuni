@@ -1,0 +1,16 @@
+C:\Users\kosta\source\repos\Arrays\ArrayRotation\bin\Debug\net5.0\ArrayRotation.exe
+C:\Users\kosta\source\repos\Arrays\ArrayRotation\bin\Debug\net5.0\ArrayRotation.deps.json
+C:\Users\kosta\source\repos\Arrays\ArrayRotation\bin\Debug\net5.0\ArrayRotation.runtimeconfig.json
+C:\Users\kosta\source\repos\Arrays\ArrayRotation\bin\Debug\net5.0\ArrayRotation.runtimeconfig.dev.json
+C:\Users\kosta\source\repos\Arrays\ArrayRotation\bin\Debug\net5.0\ArrayRotation.dll
+C:\Users\kosta\source\repos\Arrays\ArrayRotation\bin\Debug\net5.0\ref\ArrayRotation.dll
+C:\Users\kosta\source\repos\Arrays\ArrayRotation\bin\Debug\net5.0\ArrayRotation.pdb
+C:\Users\kosta\source\repos\Arrays\ArrayRotation\obj\Debug\net5.0\ArrayRotation.csproj.AssemblyReference.cache
+C:\Users\kosta\source\repos\Arrays\ArrayRotation\obj\Debug\net5.0\ArrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosta\source\repos\Arrays\ArrayRotation\obj\Debug\net5.0\ArrayRotation.AssemblyInfoInputs.cache
+C:\Users\kosta\source\repos\Arrays\ArrayRotation\obj\Debug\net5.0\ArrayRotation.AssemblyInfo.cs
+C:\Users\kosta\source\repos\Arrays\ArrayRotation\obj\Debug\net5.0\ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\Arrays\ArrayRotation\obj\Debug\net5.0\ArrayRotation.dll
+C:\Users\kosta\source\repos\Arrays\ArrayRotation\obj\Debug\net5.0\ref\ArrayRotation.dll
+C:\Users\kosta\source\repos\Arrays\ArrayRotation\obj\Debug\net5.0\ArrayRotation.pdb
+C:\Users\kosta\source\repos\Arrays\ArrayRotation\obj\Debug\net5.0\ArrayRotation.genruntimeconfig.cache

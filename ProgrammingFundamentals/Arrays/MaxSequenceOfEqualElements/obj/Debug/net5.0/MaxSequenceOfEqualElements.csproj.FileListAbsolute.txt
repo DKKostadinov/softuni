@@ -1,0 +1,15 @@
+C:\Users\kosta\source\repos\Arrays\MaxSequenceOfEqualElements\bin\Debug\net5.0\MaxSequenceOfEqualElements.exe
+C:\Users\kosta\source\repos\Arrays\MaxSequenceOfEqualElements\bin\Debug\net5.0\MaxSequenceOfEqualElements.deps.json
+C:\Users\kosta\source\repos\Arrays\MaxSequenceOfEqualElements\bin\Debug\net5.0\MaxSequenceOfEqualElements.runtimeconfig.json
+C:\Users\kosta\source\repos\Arrays\MaxSequenceOfEqualElements\bin\Debug\net5.0\MaxSequenceOfEqualElements.runtimeconfig.dev.json
+C:\Users\kosta\source\repos\Arrays\MaxSequenceOfEqualElements\bin\Debug\net5.0\MaxSequenceOfEqualElements.dll
+C:\Users\kosta\source\repos\Arrays\MaxSequenceOfEqualElements\bin\Debug\net5.0\ref\MaxSequenceOfEqualElements.dll
+C:\Users\kosta\source\repos\Arrays\MaxSequenceOfEqualElements\bin\Debug\net5.0\MaxSequenceOfEqualElements.pdb
+C:\Users\kosta\source\repos\Arrays\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosta\source\repos\Arrays\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+C:\Users\kosta\source\repos\Arrays\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.AssemblyInfo.cs
+C:\Users\kosta\source\repos\Arrays\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\Arrays\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.dll
+C:\Users\kosta\source\repos\Arrays\MaxSequenceOfEqualElements\obj\Debug\net5.0\ref\MaxSequenceOfEqualElements.dll
+C:\Users\kosta\source\repos\Arrays\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.pdb
+C:\Users\kosta\source\repos\Arrays\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.genruntimeconfig.cache

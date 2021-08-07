@@ -1,0 +1,15 @@
+C:\Users\kosta\source\repos\DataTypesAndVariables\DataTypeFinder\bin\Debug\net5.0\DataTypeFinder.exe
+C:\Users\kosta\source\repos\DataTypesAndVariables\DataTypeFinder\bin\Debug\net5.0\DataTypeFinder.deps.json
+C:\Users\kosta\source\repos\DataTypesAndVariables\DataTypeFinder\bin\Debug\net5.0\DataTypeFinder.runtimeconfig.json
+C:\Users\kosta\source\repos\DataTypesAndVariables\DataTypeFinder\bin\Debug\net5.0\DataTypeFinder.runtimeconfig.dev.json
+C:\Users\kosta\source\repos\DataTypesAndVariables\DataTypeFinder\bin\Debug\net5.0\DataTypeFinder.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\DataTypeFinder\bin\Debug\net5.0\ref\DataTypeFinder.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\DataTypeFinder\bin\Debug\net5.0\DataTypeFinder.pdb
+C:\Users\kosta\source\repos\DataTypesAndVariables\DataTypeFinder\obj\Debug\net5.0\DataTypeFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosta\source\repos\DataTypesAndVariables\DataTypeFinder\obj\Debug\net5.0\DataTypeFinder.AssemblyInfoInputs.cache
+C:\Users\kosta\source\repos\DataTypesAndVariables\DataTypeFinder\obj\Debug\net5.0\DataTypeFinder.AssemblyInfo.cs
+C:\Users\kosta\source\repos\DataTypesAndVariables\DataTypeFinder\obj\Debug\net5.0\DataTypeFinder.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\DataTypesAndVariables\DataTypeFinder\obj\Debug\net5.0\DataTypeFinder.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\DataTypeFinder\obj\Debug\net5.0\ref\DataTypeFinder.dll
+C:\Users\kosta\source\repos\DataTypesAndVariables\DataTypeFinder\obj\Debug\net5.0\DataTypeFinder.pdb
+C:\Users\kosta\source\repos\DataTypesAndVariables\DataTypeFinder\obj\Debug\net5.0\DataTypeFinder.genruntimeconfig.cache

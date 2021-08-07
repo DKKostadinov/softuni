@@ -1,0 +1,16 @@
+C:\Users\kosta\source\repos\Arrays\KaminoFactory\bin\Debug\net5.0\KaminoFactory.exe
+C:\Users\kosta\source\repos\Arrays\KaminoFactory\bin\Debug\net5.0\KaminoFactory.deps.json
+C:\Users\kosta\source\repos\Arrays\KaminoFactory\bin\Debug\net5.0\KaminoFactory.runtimeconfig.json
+C:\Users\kosta\source\repos\Arrays\KaminoFactory\bin\Debug\net5.0\KaminoFactory.runtimeconfig.dev.json
+C:\Users\kosta\source\repos\Arrays\KaminoFactory\bin\Debug\net5.0\KaminoFactory.dll
+C:\Users\kosta\source\repos\Arrays\KaminoFactory\bin\Debug\net5.0\ref\KaminoFactory.dll
+C:\Users\kosta\source\repos\Arrays\KaminoFactory\bin\Debug\net5.0\KaminoFactory.pdb
+C:\Users\kosta\source\repos\Arrays\KaminoFactory\obj\Debug\net5.0\KaminoFactory.csproj.AssemblyReference.cache
+C:\Users\kosta\source\repos\Arrays\KaminoFactory\obj\Debug\net5.0\KaminoFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosta\source\repos\Arrays\KaminoFactory\obj\Debug\net5.0\KaminoFactory.AssemblyInfoInputs.cache
+C:\Users\kosta\source\repos\Arrays\KaminoFactory\obj\Debug\net5.0\KaminoFactory.AssemblyInfo.cs
+C:\Users\kosta\source\repos\Arrays\KaminoFactory\obj\Debug\net5.0\KaminoFactory.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\Arrays\KaminoFactory\obj\Debug\net5.0\KaminoFactory.dll
+C:\Users\kosta\source\repos\Arrays\KaminoFactory\obj\Debug\net5.0\ref\KaminoFactory.dll
+C:\Users\kosta\source\repos\Arrays\KaminoFactory\obj\Debug\net5.0\KaminoFactory.pdb
+C:\Users\kosta\source\repos\Arrays\KaminoFactory\obj\Debug\net5.0\KaminoFactory.genruntimeconfig.cache
