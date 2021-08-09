@@ -1,0 +1,15 @@
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\MiddleChars\bin\Debug\net5.0\MiddleChars.exe
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\MiddleChars\bin\Debug\net5.0\MiddleChars.deps.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\MiddleChars\bin\Debug\net5.0\MiddleChars.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\MiddleChars\bin\Debug\net5.0\MiddleChars.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\MiddleChars\bin\Debug\net5.0\MiddleChars.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\MiddleChars\bin\Debug\net5.0\ref\MiddleChars.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\MiddleChars\bin\Debug\net5.0\MiddleChars.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\MiddleChars\obj\Debug\net5.0\MiddleChars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\MiddleChars\obj\Debug\net5.0\MiddleChars.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\MiddleChars\obj\Debug\net5.0\MiddleChars.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\MiddleChars\obj\Debug\net5.0\MiddleChars.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\MiddleChars\obj\Debug\net5.0\MiddleChars.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\MiddleChars\obj\Debug\net5.0\ref\MiddleChars.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\MiddleChars\obj\Debug\net5.0\MiddleChars.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\MiddleChars\obj\Debug\net5.0\MiddleChars.genruntimeconfig.cache

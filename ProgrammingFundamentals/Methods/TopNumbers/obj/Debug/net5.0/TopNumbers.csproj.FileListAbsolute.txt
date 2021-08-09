@@ -1,0 +1,15 @@
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\TopNumbers\obj\Debug\net5.0\TopNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\TopNumbers\obj\Debug\net5.0\TopNumbers.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\TopNumbers\obj\Debug\net5.0\TopNumbers.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\TopNumbers\obj\Debug\net5.0\TopNumbers.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\TopNumbers\bin\Debug\net5.0\TopNumbers.exe
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\TopNumbers\bin\Debug\net5.0\TopNumbers.deps.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\TopNumbers\bin\Debug\net5.0\TopNumbers.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\TopNumbers\bin\Debug\net5.0\TopNumbers.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\TopNumbers\bin\Debug\net5.0\TopNumbers.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\TopNumbers\bin\Debug\net5.0\ref\TopNumbers.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\TopNumbers\bin\Debug\net5.0\TopNumbers.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\TopNumbers\obj\Debug\net5.0\TopNumbers.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\TopNumbers\obj\Debug\net5.0\ref\TopNumbers.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\TopNumbers\obj\Debug\net5.0\TopNumbers.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\TopNumbers\obj\Debug\net5.0\TopNumbers.genruntimeconfig.cache

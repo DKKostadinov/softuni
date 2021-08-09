@@ -1,0 +1,16 @@
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\CharsInRange\bin\Debug\net5.0\CharsInRange.exe
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\CharsInRange\bin\Debug\net5.0\CharsInRange.deps.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\CharsInRange\bin\Debug\net5.0\CharsInRange.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\CharsInRange\bin\Debug\net5.0\CharsInRange.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\CharsInRange\bin\Debug\net5.0\CharsInRange.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\CharsInRange\bin\Debug\net5.0\ref\CharsInRange.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\CharsInRange\bin\Debug\net5.0\CharsInRange.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\CharsInRange\obj\Debug\net5.0\CharsInRange.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\CharsInRange\obj\Debug\net5.0\CharsInRange.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\CharsInRange\obj\Debug\net5.0\CharsInRange.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\CharsInRange\obj\Debug\net5.0\CharsInRange.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\CharsInRange\obj\Debug\net5.0\CharsInRange.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\CharsInRange\obj\Debug\net5.0\CharsInRange.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\CharsInRange\obj\Debug\net5.0\ref\CharsInRange.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\CharsInRange\obj\Debug\net5.0\CharsInRange.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\CharsInRange\obj\Debug\net5.0\CharsInRange.genruntimeconfig.cache

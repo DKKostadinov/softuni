@@ -1,0 +1,15 @@
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\Palindrome\bin\Debug\net5.0\Palindrome.exe
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\Palindrome\bin\Debug\net5.0\Palindrome.deps.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\Palindrome\bin\Debug\net5.0\Palindrome.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\Palindrome\bin\Debug\net5.0\Palindrome.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\Palindrome\bin\Debug\net5.0\Palindrome.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\Palindrome\bin\Debug\net5.0\ref\Palindrome.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\Palindrome\bin\Debug\net5.0\Palindrome.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\Palindrome\obj\Debug\net5.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\Palindrome\obj\Debug\net5.0\Palindrome.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\Palindrome\obj\Debug\net5.0\Palindrome.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\Palindrome\obj\Debug\net5.0\Palindrome.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\Palindrome\obj\Debug\net5.0\Palindrome.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\Palindrome\obj\Debug\net5.0\ref\Palindrome.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\Palindrome\obj\Debug\net5.0\Palindrome.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\Palindrome\obj\Debug\net5.0\Palindrome.genruntimeconfig.cache

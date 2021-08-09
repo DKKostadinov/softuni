@@ -1,0 +1,15 @@
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\FactorialDivision\bin\Debug\net5.0\FactorialDivision.exe
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\FactorialDivision\bin\Debug\net5.0\FactorialDivision.deps.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\FactorialDivision\bin\Debug\net5.0\FactorialDivision.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\FactorialDivision\bin\Debug\net5.0\FactorialDivision.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\FactorialDivision\bin\Debug\net5.0\FactorialDivision.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\FactorialDivision\bin\Debug\net5.0\ref\FactorialDivision.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\FactorialDivision\bin\Debug\net5.0\FactorialDivision.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\FactorialDivision\obj\Debug\net5.0\FactorialDivision.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\FactorialDivision\obj\Debug\net5.0\FactorialDivision.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\FactorialDivision\obj\Debug\net5.0\FactorialDivision.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\FactorialDivision\obj\Debug\net5.0\FactorialDivision.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\FactorialDivision\obj\Debug\net5.0\FactorialDivision.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\FactorialDivision\obj\Debug\net5.0\ref\FactorialDivision.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\FactorialDivision\obj\Debug\net5.0\FactorialDivision.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Methods\FactorialDivision\obj\Debug\net5.0\FactorialDivision.genruntimeconfig.cache
