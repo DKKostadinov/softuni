@@ -1,0 +1,15 @@
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\CompanyUsers\bin\Debug\net5.0\CompanyUsers.exe
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\CompanyUsers\bin\Debug\net5.0\CompanyUsers.deps.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\CompanyUsers\bin\Debug\net5.0\CompanyUsers.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\CompanyUsers\bin\Debug\net5.0\CompanyUsers.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\CompanyUsers\bin\Debug\net5.0\CompanyUsers.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\CompanyUsers\bin\Debug\net5.0\ref\CompanyUsers.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\CompanyUsers\bin\Debug\net5.0\CompanyUsers.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\CompanyUsers\obj\Debug\net5.0\CompanyUsers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\CompanyUsers\obj\Debug\net5.0\CompanyUsers.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\CompanyUsers\obj\Debug\net5.0\CompanyUsers.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\CompanyUsers\obj\Debug\net5.0\CompanyUsers.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\CompanyUsers\obj\Debug\net5.0\CompanyUsers.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\CompanyUsers\obj\Debug\net5.0\ref\CompanyUsers.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\CompanyUsers\obj\Debug\net5.0\CompanyUsers.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\CompanyUsers\obj\Debug\net5.0\CompanyUsers.genruntimeconfig.cache

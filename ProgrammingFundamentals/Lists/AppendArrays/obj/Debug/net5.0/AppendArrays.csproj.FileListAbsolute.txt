@@ -1,0 +1,16 @@
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\AppendArrays\bin\Debug\net5.0\AppendArrays.exe
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\AppendArrays\bin\Debug\net5.0\AppendArrays.deps.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\AppendArrays\bin\Debug\net5.0\AppendArrays.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\AppendArrays\bin\Debug\net5.0\AppendArrays.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\AppendArrays\bin\Debug\net5.0\AppendArrays.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\AppendArrays\bin\Debug\net5.0\ref\AppendArrays.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\AppendArrays\bin\Debug\net5.0\AppendArrays.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\AppendArrays\obj\Debug\net5.0\AppendArrays.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\AppendArrays\obj\Debug\net5.0\AppendArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\AppendArrays\obj\Debug\net5.0\AppendArrays.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\AppendArrays\obj\Debug\net5.0\AppendArrays.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\AppendArrays\obj\Debug\net5.0\AppendArrays.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\AppendArrays\obj\Debug\net5.0\AppendArrays.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\AppendArrays\obj\Debug\net5.0\ref\AppendArrays.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\AppendArrays\obj\Debug\net5.0\AppendArrays.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\AppendArrays\obj\Debug\net5.0\AppendArrays.genruntimeconfig.cache

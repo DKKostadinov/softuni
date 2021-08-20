@@ -1,0 +1,16 @@
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\Students\bin\Debug\net5.0\Students.exe
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\Students\bin\Debug\net5.0\Students.deps.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\Students\bin\Debug\net5.0\Students.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\Students\bin\Debug\net5.0\Students.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\Students\bin\Debug\net5.0\Students.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\Students\bin\Debug\net5.0\ref\Students.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\Students\bin\Debug\net5.0\Students.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\Students\obj\Debug\net5.0\Students.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\Students\obj\Debug\net5.0\Students.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\Students\obj\Debug\net5.0\Students.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\Students\obj\Debug\net5.0\Students.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\Students\obj\Debug\net5.0\Students.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\Students\obj\Debug\net5.0\Students.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\Students\obj\Debug\net5.0\ref\Students.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\Students\obj\Debug\net5.0\Students.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\Students\obj\Debug\net5.0\Students.genruntimeconfig.cache

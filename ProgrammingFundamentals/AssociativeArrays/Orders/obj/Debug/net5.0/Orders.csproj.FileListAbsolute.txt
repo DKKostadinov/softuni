@@ -1,0 +1,16 @@
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\Orders\bin\Debug\net5.0\Orders.exe
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\Orders\bin\Debug\net5.0\Orders.deps.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\Orders\bin\Debug\net5.0\Orders.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\Orders\bin\Debug\net5.0\Orders.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\Orders\bin\Debug\net5.0\Orders.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\Orders\bin\Debug\net5.0\ref\Orders.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\Orders\bin\Debug\net5.0\Orders.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\Orders\obj\Debug\net5.0\Orders.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\Orders\obj\Debug\net5.0\Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\Orders\obj\Debug\net5.0\Orders.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\Orders\obj\Debug\net5.0\Orders.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\Orders\obj\Debug\net5.0\Orders.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\Orders\obj\Debug\net5.0\Orders.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\Orders\obj\Debug\net5.0\ref\Orders.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\Orders\obj\Debug\net5.0\Orders.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\Orders\obj\Debug\net5.0\Orders.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\CardsGame\bin\Debug\net5.0\CardsGame.exe
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\CardsGame\bin\Debug\net5.0\CardsGame.deps.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\CardsGame\bin\Debug\net5.0\CardsGame.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\CardsGame\bin\Debug\net5.0\CardsGame.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\CardsGame\bin\Debug\net5.0\CardsGame.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\CardsGame\bin\Debug\net5.0\ref\CardsGame.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\CardsGame\bin\Debug\net5.0\CardsGame.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\CardsGame\obj\Debug\net5.0\CardsGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\CardsGame\obj\Debug\net5.0\CardsGame.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\CardsGame\obj\Debug\net5.0\CardsGame.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\CardsGame\obj\Debug\net5.0\CardsGame.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\CardsGame\obj\Debug\net5.0\CardsGame.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\CardsGame\obj\Debug\net5.0\ref\CardsGame.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\CardsGame\obj\Debug\net5.0\CardsGame.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\CardsGame\obj\Debug\net5.0\CardsGame.genruntimeconfig.cache

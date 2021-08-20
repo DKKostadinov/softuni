@@ -1,0 +1,16 @@
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\AdMsg\bin\Debug\net5.0\AdMsg.exe
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\AdMsg\bin\Debug\net5.0\AdMsg.deps.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\AdMsg\bin\Debug\net5.0\AdMsg.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\AdMsg\bin\Debug\net5.0\AdMsg.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\AdMsg\bin\Debug\net5.0\AdMsg.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\AdMsg\bin\Debug\net5.0\ref\AdMsg.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\AdMsg\bin\Debug\net5.0\AdMsg.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\AdMsg\obj\Debug\net5.0\AdMsg.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\AdMsg\obj\Debug\net5.0\AdMsg.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\AdMsg\obj\Debug\net5.0\AdMsg.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\AdMsg\obj\Debug\net5.0\AdMsg.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\AdMsg\obj\Debug\net5.0\AdMsg.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\AdMsg\obj\Debug\net5.0\AdMsg.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\AdMsg\obj\Debug\net5.0\ref\AdMsg.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\AdMsg\obj\Debug\net5.0\AdMsg.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\AdMsg\obj\Debug\net5.0\AdMsg.genruntimeconfig.cache

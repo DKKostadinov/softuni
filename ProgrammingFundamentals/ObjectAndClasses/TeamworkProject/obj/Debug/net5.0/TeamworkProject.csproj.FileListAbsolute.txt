@@ -1,0 +1,16 @@
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\TeamworkProject\bin\Debug\net5.0\TeamworkProject.exe
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\TeamworkProject\bin\Debug\net5.0\TeamworkProject.deps.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\TeamworkProject\bin\Debug\net5.0\TeamworkProject.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\TeamworkProject\bin\Debug\net5.0\TeamworkProject.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\TeamworkProject\bin\Debug\net5.0\TeamworkProject.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\TeamworkProject\bin\Debug\net5.0\ref\TeamworkProject.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\TeamworkProject\bin\Debug\net5.0\TeamworkProject.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\TeamworkProject\obj\Debug\net5.0\TeamworkProject.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\TeamworkProject\obj\Debug\net5.0\TeamworkProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\TeamworkProject\obj\Debug\net5.0\TeamworkProject.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\TeamworkProject\obj\Debug\net5.0\TeamworkProject.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\TeamworkProject\obj\Debug\net5.0\TeamworkProject.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\TeamworkProject\obj\Debug\net5.0\TeamworkProject.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\TeamworkProject\obj\Debug\net5.0\ref\TeamworkProject.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\TeamworkProject\obj\Debug\net5.0\TeamworkProject.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\TeamworkProject\obj\Debug\net5.0\TeamworkProject.genruntimeconfig.cache

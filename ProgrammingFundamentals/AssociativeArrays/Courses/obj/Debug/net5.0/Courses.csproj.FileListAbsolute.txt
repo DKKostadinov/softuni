@@ -1,0 +1,16 @@
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\Courses\bin\Debug\net5.0\Courses.exe
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\Courses\bin\Debug\net5.0\Courses.deps.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\Courses\bin\Debug\net5.0\Courses.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\Courses\bin\Debug\net5.0\Courses.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\Courses\bin\Debug\net5.0\Courses.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\Courses\bin\Debug\net5.0\ref\Courses.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\Courses\bin\Debug\net5.0\Courses.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\Courses\obj\Debug\net5.0\Courses.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\Courses\obj\Debug\net5.0\Courses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\Courses\obj\Debug\net5.0\Courses.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\Courses\obj\Debug\net5.0\Courses.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\Courses\obj\Debug\net5.0\Courses.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\Courses\obj\Debug\net5.0\Courses.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\Courses\obj\Debug\net5.0\ref\Courses.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\Courses\obj\Debug\net5.0\Courses.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\Courses\obj\Debug\net5.0\Courses.genruntimeconfig.cache

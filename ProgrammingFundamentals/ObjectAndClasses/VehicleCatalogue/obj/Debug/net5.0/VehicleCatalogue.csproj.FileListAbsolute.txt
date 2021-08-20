@@ -1,0 +1,15 @@
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\VehicleCatalogue\bin\Debug\net5.0\VehicleCatalogue.exe
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\VehicleCatalogue\bin\Debug\net5.0\VehicleCatalogue.deps.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\VehicleCatalogue\bin\Debug\net5.0\VehicleCatalogue.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\VehicleCatalogue\bin\Debug\net5.0\VehicleCatalogue.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\VehicleCatalogue\bin\Debug\net5.0\VehicleCatalogue.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\VehicleCatalogue\bin\Debug\net5.0\ref\VehicleCatalogue.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\VehicleCatalogue\bin\Debug\net5.0\VehicleCatalogue.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\VehicleCatalogue\obj\Debug\net5.0\VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\VehicleCatalogue\obj\Debug\net5.0\VehicleCatalogue.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\VehicleCatalogue\obj\Debug\net5.0\VehicleCatalogue.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\VehicleCatalogue\obj\Debug\net5.0\VehicleCatalogue.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\VehicleCatalogue\obj\Debug\net5.0\VehicleCatalogue.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\VehicleCatalogue\obj\Debug\net5.0\ref\VehicleCatalogue.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\VehicleCatalogue\obj\Debug\net5.0\VehicleCatalogue.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\ObjectAndClasses\VehicleCatalogue\obj\Debug\net5.0\VehicleCatalogue.genruntimeconfig.cache

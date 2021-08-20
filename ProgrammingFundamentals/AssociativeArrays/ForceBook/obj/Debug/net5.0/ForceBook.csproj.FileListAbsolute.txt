@@ -1,0 +1,16 @@
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\ForceBook\bin\Debug\net5.0\ForceBook.exe
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\ForceBook\bin\Debug\net5.0\ForceBook.deps.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\ForceBook\bin\Debug\net5.0\ForceBook.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\ForceBook\bin\Debug\net5.0\ForceBook.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\ForceBook\bin\Debug\net5.0\ForceBook.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\ForceBook\bin\Debug\net5.0\ref\ForceBook.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\ForceBook\bin\Debug\net5.0\ForceBook.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\ForceBook\obj\Debug\net5.0\ForceBook.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\ForceBook\obj\Debug\net5.0\ForceBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\ForceBook\obj\Debug\net5.0\ForceBook.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\ForceBook\obj\Debug\net5.0\ForceBook.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\ForceBook\obj\Debug\net5.0\ForceBook.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\ForceBook\obj\Debug\net5.0\ForceBook.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\ForceBook\obj\Debug\net5.0\ref\ForceBook.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\ForceBook\obj\Debug\net5.0\ForceBook.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\ForceBook\obj\Debug\net5.0\ForceBook.genruntimeconfig.cache

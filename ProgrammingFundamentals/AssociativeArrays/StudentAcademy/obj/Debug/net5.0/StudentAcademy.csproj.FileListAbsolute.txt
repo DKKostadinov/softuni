@@ -1,0 +1,15 @@
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\StudentAcademy\bin\Debug\net5.0\StudentAcademy.exe
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\StudentAcademy\bin\Debug\net5.0\StudentAcademy.deps.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\StudentAcademy\bin\Debug\net5.0\StudentAcademy.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\StudentAcademy\bin\Debug\net5.0\StudentAcademy.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\StudentAcademy\bin\Debug\net5.0\StudentAcademy.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\StudentAcademy\bin\Debug\net5.0\ref\StudentAcademy.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\StudentAcademy\bin\Debug\net5.0\StudentAcademy.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\StudentAcademy\obj\Debug\net5.0\StudentAcademy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\StudentAcademy\obj\Debug\net5.0\StudentAcademy.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\StudentAcademy\obj\Debug\net5.0\StudentAcademy.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\StudentAcademy\obj\Debug\net5.0\StudentAcademy.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\StudentAcademy\obj\Debug\net5.0\StudentAcademy.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\StudentAcademy\obj\Debug\net5.0\ref\StudentAcademy.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\StudentAcademy\obj\Debug\net5.0\StudentAcademy.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\StudentAcademy\obj\Debug\net5.0\StudentAcademy.genruntimeconfig.cache

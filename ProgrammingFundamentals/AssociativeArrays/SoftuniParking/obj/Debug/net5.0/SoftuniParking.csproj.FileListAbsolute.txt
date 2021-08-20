@@ -1,0 +1,16 @@
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\SoftuniParking\bin\Debug\net5.0\SoftuniParking.exe
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\SoftuniParking\bin\Debug\net5.0\SoftuniParking.deps.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\SoftuniParking\bin\Debug\net5.0\SoftuniParking.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\SoftuniParking\bin\Debug\net5.0\SoftuniParking.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\SoftuniParking\bin\Debug\net5.0\SoftuniParking.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\SoftuniParking\bin\Debug\net5.0\ref\SoftuniParking.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\SoftuniParking\bin\Debug\net5.0\SoftuniParking.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\SoftuniParking\obj\Debug\net5.0\SoftuniParking.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\SoftuniParking\obj\Debug\net5.0\SoftuniParking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\SoftuniParking\obj\Debug\net5.0\SoftuniParking.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\SoftuniParking\obj\Debug\net5.0\SoftuniParking.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\SoftuniParking\obj\Debug\net5.0\SoftuniParking.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\SoftuniParking\obj\Debug\net5.0\SoftuniParking.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\SoftuniParking\obj\Debug\net5.0\ref\SoftuniParking.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\SoftuniParking\obj\Debug\net5.0\SoftuniParking.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\SoftuniParking\obj\Debug\net5.0\SoftuniParking.genruntimeconfig.cache

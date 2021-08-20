@@ -1,0 +1,16 @@
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\ListOperations\bin\Debug\net5.0\ListOperations.exe
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\ListOperations\bin\Debug\net5.0\ListOperations.deps.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\ListOperations\bin\Debug\net5.0\ListOperations.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\ListOperations\bin\Debug\net5.0\ListOperations.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\ListOperations\bin\Debug\net5.0\ListOperations.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\ListOperations\bin\Debug\net5.0\ref\ListOperations.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\ListOperations\bin\Debug\net5.0\ListOperations.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\ListOperations\obj\Debug\net5.0\ListOperations.csproj.AssemblyReference.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\ListOperations\obj\Debug\net5.0\ListOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\ListOperations\obj\Debug\net5.0\ListOperations.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\ListOperations\obj\Debug\net5.0\ListOperations.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\ListOperations\obj\Debug\net5.0\ListOperations.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\ListOperations\obj\Debug\net5.0\ListOperations.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\ListOperations\obj\Debug\net5.0\ref\ListOperations.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\ListOperations\obj\Debug\net5.0\ListOperations.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\Lists\ListOperations\obj\Debug\net5.0\ListOperations.genruntimeconfig.cache

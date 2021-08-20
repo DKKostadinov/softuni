@@ -1,0 +1,15 @@
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\SoftuniExamResults\bin\Debug\net5.0\SoftuniExamResults.exe
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\SoftuniExamResults\bin\Debug\net5.0\SoftuniExamResults.deps.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\SoftuniExamResults\bin\Debug\net5.0\SoftuniExamResults.runtimeconfig.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\SoftuniExamResults\bin\Debug\net5.0\SoftuniExamResults.runtimeconfig.dev.json
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\SoftuniExamResults\bin\Debug\net5.0\SoftuniExamResults.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\SoftuniExamResults\bin\Debug\net5.0\ref\SoftuniExamResults.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\SoftuniExamResults\bin\Debug\net5.0\SoftuniExamResults.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\SoftuniExamResults\obj\Debug\net5.0\SoftuniExamResults.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\SoftuniExamResults\obj\Debug\net5.0\SoftuniExamResults.AssemblyInfoInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\SoftuniExamResults\obj\Debug\net5.0\SoftuniExamResults.AssemblyInfo.cs
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\SoftuniExamResults\obj\Debug\net5.0\SoftuniExamResults.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\SoftuniExamResults\obj\Debug\net5.0\SoftuniExamResults.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\SoftuniExamResults\obj\Debug\net5.0\ref\SoftuniExamResults.dll
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\SoftuniExamResults\obj\Debug\net5.0\SoftuniExamResults.pdb
+D:\Documents\GitHub\softuni\ProgrammingFundamentals\AssociativeArrays\SoftuniExamResults\obj\Debug\net5.0\SoftuniExamResults.genruntimeconfig.cache
